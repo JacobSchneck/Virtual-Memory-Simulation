@@ -1,0 +1,1 @@
+/mnt/c/Users/schne/Desktop/Extra/programming_projects/Virtual-Memory-Simulation/Virtual_Memory_Management/target/debug/libVirtual_Memory_Management.rlib: /mnt/c/Users/schne/Desktop/Extra/programming_projects/Virtual-Memory-Simulation/Virtual_Memory_Management/src/lib.rs
