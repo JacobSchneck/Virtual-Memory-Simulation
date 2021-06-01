@@ -1,0 +1,1412 @@
+* Virtual Address: 16916 [66, 20] Physical Address: 20 [0, 20]
+* Virtual Address: 62493 [244, 29] Physical Address: 285 [1, 29]
+* Virtual Address: 30198 [117, 246] Physical Address: 758 [2, 246]
+* Virtual Address: 53683 [209, 179] Physical Address: 947 [3, 179]
+* Virtual Address: 40185 [156, 249] Physical Address: 1273 [4, 249]
+* Virtual Address: 28781 [112, 109] Physical Address: 1389 [5, 109]
+* Virtual Address: 24462 [95, 142] Physical Address: 1678 [6, 142]
+* Virtual Address: 48399 [189, 15] Physical Address: 1807 [7, 15]
+* Virtual Address: 64815 [253, 47] Physical Address: 2095 [8, 47]
+* Virtual Address: 18295 [71, 119] Physical Address: 2423 [9, 119]
+* Virtual Address: 12218 [47, 186] Physical Address: 2746 [10, 186]
+* Virtual Address: 22760 [88, 232] Physical Address: 3048 [11, 232]
+* Virtual Address: 57982 [226, 126] Physical Address: 3198 [12, 126]
+* Virtual Address: 27966 [109, 62] Physical Address: 3390 [13, 62]
+* Virtual Address: 54894 [214, 110] Physical Address: 3694 [14, 110]
+* Virtual Address: 38929 [152, 17] Physical Address: 3857 [15, 17]
+* Virtual Address: 32865 [128, 97] Physical Address: 4193 [16, 97]
+* Virtual Address: 64243 [250, 243] Physical Address: 4595 [17, 243]
+* Virtual Address: 2315 [9, 11] Physical Address: 4619 [18, 11]
+* Virtual Address: 64454 [251, 198] Physical Address: 5062 [19, 198]
+* Virtual Address: 55041 [215, 1] Physical Address: 5121 [20, 1]
+* Virtual Address: 18633 [72, 201] Physical Address: 5577 [21, 201]
+* Virtual Address: 14557 [56, 221] Physical Address: 5853 [22, 221]
+* Virtual Address: 61006 [238, 78] Physical Address: 5966 [23, 78]
+Virtual Address: 62615 [244, 151] Physical Address: 407 [1, 151]
+* Virtual Address: 7591 [29, 167] Physical Address: 6311 [24, 167]
+* Virtual Address: 64747 [252, 235] Physical Address: 6635 [25, 235]
+* Virtual Address: 6727 [26, 71] Physical Address: 6727 [26, 71]
+* Virtual Address: 32315 [126, 59] Physical Address: 6971 [27, 59]
+* Virtual Address: 60645 [236, 229] Physical Address: 7397 [28, 229]
+* Virtual Address: 6308 [24, 164] Physical Address: 7588 [29, 164]
+* Virtual Address: 45688 [178, 120] Physical Address: 7800 [30, 120]
+* Virtual Address: 969 [3, 201] Physical Address: 8137 [31, 201]
+* Virtual Address: 40891 [159, 187] Physical Address: 8379 [32, 187]
+* Virtual Address: 49294 [192, 142] Physical Address: 8590 [33, 142]
+* Virtual Address: 41118 [160, 158] Physical Address: 8862 [34, 158]
+* Virtual Address: 21395 [83, 147] Physical Address: 9107 [35, 147]
+* Virtual Address: 6091 [23, 203] Physical Address: 9419 [36, 203]
+* Virtual Address: 32541 [127, 29] Physical Address: 9501 [37, 29]
+* Virtual Address: 17665 [69, 1] Physical Address: 9729 [38, 1]
+* Virtual Address: 3784 [14, 200] Physical Address: 10184 [39, 200]
+Virtual Address: 28718 [112, 46] Physical Address: 1326 [5, 46]
+* Virtual Address: 59240 [231, 104] Physical Address: 10344 [40, 104]
+Virtual Address: 40178 [156, 242] Physical Address: 1266 [4, 242]
+* Virtual Address: 60086 [234, 182] Physical Address: 10678 [41, 182]
+* Virtual Address: 42252 [165, 12] Physical Address: 10764 [42, 12]
+* Virtual Address: 44770 [174, 226] Physical Address: 11234 [43, 226]
+* Virtual Address: 22514 [87, 242] Physical Address: 11506 [44, 242]
+* Virtual Address: 3067 [11, 251] Physical Address: 11771 [45, 251]
+* Virtual Address: 15757 [61, 141] Physical Address: 11917 [46, 141]
+* Virtual Address: 31649 [123, 161] Physical Address: 12193 [47, 161]
+* Virtual Address: 10842 [42, 90] Physical Address: 12378 [48, 90]
+* Virtual Address: 43765 [170, 245] Physical Address: 12789 [49, 245]
+* Virtual Address: 33405 [130, 125] Physical Address: 12925 [50, 125]
+* Virtual Address: 44954 [175, 154] Physical Address: 13210 [51, 154]
+* Virtual Address: 56657 [221, 81] Physical Address: 13393 [52, 81]
+* Virtual Address: 5003 [19, 139] Physical Address: 13707 [53, 139]
+* Virtual Address: 50227 [196, 51] Physical Address: 13875 [54, 51]
+* Virtual Address: 19358 [75, 158] Physical Address: 14238 [55, 158]
+* Virtual Address: 36529 [142, 177] Physical Address: 14513 [56, 177]
+* Virtual Address: 10392 [40, 152] Physical Address: 14744 [57, 152]
+* Virtual Address: 58882 [230, 2] Physical Address: 14850 [58, 2]
+* Virtual Address: 5129 [20, 9] Physical Address: 15113 [59, 9]
+* Virtual Address: 58554 [228, 186] Physical Address: 15546 [60, 186]
+Virtual Address: 58584 [228, 216] Physical Address: 15576 [60, 216]
+* Virtual Address: 27444 [107, 52] Physical Address: 15668 [61, 52]
+Virtual Address: 58982 [230, 102] Physical Address: 14950 [58, 102]
+* Virtual Address: 51476 [201, 20] Physical Address: 15892 [62, 20]
+Virtual Address: 6796 [26, 140] Physical Address: 6796 [26, 140]
+Virtual Address: 21311 [83, 63] Physical Address: 9023 [35, 63]
+* Virtual Address: 30705 [119, 241] Physical Address: 16369 [63, 241]
+* Virtual Address: 28964 [113, 36] Physical Address: 16420 [64, 36]
+Virtual Address: 41003 [160, 43] Physical Address: 8747 [34, 43]
+* Virtual Address: 20259 [79, 35] Physical Address: 16675 [65, 35]
+Virtual Address: 57857 [226, 1] Physical Address: 3073 [12, 1]
+* Virtual Address: 63258 [247, 26] Physical Address: 16922 [66, 26]
+Virtual Address: 36374 [142, 22] Physical Address: 14358 [56, 22]
+* Virtual Address: 692 [2, 180] Physical Address: 17332 [67, 180]
+* Virtual Address: 43121 [168, 113] Physical Address: 17521 [68, 113]
+* Virtual Address: 48128 [188, 0] Physical Address: 17664 [69, 0]
+* Virtual Address: 34561 [135, 1] Physical Address: 17921 [70, 1]
+Virtual Address: 49213 [192, 61] Physical Address: 8509 [33, 61]
+* Virtual Address: 36922 [144, 58] Physical Address: 18234 [71, 58]
+Virtual Address: 59162 [231, 26] Physical Address: 10266 [40, 26]
+* Virtual Address: 50552 [197, 120] Physical Address: 18552 [72, 120]
+Virtual Address: 17866 [69, 202] Physical Address: 9930 [38, 202]
+* Virtual Address: 18145 [70, 225] Physical Address: 18913 [73, 225]
+* Virtual Address: 3884 [15, 44] Physical Address: 18988 [74, 44]
+* Virtual Address: 54388 [212, 116] Physical Address: 19316 [75, 116]
+* Virtual Address: 42932 [167, 180] Physical Address: 19636 [76, 180]
+* Virtual Address: 46919 [183, 71] Physical Address: 19783 [77, 71]
+Virtual Address: 58892 [230, 12] Physical Address: 14860 [58, 12]
+* Virtual Address: 8620 [33, 172] Physical Address: 20140 [78, 172]
+* Virtual Address: 38336 [149, 192] Physical Address: 20416 [79, 192]
+Virtual Address: 64357 [251, 101] Physical Address: 4965 [19, 101]
+* Virtual Address: 23387 [91, 91] Physical Address: 20571 [80, 91]
+* Virtual Address: 42632 [166, 136] Physical Address: 20872 [81, 136]
+* Virtual Address: 15913 [62, 41] Physical Address: 21033 [82, 41]
+Virtual Address: 15679 [61, 63] Physical Address: 11839 [46, 63]
+Virtual Address: 22501 [87, 229] Physical Address: 11493 [44, 229]
+* Virtual Address: 37540 [146, 164] Physical Address: 21412 [83, 164]
+* Virtual Address: 5527 [21, 151] Physical Address: 21655 [84, 151]
+* Virtual Address: 63921 [249, 177] Physical Address: 21937 [85, 177]
+Virtual Address: 62716 [244, 252] Physical Address: 508 [1, 252]
+Virtual Address: 32874 [128, 106] Physical Address: 4202 [16, 106]
+Virtual Address: 64390 [251, 134] Physical Address: 4998 [19, 134]
+* Virtual Address: 63101 [246, 125] Physical Address: 22141 [86, 125]
+* Virtual Address: 61802 [241, 106] Physical Address: 22378 [87, 106]
+* Virtual Address: 19648 [76, 192] Physical Address: 22720 [88, 192]
+Virtual Address: 29031 [113, 103] Physical Address: 16487 [64, 103]
+Virtual Address: 44981 [175, 181] Physical Address: 13237 [51, 181]
+Virtual Address: 28092 [109, 188] Physical Address: 3516 [13, 188]
+* Virtual Address: 9448 [36, 232] Physical Address: 23016 [89, 232]
+Virtual Address: 44744 [174, 200] Physical Address: 11208 [43, 200]
+* Virtual Address: 61496 [240, 56] Physical Address: 23096 [90, 56]
+* Virtual Address: 31453 [122, 221] Physical Address: 23517 [91, 221]
+* Virtual Address: 60746 [237, 74] Physical Address: 23626 [92, 74]
+Virtual Address: 12199 [47, 167] Physical Address: 2727 [10, 167]
+* Virtual Address: 62255 [243, 47] Physical Address: 23855 [93, 47]
+* Virtual Address: 21793 [85, 33] Physical Address: 24097 [94, 33]
+* Virtual Address: 26544 [103, 176] Physical Address: 24496 [95, 176]
+* Virtual Address: 14964 [58, 116] Physical Address: 24692 [96, 116]
+* Virtual Address: 41462 [161, 246] Physical Address: 25078 [97, 246]
+* Virtual Address: 56089 [219, 25] Physical Address: 25113 [98, 25]
+* Virtual Address: 52038 [203, 70] Physical Address: 25414 [99, 70]
+* Virtual Address: 47982 [187, 110] Physical Address: 25710 [100, 110]
+* Virtual Address: 59484 [232, 92] Physical Address: 25948 [101, 92]
+* Virtual Address: 50924 [198, 236] Physical Address: 26348 [102, 236]
+* Virtual Address: 6942 [27, 30] Physical Address: 26398 [103, 30]
+* Virtual Address: 34998 [136, 182] Physical Address: 26806 [104, 182]
+* Virtual Address: 27069 [105, 189] Physical Address: 27069 [105, 189]
+* Virtual Address: 51926 [202, 214] Physical Address: 27350 [106, 214]
+Virtual Address: 60645 [236, 229] Physical Address: 7397 [28, 229]
+Virtual Address: 43181 [168, 173] Physical Address: 17581 [68, 173]
+* Virtual Address: 10559 [41, 63] Physical Address: 27455 [107, 63]
+* Virtual Address: 4664 [18, 56] Physical Address: 27704 [108, 56]
+* Virtual Address: 28578 [111, 162] Physical Address: 28066 [109, 162]
+Virtual Address: 59516 [232, 124] Physical Address: 25980 [101, 124]
+Virtual Address: 38912 [152, 0] Physical Address: 3840 [15, 0]
+* Virtual Address: 63562 [248, 74] Physical Address: 28234 [110, 74]
+Virtual Address: 64846 [253, 78] Physical Address: 2126 [8, 78]
+* Virtual Address: 62938 [245, 218] Physical Address: 28634 [111, 218]
+* Virtual Address: 27194 [106, 58] Physical Address: 28730 [112, 58]
+Virtual Address: 28804 [112, 132] Physical Address: 1412 [5, 132]
+Virtual Address: 61703 [241, 7] Physical Address: 22279 [87, 7]
+Virtual Address: 10998 [42, 246] Physical Address: 12534 [48, 246]
+* Virtual Address: 6596 [25, 196] Physical Address: 29124 [113, 196]
+* Virtual Address: 37721 [147, 89] Physical Address: 29273 [114, 89]
+* Virtual Address: 43430 [169, 166] Physical Address: 29606 [115, 166]
+Virtual Address: 22692 [88, 164] Physical Address: 2980 [11, 164]
+Virtual Address: 62971 [245, 251] Physical Address: 28667 [111, 251]
+* Virtual Address: 47125 [184, 21] Physical Address: 29717 [116, 21]
+* Virtual Address: 52521 [205, 41] Physical Address: 29993 [117, 41]
+Virtual Address: 34646 [135, 86] Physical Address: 18006 [70, 86]
+Virtual Address: 32889 [128, 121] Physical Address: 4217 [16, 121]
+* Virtual Address: 13055 [50, 255] Physical Address: 30463 [118, 255]
+* Virtual Address: 65416 [255, 136] Physical Address: 30600 [119, 136]
+Virtual Address: 62869 [245, 149] Physical Address: 28565 [111, 149]
+* Virtual Address: 57314 [223, 226] Physical Address: 30946 [120, 226]
+* Virtual Address: 12659 [49, 115] Physical Address: 31091 [121, 115]
+* Virtual Address: 14052 [54, 228] Physical Address: 31460 [122, 228]
+Virtual Address: 32956 [128, 188] Physical Address: 4284 [16, 188]
+Virtual Address: 49273 [192, 121] Physical Address: 8569 [33, 121]
+Virtual Address: 50352 [196, 176] Physical Address: 14000 [54, 176]
+* Virtual Address: 49737 [194, 73] Physical Address: 31561 [123, 73]
+* Virtual Address: 15555 [60, 195] Physical Address: 31939 [124, 195]
+* Virtual Address: 47475 [185, 115] Physical Address: 32115 [125, 115]
+* Virtual Address: 15328 [59, 224] Physical Address: 32480 [126, 224]
+Virtual Address: 34621 [135, 61] Physical Address: 17981 [70, 61]
+* Virtual Address: 51365 [200, 165] Physical Address: 32677 [127, 165]
+Virtual Address: 32820 [128, 52] Physical Address: 4148 [16, 52]
+EVICT! Oldest frame is 0, (age = 0)
+* Virtual Address: 48855 [190, 215] Physical Address: 215 [0, 215]
+Virtual Address: 12224 [47, 192] Physical Address: 2752 [10, 192]
+EVICT! Oldest frame is 2, (age = 2)
+* Virtual Address: 2035 [7, 243] Physical Address: 755 [2, 243]
+Virtual Address: 60539 [236, 123] Physical Address: 7291 [28, 123]
+EVICT! Oldest frame is 3, (age = 3)
+* Virtual Address: 14595 [57, 3] Physical Address: 771 [3, 3]
+Virtual Address: 13853 [54, 29] Physical Address: 31261 [122, 29]
+EVICT! Oldest frame is 6, (age = 6)
+* Virtual Address: 24143 [94, 79] Physical Address: 1615 [6, 79]
+Virtual Address: 15216 [59, 112] Physical Address: 32368 [126, 112]
+EVICT! Oldest frame is 7, (age = 7)
+* Virtual Address: 8113 [31, 177] Physical Address: 1969 [7, 177]
+Virtual Address: 22640 [88, 112] Physical Address: 2928 [11, 112]
+Virtual Address: 32978 [128, 210] Physical Address: 4306 [16, 210]
+Virtual Address: 39151 [152, 239] Physical Address: 4079 [15, 239]
+Virtual Address: 19520 [76, 64] Physical Address: 22592 [88, 64]
+EVICT! Oldest frame is 9, (age = 9)
+* Virtual Address: 58141 [227, 29] Physical Address: 2333 [9, 29]
+Virtual Address: 63959 [249, 215] Physical Address: 21975 [85, 215]
+EVICT! Oldest frame is 14, (age = 14)
+* Virtual Address: 53040 [207, 48] Physical Address: 3632 [14, 48]
+EVICT! Oldest frame is 17, (age = 17)
+* Virtual Address: 55842 [218, 34] Physical Address: 4386 [17, 34]
+Virtual Address: 585 [2, 73] Physical Address: 17225 [67, 73]
+Virtual Address: 51229 [200, 29] Physical Address: 32541 [127, 29]
+EVICT! Oldest frame is 18, (age = 18)
+* Virtual Address: 64181 [250, 181] Physical Address: 4789 [18, 181]
+EVICT! Oldest frame is 20, (age = 20)
+* Virtual Address: 54879 [214, 95] Physical Address: 5215 [20, 95]
+EVICT! Oldest frame is 21, (age = 21)
+* Virtual Address: 28210 [110, 50] Physical Address: 5426 [21, 50]
+Virtual Address: 10268 [40, 28] Physical Address: 14620 [57, 28]
+Virtual Address: 15395 [60, 35] Physical Address: 31779 [124, 35]
+Virtual Address: 12884 [50, 84] Physical Address: 30292 [118, 84]
+EVICT! Oldest frame is 22, (age = 22)
+* Virtual Address: 2149 [8, 101] Physical Address: 5733 [22, 101]
+EVICT! Oldest frame is 23, (age = 23)
+* Virtual Address: 53483 [208, 235] Physical Address: 6123 [23, 235]
+Virtual Address: 59606 [232, 214] Physical Address: 26070 [101, 214]
+Virtual Address: 14981 [58, 133] Physical Address: 24709 [96, 133]
+EVICT! Oldest frame is 24, (age = 25)
+* Virtual Address: 36672 [143, 64] Physical Address: 6208 [24, 64]
+EVICT! Oldest frame is 25, (age = 26)
+* Virtual Address: 23197 [90, 157] Physical Address: 6557 [25, 157]
+Virtual Address: 36518 [142, 166] Physical Address: 14502 [56, 166]
+EVICT! Oldest frame is 27, (age = 28)
+* Virtual Address: 13361 [52, 49] Physical Address: 6961 [27, 49]
+EVICT! Oldest frame is 29, (age = 30)
+* Virtual Address: 19810 [77, 98] Physical Address: 7522 [29, 98]
+EVICT! Oldest frame is 30, (age = 31)
+* Virtual Address: 25955 [101, 99] Physical Address: 7779 [30, 99]
+Virtual Address: 62678 [244, 214] Physical Address: 470 [1, 214]
+Virtual Address: 26021 [101, 165] Physical Address: 7845 [30, 165]
+EVICT! Oldest frame is 31, (age = 32)
+* Virtual Address: 29409 [114, 225] Physical Address: 8161 [31, 225]
+EVICT! Oldest frame is 32, (age = 33)
+* Virtual Address: 38111 [148, 223] Physical Address: 8415 [32, 223]
+Virtual Address: 58573 [228, 205] Physical Address: 15565 [60, 205]
+EVICT! Oldest frame is 36, (age = 37)
+* Virtual Address: 56840 [222, 8] Physical Address: 9224 [36, 8]
+Virtual Address: 41306 [161, 90] Physical Address: 24922 [97, 90]
+Virtual Address: 54426 [212, 154] Physical Address: 19354 [75, 154]
+Virtual Address: 3617 [14, 33] Physical Address: 10017 [39, 33]
+Virtual Address: 50652 [197, 220] Physical Address: 18652 [72, 220]
+Virtual Address: 41452 [161, 236] Physical Address: 25068 [97, 236]
+Virtual Address: 20241 [79, 17] Physical Address: 16657 [65, 17]
+Virtual Address: 31723 [123, 235] Physical Address: 12267 [47, 235]
+EVICT! Oldest frame is 37, (age = 38)
+* Virtual Address: 53747 [209, 243] Physical Address: 9715 [37, 243]
+Virtual Address: 28550 [111, 134] Physical Address: 28038 [109, 134]
+Virtual Address: 23402 [91, 106] Physical Address: 20586 [80, 106]
+EVICT! Oldest frame is 4, (age = 43)
+* Virtual Address: 21205 [82, 213] Physical Address: 1237 [4, 213]
+Virtual Address: 56181 [219, 117] Physical Address: 25205 [98, 117]
+EVICT! Oldest frame is 41, (age = 44)
+* Virtual Address: 57470 [224, 126] Physical Address: 10622 [41, 126]
+EVICT! Oldest frame is 42, (age = 45)
+* Virtual Address: 39933 [155, 253] Physical Address: 11005 [42, 253]
+Virtual Address: 34964 [136, 148] Physical Address: 26772 [104, 148]
+EVICT! Oldest frame is 45, (age = 48)
+* Virtual Address: 24781 [96, 205] Physical Address: 11725 [45, 205]
+EVICT! Oldest frame is 49, (age = 52)
+* Virtual Address: 41747 [163, 19] Physical Address: 12563 [49, 19]
+Virtual Address: 62564 [244, 100] Physical Address: 356 [1, 100]
+Virtual Address: 58461 [228, 93] Physical Address: 15453 [60, 93]
+EVICT! Oldest frame is 50, (age = 53)
+* Virtual Address: 20858 [81, 122] Physical Address: 12922 [50, 122]
+Virtual Address: 49301 [192, 149] Physical Address: 8597 [33, 149]
+EVICT! Oldest frame is 52, (age = 55)
+* Virtual Address: 40572 [158, 124] Physical Address: 13436 [52, 124]
+EVICT! Oldest frame is 53, (age = 56)
+* Virtual Address: 23840 [93, 32] Physical Address: 13600 [53, 32]
+EVICT! Oldest frame is 55, (age = 58)
+* Virtual Address: 35278 [137, 206] Physical Address: 14286 [55, 206]
+Virtual Address: 62905 [245, 185] Physical Address: 28601 [111, 185]
+EVICT! Oldest frame is 59, (age = 62)
+* Virtual Address: 56650 [221, 74] Physical Address: 15178 [59, 74]
+EVICT! Oldest frame is 61, (age = 65)
+* Virtual Address: 11149 [43, 141] Physical Address: 15757 [61, 141]
+Virtual Address: 38920 [152, 8] Physical Address: 3848 [15, 8]
+Virtual Address: 23430 [91, 134] Physical Address: 20614 [80, 134]
+Virtual Address: 57592 [224, 248] Physical Address: 10744 [41, 248]
+EVICT! Oldest frame is 62, (age = 67)
+* Virtual Address: 3080 [12, 8] Physical Address: 15880 [62, 8]
+Virtual Address: 6677 [26, 21] Physical Address: 6677 [26, 21]
+Virtual Address: 50704 [198, 16] Physical Address: 26128 [102, 16]
+Virtual Address: 51883 [202, 171] Physical Address: 27307 [106, 171]
+Virtual Address: 62799 [245, 79] Physical Address: 28495 [111, 79]
+EVICT! Oldest frame is 35, (age = 69)
+* Virtual Address: 20188 [78, 220] Physical Address: 9180 [35, 220]
+EVICT! Oldest frame is 63, (age = 70)
+* Virtual Address: 1245 [4, 221] Physical Address: 16349 [63, 221]
+Virtual Address: 12220 [47, 188] Physical Address: 2748 [10, 188]
+EVICT! Oldest frame is 34, (age = 72)
+* Virtual Address: 17602 [68, 194] Physical Address: 8898 [34, 194]
+Virtual Address: 28609 [111, 193] Physical Address: 28097 [109, 193]
+Virtual Address: 42694 [166, 198] Physical Address: 20934 [81, 198]
+EVICT! Oldest frame is 12, (age = 74)
+* Virtual Address: 29826 [116, 130] Physical Address: 3202 [12, 130]
+Virtual Address: 13827 [54, 3] Physical Address: 31235 [122, 3]
+Virtual Address: 27336 [106, 200] Physical Address: 28872 [112, 200]
+Virtual Address: 53343 [208, 95] Physical Address: 5983 [23, 95]
+EVICT! Oldest frame is 66, (age = 75)
+* Virtual Address: 11533 [45, 13] Physical Address: 16909 [66, 13]
+EVICT! Oldest frame is 69, (age = 79)
+* Virtual Address: 41713 [162, 241] Physical Address: 17905 [69, 241]
+EVICT! Oldest frame is 71, (age = 82)
+* Virtual Address: 33890 [132, 98] Physical Address: 18274 [71, 98]
+EVICT! Oldest frame is 40, (age = 83)
+* Virtual Address: 4894 [19, 30] Physical Address: 10270 [40, 30]
+Virtual Address: 57599 [224, 255] Physical Address: 10751 [41, 255]
+Virtual Address: 3870 [15, 30] Physical Address: 18974 [74, 30]
+Virtual Address: 58622 [228, 254] Physical Address: 15614 [60, 254]
+Virtual Address: 29780 [116, 84] Physical Address: 3156 [12, 84]
+Virtual Address: 62553 [244, 89] Physical Address: 345 [1, 89]
+Virtual Address: 2303 [8, 255] Physical Address: 5887 [22, 255]
+Virtual Address: 51915 [202, 203] Physical Address: 27339 [106, 203]
+EVICT! Oldest frame is 38, (age = 85)
+* Virtual Address: 6251 [24, 107] Physical Address: 9835 [38, 107]
+Virtual Address: 38107 [148, 219] Physical Address: 8411 [32, 219]
+EVICT! Oldest frame is 73, (age = 86)
+* Virtual Address: 59325 [231, 189] Physical Address: 18877 [73, 189]
+EVICT! Oldest frame is 76, (age = 89)
+* Virtual Address: 61295 [239, 111] Physical Address: 19567 [76, 111]
+EVICT! Oldest frame is 77, (age = 90)
+* Virtual Address: 26699 [104, 75] Physical Address: 19787 [77, 75]
+EVICT! Oldest frame is 58, (age = 91)
+* Virtual Address: 51188 [199, 244] Physical Address: 15092 [58, 244]
+Virtual Address: 59519 [232, 127] Physical Address: 25983 [101, 127]
+EVICT! Oldest frame is 78, (age = 92)
+* Virtual Address: 7345 [28, 177] Physical Address: 20145 [78, 177]
+Virtual Address: 20325 [79, 101] Physical Address: 16741 [65, 101]
+EVICT! Oldest frame is 79, (age = 93)
+* Virtual Address: 39633 [154, 209] Physical Address: 20433 [79, 209]
+EVICT! Oldest frame is 82, (age = 97)
+* Virtual Address: 1562 [6, 26] Physical Address: 21018 [82, 26]
+EVICT! Oldest frame is 46, (age = 98)
+* Virtual Address: 7580 [29, 156] Physical Address: 11932 [46, 156]
+Virtual Address: 8170 [31, 234] Physical Address: 2026 [7, 234]
+Virtual Address: 62256 [243, 48] Physical Address: 23856 [93, 48]
+EVICT! Oldest frame is 44, (age = 99)
+* Virtual Address: 35823 [139, 239] Physical Address: 11503 [44, 239]
+EVICT! Oldest frame is 83, (age = 100)
+* Virtual Address: 27790 [108, 142] Physical Address: 21390 [83, 142]
+EVICT! Oldest frame is 84, (age = 101)
+* Virtual Address: 13191 [51, 135] Physical Address: 21639 [84, 135]
+EVICT! Oldest frame is 19, (age = 105)
+* Virtual Address: 9772 [38, 44] Physical Address: 4908 [19, 44]
+Virtual Address: 7477 [29, 53] Physical Address: 11829 [46, 53]
+EVICT! Oldest frame is 86, (age = 106)
+* Virtual Address: 44455 [173, 167] Physical Address: 22183 [86, 167]
+Virtual Address: 59546 [232, 154] Physical Address: 26010 [101, 154]
+Virtual Address: 49347 [192, 195] Physical Address: 8643 [33, 195]
+Virtual Address: 36539 [142, 187] Physical Address: 14523 [56, 187]
+EVICT! Oldest frame is 64, (age = 109)
+* Virtual Address: 12453 [48, 165] Physical Address: 16549 [64, 165]
+EVICT! Oldest frame is 51, (age = 110)
+* Virtual Address: 49640 [193, 232] Physical Address: 13288 [51, 232]
+Virtual Address: 28290 [110, 130] Physical Address: 5506 [21, 130]
+EVICT! Oldest frame is 13, (age = 111)
+* Virtual Address: 44817 [175, 17] Physical Address: 3345 [13, 17]
+EVICT! Oldest frame is 89, (age = 112)
+* Virtual Address: 8565 [33, 117] Physical Address: 22901 [89, 117]
+EVICT! Oldest frame is 43, (age = 113)
+* Virtual Address: 16399 [64, 15] Physical Address: 11023 [43, 15]
+Virtual Address: 41934 [163, 206] Physical Address: 12750 [49, 206]
+EVICT! Oldest frame is 90, (age = 114)
+* Virtual Address: 45457 [177, 145] Physical Address: 23185 [90, 145]
+Virtual Address: 33856 [132, 64] Physical Address: 18240 [71, 64]
+Virtual Address: 19498 [76, 42] Physical Address: 22570 [88, 42]
+Virtual Address: 17661 [68, 253] Physical Address: 8957 [34, 253]
+Virtual Address: 63829 [249, 85] Physical Address: 21845 [85, 85]
+EVICT! Oldest frame is 91, (age = 115)
+* Virtual Address: 42034 [164, 50] Physical Address: 23346 [91, 50]
+EVICT! Oldest frame is 92, (age = 116)
+* Virtual Address: 28928 [113, 0] Physical Address: 23552 [92, 0]
+EVICT! Oldest frame is 94, (age = 119)
+* Virtual Address: 30711 [119, 247] Physical Address: 24311 [94, 247]
+EVICT! Oldest frame is 95, (age = 120)
+* Virtual Address: 8800 [34, 96] Physical Address: 24416 [95, 96]
+EVICT! Oldest frame is 99, (age = 124)
+* Virtual Address: 52335 [204, 111] Physical Address: 25455 [99, 111]
+EVICT! Oldest frame is 100, (age = 125)
+* Virtual Address: 38775 [151, 119] Physical Address: 25719 [100, 119]
+Virtual Address: 52704 [205, 224] Physical Address: 30176 [117, 224]
+EVICT! Oldest frame is 103, (age = 128)
+* Virtual Address: 24380 [95, 60] Physical Address: 26428 [103, 60]
+Virtual Address: 19602 [76, 146] Physical Address: 22674 [88, 146]
+EVICT! Oldest frame is 105, (age = 130)
+* Virtual Address: 57998 [226, 142] Physical Address: 27022 [105, 142]
+EVICT! Oldest frame is 68, (age = 133)
+* Virtual Address: 2919 [11, 103] Physical Address: 17511 [68, 103]
+EVICT! Oldest frame is 107, (age = 134)
+* Virtual Address: 8362 [32, 170] Physical Address: 27562 [107, 170]
+EVICT! Oldest frame is 108, (age = 135)
+* Virtual Address: 17884 [69, 220] Physical Address: 27868 [108, 220]
+EVICT! Oldest frame is 110, (age = 139)
+* Virtual Address: 45737 [178, 169] Physical Address: 28329 [110, 169]
+EVICT! Oldest frame is 8, (age = 140)
+* Virtual Address: 47894 [187, 22] Physical Address: 2070 [8, 22]
+EVICT! Oldest frame is 5, (age = 143)
+* Virtual Address: 59667 [233, 19] Physical Address: 1299 [5, 19]
+Virtual Address: 10385 [40, 145] Physical Address: 14737 [57, 145]
+EVICT! Oldest frame is 87, (age = 144)
+* Virtual Address: 52782 [206, 46] Physical Address: 22318 [87, 46]
+EVICT! Oldest frame is 48, (age = 145)
+* Virtual Address: 64416 [251, 160] Physical Address: 12448 [48, 160]
+EVICT! Oldest frame is 113, (age = 146)
+* Virtual Address: 40946 [159, 242] Physical Address: 29170 [113, 242]
+EVICT! Oldest frame is 114, (age = 147)
+* Virtual Address: 16778 [65, 138] Physical Address: 29322 [114, 138]
+Virtual Address: 27159 [106, 23] Physical Address: 28695 [112, 23]
+Virtual Address: 24324 [95, 4] Physical Address: 26372 [103, 4]
+EVICT! Oldest frame is 115, (age = 148)
+* Virtual Address: 32450 [126, 194] Physical Address: 29634 [115, 194]
+EVICT! Oldest frame is 116, (age = 151)
+* Virtual Address: 9108 [35, 148] Physical Address: 29844 [116, 148]
+Virtual Address: 65305 [255, 25] Physical Address: 30489 [119, 25]
+Virtual Address: 19575 [76, 119] Physical Address: 22647 [88, 119]
+Virtual Address: 11117 [43, 109] Physical Address: 15725 [61, 109]
+EVICT! Oldest frame is 120, (age = 158)
+* Virtual Address: 65170 [254, 146] Physical Address: 30866 [120, 146]
+Virtual Address: 58013 [226, 157] Physical Address: 27037 [105, 157]
+EVICT! Oldest frame is 121, (age = 159)
+* Virtual Address: 61676 [240, 236] Physical Address: 31212 [121, 236]
+EVICT! Oldest frame is 54, (age = 163)
+* Virtual Address: 63510 [248, 22] Physical Address: 13846 [54, 22]
+Virtual Address: 17458 [68, 50] Physical Address: 8754 [34, 50]
+EVICT! Oldest frame is 123, (age = 164)
+* Virtual Address: 54675 [213, 147] Physical Address: 31635 [123, 147]
+Virtual Address: 1713 [6, 177] Physical Address: 21169 [82, 177]
+EVICT! Oldest frame is 125, (age = 166)
+* Virtual Address: 55105 [215, 65] Physical Address: 32065 [125, 65]
+Virtual Address: 65321 [255, 41] Physical Address: 30505 [119, 41]
+EVICT! Oldest frame is 70, (age = 168)
+* Virtual Address: 45278 [176, 222] Physical Address: 18142 [70, 222]
+EVICT! Oldest frame is 0, (age = 171)
+* Virtual Address: 26256 [102, 144] Physical Address: 144 [0, 144]
+Virtual Address: 64198 [250, 198] Physical Address: 4806 [18, 198]
+EVICT! Oldest frame is 2, (age = 173)
+* Virtual Address: 29441 [115, 1] Physical Address: 513 [2, 1]
+EVICT! Oldest frame is 28, (age = 174)
+* Virtual Address: 1928 [7, 136] Physical Address: 7304 [28, 136]
+Virtual Address: 39425 [154, 1] Physical Address: 20225 [79, 1]
+EVICT! Oldest frame is 3, (age = 175)
+* Virtual Address: 32000 [125, 0] Physical Address: 768 [3, 0]
+Virtual Address: 28549 [111, 133] Physical Address: 28037 [109, 133]
+EVICT! Oldest frame is 6, (age = 177)
+* Virtual Address: 46295 [180, 215] Physical Address: 1751 [6, 215]
+Virtual Address: 22772 [88, 244] Physical Address: 3060 [11, 244]
+Virtual Address: 58228 [227, 116] Physical Address: 2420 [9, 116]
+Virtual Address: 63525 [248, 37] Physical Address: 13861 [54, 37]
+EVICT! Oldest frame is 126, (age = 178)
+* Virtual Address: 32602 [127, 90] Physical Address: 32346 [126, 90]
+Virtual Address: 46195 [180, 115] Physical Address: 1651 [6, 115]
+Virtual Address: 55849 [218, 41] Physical Address: 4393 [17, 41]
+EVICT! Oldest frame is 16, (age = 181)
+* Virtual Address: 46454 [181, 118] Physical Address: 4214 [16, 118]
+Virtual Address: 7487 [29, 63] Physical Address: 11839 [46, 63]
+Virtual Address: 33879 [132, 87] Physical Address: 18263 [71, 87]
+Virtual Address: 42004 [164, 20] Physical Address: 23316 [91, 20]
+Virtual Address: 8599 [33, 151] Physical Address: 22935 [89, 151]
+EVICT! Oldest frame is 14, (age = 186)
+* Virtual Address: 18641 [72, 209] Physical Address: 3793 [14, 209]
+EVICT! Oldest frame is 67, (age = 188)
+* Virtual Address: 49015 [191, 119] Physical Address: 17271 [67, 119]
+Virtual Address: 26830 [104, 206] Physical Address: 19918 [77, 206]
+EVICT! Oldest frame is 127, (age = 189)
+* Virtual Address: 34754 [135, 194] Physical Address: 32706 [127, 194]
+EVICT! Oldest frame is 20, (age = 191)
+* Virtual Address: 14668 [57, 76] Physical Address: 5196 [20, 76]
+EVICT! Oldest frame is 124, (age = 194)
+* Virtual Address: 38362 [149, 218] Physical Address: 31962 [124, 218]
+Virtual Address: 38791 [151, 135] Physical Address: 25735 [100, 135]
+EVICT! Oldest frame is 118, (age = 195)
+* Virtual Address: 4171 [16, 75] Physical Address: 30283 [118, 75]
+EVICT! Oldest frame is 96, (age = 199)
+* Virtual Address: 45975 [179, 151] Physical Address: 24727 [96, 151]
+Virtual Address: 14623 [57, 31] Physical Address: 5151 [20, 31]
+Virtual Address: 62393 [243, 185] Physical Address: 23993 [93, 185]
+EVICT! Oldest frame is 24, (age = 200)
+* Virtual Address: 64658 [252, 146] Physical Address: 6290 [24, 146]
+EVICT! Oldest frame is 25, (age = 201)
+* Virtual Address: 10963 [42, 211] Physical Address: 6611 [25, 211]
+Virtual Address: 9058 [35, 98] Physical Address: 29794 [116, 98]
+Virtual Address: 51031 [199, 87] Physical Address: 14935 [58, 87]
+Virtual Address: 32425 [126, 169] Physical Address: 29609 [115, 169]
+Virtual Address: 45483 [177, 171] Physical Address: 23211 [90, 171]
+EVICT! Oldest frame is 27, (age = 203)
+* Virtual Address: 44611 [174, 67] Physical Address: 6979 [27, 67]
+Virtual Address: 63664 [248, 176] Physical Address: 14000 [54, 176]
+EVICT! Oldest frame is 29, (age = 204)
+* Virtual Address: 54920 [214, 136] Physical Address: 7560 [29, 136]
+Virtual Address: 7663 [29, 239] Physical Address: 12015 [46, 239]
+EVICT! Oldest frame is 30, (age = 207)
+* Virtual Address: 56480 [220, 160] Physical Address: 7840 [30, 160]
+EVICT! Oldest frame is 31, (age = 208)
+* Virtual Address: 1489 [5, 209] Physical Address: 8145 [31, 209]
+Virtual Address: 28438 [111, 22] Physical Address: 27926 [109, 22]
+Virtual Address: 65449 [255, 169] Physical Address: 30633 [119, 169]
+Virtual Address: 12441 [48, 153] Physical Address: 16537 [64, 153]
+Virtual Address: 58530 [228, 162] Physical Address: 15522 [60, 162]
+Virtual Address: 63570 [248, 82] Physical Address: 13906 [54, 82]
+Virtual Address: 26251 [102, 139] Physical Address: 139 [0, 139]
+EVICT! Oldest frame is 36, (age = 211)
+* Virtual Address: 15972 [62, 100] Physical Address: 9316 [36, 100]
+Virtual Address: 35826 [139, 242] Physical Address: 11506 [44, 242]
+EVICT! Oldest frame is 75, (age = 213)
+* Virtual Address: 5491 [21, 115] Physical Address: 19315 [75, 115]
+EVICT! Oldest frame is 39, (age = 214)
+* Virtual Address: 54253 [211, 237] Physical Address: 10221 [39, 237]
+Virtual Address: 49655 [193, 247] Physical Address: 13303 [51, 247]
+EVICT! Oldest frame is 72, (age = 215)
+* Virtual Address: 5868 [22, 236] Physical Address: 18668 [72, 236]
+Virtual Address: 20163 [78, 195] Physical Address: 9155 [35, 195]
+Virtual Address: 51079 [199, 135] Physical Address: 14983 [58, 135]
+EVICT! Oldest frame is 97, (age = 216)
+* Virtual Address: 21398 [83, 150] Physical Address: 24982 [97, 150]
+Virtual Address: 32756 [127, 244] Physical Address: 32500 [126, 244]
+Virtual Address: 64196 [250, 196] Physical Address: 4804 [18, 196]
+EVICT! Oldest frame is 47, (age = 218)
+* Virtual Address: 43218 [168, 210] Physical Address: 12242 [47, 210]
+EVICT! Oldest frame is 37, (age = 219)
+* Virtual Address: 21583 [84, 79] Physical Address: 9551 [37, 79]
+EVICT! Oldest frame is 4, (age = 222)
+* Virtual Address: 25086 [97, 254] Physical Address: 1278 [4, 254]
+Virtual Address: 45515 [177, 203] Physical Address: 23243 [90, 203]
+EVICT! Oldest frame is 98, (age = 223)
+* Virtual Address: 12893 [50, 93] Physical Address: 25181 [98, 93]
+EVICT! Oldest frame is 42, (age = 225)
+* Virtual Address: 22914 [89, 130] Physical Address: 10882 [42, 130]
+EVICT! Oldest frame is 104, (age = 226)
+* Virtual Address: 58969 [230, 89] Physical Address: 26713 [104, 89]
+Virtual Address: 20094 [78, 126] Physical Address: 9086 [35, 126]
+EVICT! Oldest frame is 45, (age = 227)
+* Virtual Address: 13730 [53, 162] Physical Address: 11682 [45, 162]
+EVICT! Oldest frame is 50, (age = 231)
+* Virtual Address: 44059 [172, 27] Physical Address: 12827 [50, 27]
+Virtual Address: 28931 [113, 3] Physical Address: 23555 [92, 3]
+EVICT! Oldest frame is 52, (age = 233)
+* Virtual Address: 13533 [52, 221] Physical Address: 13533 [52, 221]
+EVICT! Oldest frame is 53, (age = 234)
+* Virtual Address: 33134 [129, 110] Physical Address: 13678 [53, 110]
+Virtual Address: 28483 [111, 67] Physical Address: 27971 [109, 67]
+Virtual Address: 1220 [4, 196] Physical Address: 16324 [63, 196]
+Virtual Address: 38174 [149, 30] Physical Address: 31774 [124, 30]
+Virtual Address: 53502 [208, 254] Physical Address: 6142 [23, 254]
+EVICT! Oldest frame is 55, (age = 235)
+* Virtual Address: 43328 [169, 64] Physical Address: 14144 [55, 64]
+Virtual Address: 4970 [19, 106] Physical Address: 10346 [40, 106]
+Virtual Address: 8090 [31, 154] Physical Address: 1946 [7, 154]
+EVICT! Oldest frame is 59, (age = 237)
+* Virtual Address: 2661 [10, 101] Physical Address: 15205 [59, 101]
+EVICT! Oldest frame is 15, (age = 239)
+* Virtual Address: 53903 [210, 143] Physical Address: 3983 [15, 143]
+Virtual Address: 11025 [43, 17] Physical Address: 15633 [61, 17]
+Virtual Address: 26627 [104, 3] Physical Address: 19715 [77, 3]
+EVICT! Oldest frame is 80, (age = 240)
+* Virtual Address: 18117 [70, 197] Physical Address: 20677 [80, 197]
+EVICT! Oldest frame is 62, (age = 242)
+* Virtual Address: 14505 [56, 169] Physical Address: 16041 [62, 169]
+Virtual Address: 61528 [240, 88] Physical Address: 31064 [121, 88]
+Virtual Address: 20423 [79, 199] Physical Address: 16839 [65, 199]
+EVICT! Oldest frame is 26, (age = 243)
+* Virtual Address: 26962 [105, 82] Physical Address: 6738 [26, 82]
+Virtual Address: 36392 [142, 40] Physical Address: 14376 [56, 40]
+EVICT! Oldest frame is 102, (age = 244)
+* Virtual Address: 11365 [44, 101] Physical Address: 26213 [102, 101]
+EVICT! Oldest frame is 111, (age = 246)
+* Virtual Address: 50882 [198, 194] Physical Address: 28610 [111, 194]
+Virtual Address: 41668 [162, 196] Physical Address: 17860 [69, 196]
+Virtual Address: 30497 [119, 33] Physical Address: 24097 [94, 33]
+EVICT! Oldest frame is 10, (age = 249)
+* Virtual Address: 36216 [141, 120] Physical Address: 2680 [10, 120]
+Virtual Address: 5619 [21, 243] Physical Address: 19443 [75, 243]
+EVICT! Oldest frame is 81, (age = 252)
+* Virtual Address: 36983 [144, 119] Physical Address: 20855 [81, 119]
+Virtual Address: 59557 [232, 165] Physical Address: 26021 [101, 165]
+EVICT! Oldest frame is 122, (age = 254)
+* Virtual Address: 36663 [143, 55] Physical Address: 31287 [122, 55]
+Virtual Address: 36436 [142, 84] Physical Address: 14420 [56, 84]
+Virtual Address: 37057 [144, 193] Physical Address: 20929 [81, 193]
+EVICT! Oldest frame is 66, (age = 257)
+* Virtual Address: 23585 [92, 33] Physical Address: 16929 [66, 33]
+EVICT! Oldest frame is 41, (age = 261)
+* Virtual Address: 58791 [229, 167] Physical Address: 10663 [41, 167]
+EVICT! Oldest frame is 74, (age = 262)
+* Virtual Address: 46666 [182, 74] Physical Address: 19018 [74, 74]
+Virtual Address: 64475 [251, 219] Physical Address: 12507 [48, 219]
+Virtual Address: 21615 [84, 111] Physical Address: 9583 [37, 111]
+EVICT! Oldest frame is 12, (age = 264)
+* Virtual Address: 41090 [160, 130] Physical Address: 3202 [12, 130]
+Virtual Address: 1771 [6, 235] Physical Address: 21227 [82, 235]
+EVICT! Oldest frame is 1, (age = 265)
+* Virtual Address: 47513 [185, 153] Physical Address: 409 [1, 153]
+EVICT! Oldest frame is 22, (age = 266)
+* Virtual Address: 39338 [153, 170] Physical Address: 5802 [22, 170]
+Virtual Address: 1390 [5, 110] Physical Address: 8046 [31, 110]
+Virtual Address: 38772 [151, 116] Physical Address: 25716 [100, 116]
+Virtual Address: 58149 [227, 37] Physical Address: 2341 [9, 37]
+Virtual Address: 7196 [28, 28] Physical Address: 19996 [78, 28]
+Virtual Address: 9123 [35, 163] Physical Address: 29859 [116, 163]
+Virtual Address: 7491 [29, 67] Physical Address: 11843 [46, 67]
+EVICT! Oldest frame is 106, (age = 267)
+* Virtual Address: 62616 [244, 152] Physical Address: 27288 [106, 152]
+EVICT! Oldest frame is 38, (age = 268)
+* Virtual Address: 15436 [60, 76] Physical Address: 9804 [38, 76]
+Virtual Address: 17491 [68, 83] Physical Address: 8787 [34, 83]
+EVICT! Oldest frame is 32, (age = 269)
+* Virtual Address: 53656 [209, 152] Physical Address: 8344 [32, 152]
+EVICT! Oldest frame is 73, (age = 270)
+* Virtual Address: 26449 [103, 81] Physical Address: 18769 [73, 81]
+EVICT! Oldest frame is 76, (age = 271)
+* Virtual Address: 34935 [136, 119] Physical Address: 19575 [76, 119]
+EVICT! Oldest frame is 83, (age = 283)
+* Virtual Address: 19864 [77, 152] Physical Address: 21400 [83, 152]
+EVICT! Oldest frame is 84, (age = 284)
+* Virtual Address: 51388 [200, 188] Physical Address: 21692 [84, 188]
+EVICT! Oldest frame is 19, (age = 285)
+* Virtual Address: 15155 [59, 51] Physical Address: 4915 [19, 51]
+EVICT! Oldest frame is 86, (age = 287)
+* Virtual Address: 64775 [253, 7] Physical Address: 22023 [86, 7]
+Virtual Address: 47969 [187, 97] Physical Address: 2145 [8, 97]
+EVICT! Oldest frame is 33, (age = 289)
+* Virtual Address: 16315 [63, 187] Physical Address: 8635 [33, 187]
+Virtual Address: 1342 [5, 62] Physical Address: 7998 [31, 62]
+Virtual Address: 51185 [199, 241] Physical Address: 15089 [58, 241]
+EVICT! Oldest frame is 21, (age = 293)
+* Virtual Address: 6043 [23, 155] Physical Address: 5531 [21, 155]
+Virtual Address: 21398 [83, 150] Physical Address: 24982 [97, 150]
+EVICT! Oldest frame is 13, (age = 294)
+* Virtual Address: 3273 [12, 201] Physical Address: 3529 [13, 201]
+EVICT! Oldest frame is 43, (age = 296)
+* Virtual Address: 9370 [36, 154] Physical Address: 11162 [43, 154]
+EVICT! Oldest frame is 49, (age = 297)
+* Virtual Address: 35463 [138, 135] Physical Address: 12679 [49, 135]
+EVICT! Oldest frame is 85, (age = 302)
+* Virtual Address: 28205 [110, 45] Physical Address: 21805 [85, 45]
+EVICT! Oldest frame is 95, (age = 306)
+* Virtual Address: 2351 [9, 47] Physical Address: 24367 [95, 47]
+Virtual Address: 28999 [113, 71] Physical Address: 23623 [92, 71]
+EVICT! Oldest frame is 99, (age = 307)
+* Virtual Address: 47699 [186, 83] Physical Address: 25427 [99, 83]
+EVICT! Oldest frame is 117, (age = 309)
+* Virtual Address: 46870 [183, 22] Physical Address: 29974 [117, 22]
+EVICT! Oldest frame is 68, (age = 313)
+* Virtual Address: 22311 [87, 39] Physical Address: 17447 [68, 39]
+EVICT! Oldest frame is 107, (age = 314)
+* Virtual Address: 22124 [86, 108] Physical Address: 27500 [107, 108]
+Virtual Address: 22427 [87, 155] Physical Address: 17563 [68, 155]
+EVICT! Oldest frame is 108, (age = 315)
+* Virtual Address: 49344 [192, 192] Physical Address: 27840 [108, 192]
+EVICT! Oldest frame is 110, (age = 316)
+* Virtual Address: 23224 [90, 184] Physical Address: 28344 [110, 184]
+Virtual Address: 5514 [21, 138] Physical Address: 19338 [75, 138]
+EVICT! Oldest frame is 5, (age = 318)
+* Virtual Address: 20504 [80, 24] Physical Address: 1304 [5, 24]
+EVICT! Oldest frame is 57, (age = 319)
+* Virtual Address: 376 [1, 120] Physical Address: 14712 [57, 120]
+Virtual Address: 2014 [7, 222] Physical Address: 7390 [28, 222]
+Virtual Address: 38700 [151, 44] Physical Address: 25644 [100, 44]
+EVICT! Oldest frame is 87, (age = 320)
+* Virtual Address: 13098 [51, 42] Physical Address: 22314 [87, 42]
+Virtual Address: 62435 [243, 227] Physical Address: 24035 [93, 227]
+Virtual Address: 48046 [187, 174] Physical Address: 2222 [8, 174]
+EVICT! Oldest frame is 113, (age = 322)
+* Virtual Address: 63464 [247, 232] Physical Address: 29160 [113, 232]
+EVICT! Oldest frame is 114, (age = 323)
+* Virtual Address: 12798 [49, 254] Physical Address: 29438 [114, 254]
+Virtual Address: 51178 [199, 234] Physical Address: 15082 [58, 234]
+Virtual Address: 8627 [33, 179] Physical Address: 22963 [89, 179]
+Virtual Address: 27083 [105, 203] Physical Address: 6859 [26, 203]
+EVICT! Oldest frame is 112, (age = 324)
+* Virtual Address: 47198 [184, 94] Physical Address: 28766 [112, 94]
+EVICT! Oldest frame is 103, (age = 325)
+* Virtual Address: 44021 [171, 245] Physical Address: 26613 [103, 245]
+EVICT! Oldest frame is 88, (age = 329)
+* Virtual Address: 32792 [128, 24] Physical Address: 22552 [88, 24]
+Virtual Address: 43996 [171, 220] Physical Address: 26588 [103, 220]
+Virtual Address: 41126 [160, 166] Physical Address: 3238 [12, 166]
+Virtual Address: 64244 [250, 244] Physical Address: 4852 [18, 244]
+Virtual Address: 37047 [144, 183] Physical Address: 20919 [81, 183]
+EVICT! Oldest frame is 120, (age = 331)
+* Virtual Address: 60281 [235, 121] Physical Address: 30841 [120, 121]
+EVICT! Oldest frame is 105, (age = 332)
+* Virtual Address: 52904 [206, 168] Physical Address: 27048 [105, 168]
+EVICT! Oldest frame is 123, (age = 336)
+* Virtual Address: 7768 [30, 88] Physical Address: 31576 [123, 88]
+EVICT! Oldest frame is 125, (age = 338)
+* Virtual Address: 55359 [216, 63] Physical Address: 32063 [125, 63]
+Virtual Address: 3230 [12, 158] Physical Address: 3486 [13, 158]
+EVICT! Oldest frame is 70, (age = 340)
+* Virtual Address: 44813 [175, 13] Physical Address: 17933 [70, 13]
+Virtual Address: 4116 [16, 20] Physical Address: 30228 [118, 20]
+EVICT! Oldest frame is 2, (age = 343)
+* Virtual Address: 65222 [254, 198] Physical Address: 710 [2, 198]
+EVICT! Oldest frame is 79, (age = 345)
+* Virtual Address: 28083 [109, 179] Physical Address: 20403 [79, 179]
+EVICT! Oldest frame is 3, (age = 346)
+* Virtual Address: 60660 [236, 244] Physical Address: 1012 [3, 244]
+EVICT! Oldest frame is 11, (age = 349)
+* Virtual Address: 39 [0, 39] Physical Address: 2855 [11, 39]
+Virtual Address: 328 [1, 72] Physical Address: 14664 [57, 72]
+Virtual Address: 47868 [186, 252] Physical Address: 25596 [99, 252]
+Virtual Address: 13009 [50, 209] Physical Address: 25297 [98, 209]
+Virtual Address: 22378 [87, 106] Physical Address: 17514 [68, 106]
+Virtual Address: 39304 [153, 136] Physical Address: 5768 [22, 136]
+Virtual Address: 11171 [43, 163] Physical Address: 15779 [61, 163]
+Virtual Address: 8079 [31, 143] Physical Address: 1935 [7, 143]
+Virtual Address: 52879 [206, 143] Physical Address: 27023 [105, 143]
+EVICT! Oldest frame is 6, (age = 353)
+* Virtual Address: 5123 [20, 3] Physical Address: 1539 [6, 3]
+EVICT! Oldest frame is 17, (age = 354)
+* Virtual Address: 4356 [17, 4] Physical Address: 4356 [17, 4]
+EVICT! Oldest frame is 16, (age = 355)
+* Virtual Address: 45745 [178, 177] Physical Address: 4273 [16, 177]
+Virtual Address: 32952 [128, 184] Physical Address: 22712 [88, 184]
+EVICT! Oldest frame is 71, (age = 357)
+* Virtual Address: 4657 [18, 49] Physical Address: 18225 [71, 49]
+EVICT! Oldest frame is 91, (age = 358)
+* Virtual Address: 24142 [94, 78] Physical Address: 23374 [91, 78]
+EVICT! Oldest frame is 14, (age = 360)
+* Virtual Address: 23319 [91, 23] Physical Address: 3607 [14, 23]
+Virtual Address: 13607 [53, 39] Physical Address: 11559 [45, 39]
+EVICT! Oldest frame is 67, (age = 361)
+* Virtual Address: 46304 [180, 224] Physical Address: 17376 [67, 224]
+EVICT! Oldest frame is 127, (age = 363)
+* Virtual Address: 17677 [69, 13] Physical Address: 32525 [127, 13]
+EVICT! Oldest frame is 96, (age = 368)
+* Virtual Address: 59691 [233, 43] Physical Address: 24619 [96, 43]
+Virtual Address: 50967 [199, 23] Physical Address: 14871 [58, 23]
+Virtual Address: 7817 [30, 137] Physical Address: 31625 [123, 137]
+Virtual Address: 8545 [33, 97] Physical Address: 22881 [89, 97]
+Virtual Address: 55297 [216, 1] Physical Address: 32001 [125, 1]
+Virtual Address: 52954 [206, 218] Physical Address: 27098 [105, 218]
+EVICT! Oldest frame is 20, (age = 369)
+* Virtual Address: 39720 [155, 40] Physical Address: 5160 [20, 40]
+EVICT! Oldest frame is 24, (age = 371)
+* Virtual Address: 18455 [72, 23] Physical Address: 6167 [24, 23]
+EVICT! Oldest frame is 25, (age = 372)
+* Virtual Address: 30349 [118, 141] Physical Address: 6541 [25, 141]
+Virtual Address: 63270 [247, 38] Physical Address: 28966 [113, 38]
+EVICT! Oldest frame is 115, (age = 375)
+* Virtual Address: 27156 [106, 20] Physical Address: 29460 [115, 20]
+Virtual Address: 20614 [80, 134] Physical Address: 1414 [5, 134]
+EVICT! Oldest frame is 27, (age = 377)
+* Virtual Address: 19372 [75, 172] Physical Address: 7084 [27, 172]
+EVICT! Oldest frame is 29, (age = 379)
+* Virtual Address: 48689 [190, 49] Physical Address: 7473 [29, 49]
+Virtual Address: 49386 [192, 234] Physical Address: 27882 [108, 234]
+EVICT! Oldest frame is 30, (age = 381)
+* Virtual Address: 50584 [197, 152] Physical Address: 7832 [30, 152]
+EVICT! Oldest frame is 119, (age = 384)
+* Virtual Address: 51936 [202, 224] Physical Address: 30688 [119, 224]
+EVICT! Oldest frame is 64, (age = 385)
+* Virtual Address: 34705 [135, 145] Physical Address: 16529 [64, 145]
+Virtual Address: 13653 [53, 85] Physical Address: 11605 [45, 85]
+EVICT! Oldest frame is 60, (age = 386)
+* Virtual Address: 50077 [195, 157] Physical Address: 15517 [60, 157]
+EVICT! Oldest frame is 54, (age = 387)
+* Virtual Address: 54518 [212, 246] Physical Address: 14070 [54, 246]
+Virtual Address: 41482 [162, 10] Physical Address: 17674 [69, 10]
+Virtual Address: 4169 [16, 73] Physical Address: 30281 [118, 73]
+Virtual Address: 36118 [141, 22] Physical Address: 2582 [10, 22]
+EVICT! Oldest frame is 0, (age = 388)
+* Virtual Address: 9584 [37, 112] Physical Address: 112 [0, 112]
+Virtual Address: 18490 [72, 58] Physical Address: 6202 [24, 58]
+Virtual Address: 55420 [216, 124] Physical Address: 32124 [125, 124]
+Virtual Address: 5708 [22, 76] Physical Address: 18508 [72, 76]
+Virtual Address: 23506 [91, 210] Physical Address: 3794 [14, 210]
+Virtual Address: 15391 [60, 31] Physical Address: 9759 [38, 31]
+Virtual Address: 36368 [142, 16] Physical Address: 14352 [56, 16]
+EVICT! Oldest frame is 36, (age = 389)
+* Virtual Address: 38976 [152, 64] Physical Address: 9280 [36, 64]
+EVICT! Oldest frame is 44, (age = 390)
+* Virtual Address: 50406 [196, 230] Physical Address: 11494 [44, 230]
+Virtual Address: 49236 [192, 84] Physical Address: 27732 [108, 84]
+Virtual Address: 65035 [254, 11] Physical Address: 523 [2, 11]
+EVICT! Oldest frame is 39, (age = 392)
+* Virtual Address: 30120 [117, 168] Physical Address: 10152 [39, 168]
+Virtual Address: 62551 [244, 87] Physical Address: 27223 [106, 87]
+Virtual Address: 46809 [182, 217] Physical Address: 19161 [74, 217]
+Virtual Address: 21687 [84, 183] Physical Address: 9655 [37, 183]
+Virtual Address: 53839 [210, 79] Physical Address: 3919 [15, 79]
+EVICT! Oldest frame is 51, (age = 393)
+* Virtual Address: 2098 [8, 50] Physical Address: 13106 [51, 50]
+EVICT! Oldest frame is 126, (age = 398)
+* Virtual Address: 12364 [48, 76] Physical Address: 32332 [126, 76]
+Virtual Address: 45366 [177, 54] Physical Address: 23094 [90, 54]
+Virtual Address: 50437 [197, 5] Physical Address: 7685 [30, 5]
+Virtual Address: 36675 [143, 67] Physical Address: 31299 [122, 67]
+Virtual Address: 55382 [216, 86] Physical Address: 32086 [125, 86]
+EVICT! Oldest frame is 47, (age = 400)
+* Virtual Address: 11846 [46, 70] Physical Address: 12102 [47, 70]
+EVICT! Oldest frame is 4, (age = 402)
+* Virtual Address: 49127 [191, 231] Physical Address: 1255 [4, 231]
+Virtual Address: 19900 [77, 188] Physical Address: 21436 [83, 188]
+Virtual Address: 20554 [80, 74] Physical Address: 1354 [5, 74]
+Virtual Address: 19219 [75, 19] Physical Address: 6931 [27, 19]
+EVICT! Oldest frame is 42, (age = 405)
+* Virtual Address: 51483 [201, 27] Physical Address: 10779 [42, 27]
+EVICT! Oldest frame is 104, (age = 406)
+* Virtual Address: 58090 [226, 234] Physical Address: 26858 [104, 234]
+Virtual Address: 39074 [152, 162] Physical Address: 9378 [36, 162]
+EVICT! Oldest frame is 35, (age = 407)
+* Virtual Address: 16060 [62, 188] Physical Address: 9148 [35, 188]
+EVICT! Oldest frame is 50, (age = 409)
+* Virtual Address: 10447 [40, 207] Physical Address: 13007 [50, 207]
+EVICT! Oldest frame is 52, (age = 411)
+* Virtual Address: 54169 [211, 153] Physical Address: 13465 [52, 153]
+Virtual Address: 20634 [80, 154] Physical Address: 1434 [5, 154]
+EVICT! Oldest frame is 53, (age = 412)
+* Virtual Address: 57555 [224, 211] Physical Address: 13779 [53, 211]
+EVICT! Oldest frame is 109, (age = 413)
+* Virtual Address: 61210 [239, 26] Physical Address: 27930 [109, 26]
+Virtual Address: 269 [1, 13] Physical Address: 14605 [57, 13]
+EVICT! Oldest frame is 63, (age = 414)
+* Virtual Address: 33154 [129, 130] Physical Address: 16258 [63, 130]
+Virtual Address: 64487 [251, 231] Physical Address: 12519 [48, 231]
+Virtual Address: 61223 [239, 39] Physical Address: 27943 [109, 39]
+Virtual Address: 47292 [184, 188] Physical Address: 28860 [112, 188]
+EVICT! Oldest frame is 124, (age = 415)
+* Virtual Address: 21852 [85, 92] Physical Address: 31836 [124, 92]
+Virtual Address: 5281 [20, 161] Physical Address: 1697 [6, 161]
+EVICT! Oldest frame is 23, (age = 416)
+* Virtual Address: 45912 [179, 88] Physical Address: 5976 [23, 88]
+EVICT! Oldest frame is 55, (age = 417)
+* Virtual Address: 32532 [127, 20] Physical Address: 14100 [55, 20]
+EVICT! Oldest frame is 40, (age = 418)
+* Virtual Address: 63067 [246, 91] Physical Address: 10331 [40, 91]
+Virtual Address: 41683 [162, 211] Physical Address: 17875 [69, 211]
+EVICT! Oldest frame is 59, (age = 420)
+* Virtual Address: 20981 [81, 245] Physical Address: 15349 [59, 245]
+EVICT! Oldest frame is 77, (age = 423)
+* Virtual Address: 33881 [132, 89] Physical Address: 19801 [77, 89]
+EVICT! Oldest frame is 80, (age = 424)
+* Virtual Address: 41785 [163, 57] Physical Address: 20537 [80, 57]
+Virtual Address: 4580 [17, 228] Physical Address: 4580 [17, 228]
+EVICT! Oldest frame is 62, (age = 425)
+* Virtual Address: 41389 [161, 173] Physical Address: 16045 [62, 173]
+EVICT! Oldest frame is 121, (age = 426)
+* Virtual Address: 28572 [111, 156] Physical Address: 31132 [121, 156]
+EVICT! Oldest frame is 65, (age = 427)
+* Virtual Address: 782 [3, 14] Physical Address: 16654 [65, 14]
+Virtual Address: 30273 [118, 65] Physical Address: 6465 [25, 65]
+Virtual Address: 62267 [243, 59] Physical Address: 23867 [93, 59]
+EVICT! Oldest frame is 102, (age = 430)
+* Virtual Address: 17922 [70, 2] Physical Address: 26114 [102, 2]
+Virtual Address: 63238 [247, 6] Physical Address: 28934 [113, 6]
+Virtual Address: 3308 [12, 236] Physical Address: 3564 [13, 236]
+Virtual Address: 26545 [103, 177] Physical Address: 18865 [73, 177]
+EVICT! Oldest frame is 111, (age = 431)
+* Virtual Address: 44395 [173, 107] Physical Address: 28523 [111, 107]
+Virtual Address: 39120 [152, 208] Physical Address: 9424 [36, 208]
+Virtual Address: 21706 [84, 202] Physical Address: 9674 [37, 202]
+EVICT! Oldest frame is 94, (age = 433)
+* Virtual Address: 7144 [27, 232] Physical Address: 24296 [94, 232]
+Virtual Address: 30244 [118, 36] Physical Address: 6436 [25, 36]
+EVICT! Oldest frame is 101, (age = 437)
+* Virtual Address: 3725 [14, 141] Physical Address: 25997 [101, 141]
+EVICT! Oldest frame is 66, (age = 441)
+* Virtual Address: 54632 [213, 104] Physical Address: 17000 [66, 104]
+EVICT! Oldest frame is 41, (age = 442)
+* Virtual Address: 30574 [119, 110] Physical Address: 10606 [41, 110]
+Virtual Address: 8473 [33, 25] Physical Address: 22809 [89, 25]
+Virtual Address: 12386 [48, 98] Physical Address: 32354 [126, 98]
+Virtual Address: 41114 [160, 154] Physical Address: 3226 [12, 154]
+Virtual Address: 57930 [226, 74] Physical Address: 26698 [104, 74]
+Virtual Address: 15341 [59, 237] Physical Address: 5101 [19, 237]
+Virtual Address: 15598 [60, 238] Physical Address: 9966 [38, 238]
+EVICT! Oldest frame is 82, (age = 447)
+* Virtual Address: 59922 [234, 18] Physical Address: 21010 [82, 18]
+EVICT! Oldest frame is 1, (age = 448)
+* Virtual Address: 18226 [71, 50] Physical Address: 306 [1, 50]
+EVICT! Oldest frame is 9, (age = 452)
+* Virtual Address: 48162 [188, 34] Physical Address: 2338 [9, 34]
+Virtual Address: 41250 [161, 34] Physical Address: 15906 [62, 34]
+Virtual Address: 1512 [5, 232] Physical Address: 8168 [31, 232]
+Virtual Address: 2546 [9, 242] Physical Address: 24562 [95, 242]
+Virtual Address: 41682 [162, 210] Physical Address: 17874 [69, 210]
+Virtual Address: 322 [1, 66] Physical Address: 14658 [57, 66]
+Virtual Address: 880 [3, 112] Physical Address: 16752 [65, 112]
+Virtual Address: 20891 [81, 155] Physical Address: 15259 [59, 155]
+EVICT! Oldest frame is 78, (age = 453)
+* Virtual Address: 56604 [221, 28] Physical Address: 19996 [78, 28]
+EVICT! Oldest frame is 116, (age = 454)
+* Virtual Address: 40166 [156, 230] Physical Address: 29926 [116, 230]
+EVICT! Oldest frame is 46, (age = 455)
+* Virtual Address: 26791 [104, 167] Physical Address: 11943 [46, 167]
+EVICT! Oldest frame is 34, (age = 458)
+* Virtual Address: 44560 [174, 16] Physical Address: 8720 [34, 16]
+Virtual Address: 38698 [151, 42] Physical Address: 25642 [100, 42]
+Virtual Address: 64127 [250, 127] Physical Address: 4735 [18, 127]
+EVICT! Oldest frame is 32, (age = 459)
+* Virtual Address: 15028 [58, 180] Physical Address: 8372 [32, 180]
+Virtual Address: 38669 [151, 13] Physical Address: 25613 [100, 13]
+Virtual Address: 45637 [178, 69] Physical Address: 4165 [16, 69]
+EVICT! Oldest frame is 76, (age = 461)
+* Virtual Address: 43151 [168, 143] Physical Address: 19599 [76, 143]
+Virtual Address: 9465 [36, 249] Physical Address: 11257 [43, 249]
+Virtual Address: 2498 [9, 194] Physical Address: 24514 [95, 194]
+EVICT! Oldest frame is 84, (age = 463)
+* Virtual Address: 13978 [54, 154] Physical Address: 21658 [84, 154]
+Virtual Address: 16326 [63, 198] Physical Address: 8646 [33, 198]
+EVICT! Oldest frame is 86, (age = 465)
+* Virtual Address: 51442 [200, 242] Physical Address: 22258 [86, 242]
+EVICT! Oldest frame is 21, (age = 470)
+* Virtual Address: 34845 [136, 29] Physical Address: 5405 [21, 29]
+EVICT! Oldest frame is 97, (age = 471)
+* Virtual Address: 63667 [248, 179] Physical Address: 25011 [97, 179]
+Virtual Address: 39370 [153, 202] Physical Address: 5834 [22, 202]
+EVICT! Oldest frame is 49, (age = 474)
+* Virtual Address: 55671 [217, 119] Physical Address: 12663 [49, 119]
+Virtual Address: 64496 [251, 240] Physical Address: 12528 [48, 240]
+Virtual Address: 7767 [30, 87] Physical Address: 31575 [123, 87]
+EVICT! Oldest frame is 85, (age = 475)
+* Virtual Address: 6283 [24, 139] Physical Address: 21899 [85, 139]
+EVICT! Oldest frame is 92, (age = 477)
+* Virtual Address: 55884 [218, 76] Physical Address: 23628 [92, 76]
+EVICT! Oldest frame is 117, (age = 479)
+* Virtual Address: 61103 [238, 175] Physical Address: 30127 [117, 175]
+EVICT! Oldest frame is 107, (age = 481)
+* Virtual Address: 10184 [39, 200] Physical Address: 27592 [107, 200]
+EVICT! Oldest frame is 110, (age = 484)
+* Virtual Address: 39543 [154, 119] Physical Address: 28279 [110, 119]
+Virtual Address: 9555 [37, 83] Physical Address: 83 [0, 83]
+Virtual Address: 13963 [54, 139] Physical Address: 21643 [84, 139]
+EVICT! Oldest frame is 75, (age = 485)
+* Virtual Address: 58975 [230, 95] Physical Address: 19295 [75, 95]
+EVICT! Oldest frame is 28, (age = 488)
+* Virtual Address: 19537 [76, 81] Physical Address: 7249 [28, 81]
+EVICT! Oldest frame is 87, (age = 490)
+* Virtual Address: 6101 [23, 213] Physical Address: 22485 [87, 213]
+Virtual Address: 41421 [161, 205] Physical Address: 16077 [62, 205]
+Virtual Address: 45502 [177, 190] Physical Address: 23230 [90, 190]
+EVICT! Oldest frame is 8, (age = 492)
+* Virtual Address: 29328 [114, 144] Physical Address: 2192 [8, 144]
+Virtual Address: 8149 [31, 213] Physical Address: 2005 [7, 213]
+EVICT! Oldest frame is 114, (age = 494)
+* Virtual Address: 25450 [99, 106] Physical Address: 29290 [114, 106]
+Virtual Address: 58944 [230, 64] Physical Address: 19264 [75, 64]
+Virtual Address: 50666 [197, 234] Physical Address: 7914 [30, 234]
+EVICT! Oldest frame is 26, (age = 497)
+* Virtual Address: 23084 [90, 44] Physical Address: 6700 [26, 44]
+Virtual Address: 36468 [142, 116] Physical Address: 14452 [56, 116]
+EVICT! Oldest frame is 103, (age = 501)
+* Virtual Address: 33645 [131, 109] Physical Address: 26477 [103, 109]
+EVICT! Oldest frame is 81, (age = 504)
+* Virtual Address: 25002 [97, 170] Physical Address: 20906 [81, 170]
+EVICT! Oldest frame is 120, (age = 505)
+* Virtual Address: 53715 [209, 211] Physical Address: 30931 [120, 211]
+EVICT! Oldest frame is 70, (age = 510)
+* Virtual Address: 60173 [235, 13] Physical Address: 17933 [70, 13]
+EVICT! Oldest frame is 79, (age = 513)
+* Virtual Address: 46354 [181, 18] Physical Address: 20242 [79, 18]
+Virtual Address: 4708 [18, 100] Physical Address: 18276 [71, 100]
+EVICT! Oldest frame is 3, (age = 514)
+* Virtual Address: 28208 [110, 48] Physical Address: 816 [3, 48]
+EVICT! Oldest frame is 11, (age = 515)
+* Virtual Address: 58844 [229, 220] Physical Address: 3036 [11, 220]
+EVICT! Oldest frame is 99, (age = 517)
+* Virtual Address: 22173 [86, 157] Physical Address: 25501 [99, 157]
+Virtual Address: 8535 [33, 87] Physical Address: 22871 [89, 87]
+EVICT! Oldest frame is 98, (age = 518)
+* Virtual Address: 42261 [165, 21] Physical Address: 25109 [98, 21]
+EVICT! Oldest frame is 68, (age = 519)
+* Virtual Address: 29687 [115, 247] Physical Address: 17655 [68, 247]
+EVICT! Oldest frame is 61, (age = 521)
+* Virtual Address: 37799 [147, 167] Physical Address: 15783 [61, 167]
+EVICT! Oldest frame is 88, (age = 527)
+* Virtual Address: 22566 [88, 38] Physical Address: 22566 [88, 38]
+Virtual Address: 62520 [244, 56] Physical Address: 27192 [106, 56]
+Virtual Address: 4098 [16, 2] Physical Address: 30210 [118, 2]
+EVICT! Oldest frame is 91, (age = 529)
+* Virtual Address: 47999 [187, 127] Physical Address: 23423 [91, 127]
+EVICT! Oldest frame is 67, (age = 532)
+* Virtual Address: 49660 [193, 252] Physical Address: 17404 [67, 252]
+EVICT! Oldest frame is 127, (age = 533)
+* Virtual Address: 37063 [144, 199] Physical Address: 32711 [127, 199]
+Virtual Address: 41856 [163, 128] Physical Address: 20608 [80, 128]
+EVICT! Oldest frame is 96, (age = 534)
+* Virtual Address: 5417 [21, 41] Physical Address: 24617 [96, 41]
+Virtual Address: 48856 [190, 216] Physical Address: 7640 [29, 216]
+EVICT! Oldest frame is 58, (age = 535)
+* Virtual Address: 10682 [41, 186] Physical Address: 15034 [58, 186]
+EVICT! Oldest frame is 105, (age = 539)
+* Virtual Address: 22370 [87, 98] Physical Address: 26978 [105, 98]
+Virtual Address: 63281 [247, 49] Physical Address: 28977 [113, 49]
+Virtual Address: 62452 [243, 244] Physical Address: 24052 [93, 244]
+Virtual Address: 50532 [197, 100] Physical Address: 7780 [30, 100]
+EVICT! Oldest frame is 20, (age = 540)
+* Virtual Address: 9022 [35, 62] Physical Address: 5182 [20, 62]
+EVICT! Oldest frame is 115, (age = 544)
+* Virtual Address: 59300 [231, 164] Physical Address: 29604 [115, 164]
+Virtual Address: 58660 [229, 36] Physical Address: 2852 [11, 36]
+EVICT! Oldest frame is 119, (age = 550)
+* Virtual Address: 56401 [220, 81] Physical Address: 30545 [119, 81]
+Virtual Address: 8518 [33, 70] Physical Address: 22854 [89, 70]
+Virtual Address: 63066 [246, 90] Physical Address: 10330 [40, 90]
+Virtual Address: 63250 [247, 18] Physical Address: 28946 [113, 18]
+EVICT! Oldest frame is 64, (age = 551)
+* Virtual Address: 48592 [189, 208] Physical Address: 16592 [64, 208]
+EVICT! Oldest frame is 45, (age = 552)
+* Virtual Address: 28771 [112, 99] Physical Address: 11619 [45, 99]
+Virtual Address: 37673 [147, 41] Physical Address: 15657 [61, 41]
+EVICT! Oldest frame is 60, (age = 553)
+* Virtual Address: 60776 [237, 104] Physical Address: 15464 [60, 104]
+Virtual Address: 56438 [220, 118] Physical Address: 30582 [119, 118]
+EVICT! Oldest frame is 54, (age = 554)
+* Virtual Address: 60424 [236, 8] Physical Address: 13832 [54, 8]
+Virtual Address: 39993 [156, 57] Physical Address: 29753 [116, 57]
+Virtual Address: 56004 [218, 196] Physical Address: 23748 [92, 196]
+Virtual Address: 59002 [230, 122] Physical Address: 19322 [75, 122]
+Virtual Address: 33982 [132, 190] Physical Address: 19902 [77, 190]
+Virtual Address: 25498 [99, 154] Physical Address: 29338 [114, 154]
+EVICT! Oldest frame is 10, (age = 557)
+* Virtual Address: 57047 [222, 215] Physical Address: 2775 [10, 215]
+Virtual Address: 1401 [5, 121] Physical Address: 8057 [31, 121]
+Virtual Address: 15130 [59, 26] Physical Address: 4890 [19, 26]
+EVICT! Oldest frame is 24, (age = 559)
+* Virtual Address: 42960 [167, 208] Physical Address: 6352 [24, 208]
+EVICT! Oldest frame is 72, (age = 561)
+* Virtual Address: 61827 [241, 131] Physical Address: 18563 [72, 131]
+EVICT! Oldest frame is 14, (age = 562)
+* Virtual Address: 32442 [126, 186] Physical Address: 3770 [14, 186]
+Virtual Address: 64304 [251, 48] Physical Address: 12336 [48, 48]
+Virtual Address: 30273 [118, 65] Physical Address: 6465 [25, 65]
+EVICT! Oldest frame is 44, (age = 566)
+* Virtual Address: 38082 [148, 194] Physical Address: 11458 [44, 194]
+Virtual Address: 22404 [87, 132] Physical Address: 27012 [105, 132]
+Virtual Address: 3808 [14, 224] Physical Address: 26080 [101, 224]
+EVICT! Oldest frame is 108, (age = 567)
+* Virtual Address: 16883 [65, 243] Physical Address: 27891 [108, 243]
+Virtual Address: 23111 [90, 71] Physical Address: 6727 [26, 71]
+Virtual Address: 62417 [243, 209] Physical Address: 24017 [93, 209]
+Virtual Address: 60364 [235, 204] Physical Address: 18124 [70, 204]
+Virtual Address: 4542 [17, 190] Physical Address: 4542 [17, 190]
+EVICT! Oldest frame is 2, (age = 568)
+* Virtual Address: 14829 [57, 237] Physical Address: 749 [2, 237]
+EVICT! Oldest frame is 39, (age = 569)
+* Virtual Address: 44964 [175, 164] Physical Address: 10148 [39, 164]
+Virtual Address: 33924 [132, 132] Physical Address: 19844 [77, 132]
+Virtual Address: 2141 [8, 93] Physical Address: 13149 [51, 93]
+Virtual Address: 19245 [75, 45] Physical Address: 6957 [27, 45]
+Virtual Address: 47168 [184, 64] Physical Address: 28736 [112, 64]
+EVICT! Oldest frame is 74, (age = 571)
+* Virtual Address: 24048 [93, 240] Physical Address: 19184 [74, 240]
+Virtual Address: 1022 [3, 254] Physical Address: 16894 [65, 254]
+Virtual Address: 23075 [90, 35] Physical Address: 6691 [26, 35]
+Virtual Address: 24888 [97, 56] Physical Address: 20792 [81, 56]
+EVICT! Oldest frame is 15, (age = 573)
+* Virtual Address: 49247 [192, 95] Physical Address: 3935 [15, 95]
+EVICT! Oldest frame is 122, (age = 578)
+* Virtual Address: 4900 [19, 36] Physical Address: 31268 [122, 36]
+Virtual Address: 22656 [88, 128] Physical Address: 22656 [88, 128]
+EVICT! Oldest frame is 125, (age = 579)
+* Virtual Address: 34117 [133, 69] Physical Address: 32069 [125, 69]
+Virtual Address: 55555 [217, 3] Physical Address: 12547 [49, 3]
+Virtual Address: 48947 [191, 51] Physical Address: 1075 [4, 51]
+EVICT! Oldest frame is 47, (age = 580)
+* Virtual Address: 59533 [232, 141] Physical Address: 12173 [47, 141]
+EVICT! Oldest frame is 83, (age = 582)
+* Virtual Address: 21312 [83, 64] Physical Address: 21312 [83, 64]
+Virtual Address: 21415 [83, 167] Physical Address: 21415 [83, 167]
+Virtual Address: 813 [3, 45] Physical Address: 16685 [65, 45]
+Virtual Address: 19419 [75, 219] Physical Address: 7131 [27, 219]
+EVICT! Oldest frame is 42, (age = 585)
+* Virtual Address: 1999 [7, 207] Physical Address: 10959 [42, 207]
+EVICT! Oldest frame is 35, (age = 588)
+* Virtual Address: 20155 [78, 187] Physical Address: 9147 [35, 187]
+Virtual Address: 21521 [84, 17] Physical Address: 9489 [37, 17]
+EVICT! Oldest frame is 50, (age = 589)
+* Virtual Address: 13670 [53, 102] Physical Address: 12902 [50, 102]
+Virtual Address: 19289 [75, 89] Physical Address: 7001 [27, 89]
+EVICT! Oldest frame is 52, (age = 590)
+* Virtual Address: 58483 [228, 115] Physical Address: 13427 [52, 115]
+Virtual Address: 41318 [161, 102] Physical Address: 15974 [62, 102]
+Virtual Address: 16151 [63, 23] Physical Address: 8471 [33, 23]
+Virtual Address: 13611 [53, 43] Physical Address: 12843 [50, 43]
+Virtual Address: 21514 [84, 10] Physical Address: 9482 [37, 10]
+EVICT! Oldest frame is 5, (age = 591)
+* Virtual Address: 13499 [52, 187] Physical Address: 1467 [5, 187]
+Virtual Address: 45583 [178, 15] Physical Address: 4111 [16, 15]
+Virtual Address: 49013 [191, 117] Physical Address: 1141 [4, 117]
+EVICT! Oldest frame is 53, (age = 592)
+* Virtual Address: 64843 [253, 75] Physical Address: 13643 [53, 75]
+Virtual Address: 63485 [247, 253] Physical Address: 29181 [113, 253]
+Virtual Address: 38697 [151, 41] Physical Address: 25641 [100, 41]
+Virtual Address: 59188 [231, 52] Physical Address: 29492 [115, 52]
+EVICT! Oldest frame is 63, (age = 595)
+* Virtual Address: 24593 [96, 17] Physical Address: 16145 [63, 17]
+EVICT! Oldest frame is 109, (age = 597)
+* Virtual Address: 57641 [225, 41] Physical Address: 27945 [109, 41]
+Virtual Address: 36524 [142, 172] Physical Address: 14508 [56, 172]
+Virtual Address: 56980 [222, 148] Physical Address: 2708 [10, 148]
+EVICT! Oldest frame is 124, (age = 599)
+* Virtual Address: 36810 [143, 202] Physical Address: 31946 [124, 202]
+Virtual Address: 6096 [23, 208] Physical Address: 22480 [87, 208]
+EVICT! Oldest frame is 6, (age = 600)
+* Virtual Address: 11070 [43, 62] Physical Address: 1598 [6, 62]
+Virtual Address: 60124 [234, 220] Physical Address: 21212 [82, 220]
+EVICT! Oldest frame is 23, (age = 601)
+* Virtual Address: 37576 [146, 200] Physical Address: 6088 [23, 200]
+Virtual Address: 15096 [58, 248] Physical Address: 8440 [32, 248]
+EVICT! Oldest frame is 55, (age = 602)
+* Virtual Address: 45247 [176, 191] Physical Address: 14271 [55, 191]
+EVICT! Oldest frame is 121, (age = 610)
+* Virtual Address: 32783 [128, 15] Physical Address: 30991 [121, 15]
+Virtual Address: 58390 [228, 22] Physical Address: 13334 [52, 22]
+Virtual Address: 60873 [237, 201] Physical Address: 15561 [60, 201]
+EVICT! Oldest frame is 102, (age = 614)
+* Virtual Address: 23719 [92, 167] Physical Address: 26279 [102, 167]
+EVICT! Oldest frame is 13, (age = 616)
+* Virtual Address: 24385 [95, 65] Physical Address: 3393 [13, 65]
+Virtual Address: 22307 [87, 35] Physical Address: 26915 [105, 35]
+EVICT! Oldest frame is 73, (age = 617)
+* Virtual Address: 17375 [67, 223] Physical Address: 18911 [73, 223]
+EVICT! Oldest frame is 111, (age = 618)
+* Virtual Address: 15990 [62, 118] Physical Address: 28534 [111, 118]
+EVICT! Oldest frame is 36, (age = 619)
+* Virtual Address: 20526 [80, 46] Physical Address: 9262 [36, 46]
+EVICT! Oldest frame is 94, (age = 621)
+* Virtual Address: 25904 [101, 48] Physical Address: 24112 [94, 48]
+EVICT! Oldest frame is 66, (age = 624)
+* Virtual Address: 42224 [164, 240] Physical Address: 17136 [66, 240]
+Virtual Address: 9311 [36, 95] Physical Address: 11103 [43, 95]
+Virtual Address: 7862 [30, 182] Physical Address: 31670 [123, 182]
+Virtual Address: 3835 [14, 251] Physical Address: 26107 [101, 251]
+Virtual Address: 30535 [119, 71] Physical Address: 10567 [41, 71]
+EVICT! Oldest frame is 126, (age = 627)
+* Virtual Address: 65179 [254, 155] Physical Address: 32411 [126, 155]
+EVICT! Oldest frame is 12, (age = 628)
+* Virtual Address: 57387 [224, 43] Physical Address: 3115 [12, 43]
+Virtual Address: 63579 [248, 91] Physical Address: 24923 [97, 91]
+Virtual Address: 4946 [19, 82] Physical Address: 31314 [122, 82]
+Virtual Address: 9037 [35, 77] Physical Address: 5197 [20, 77]
+Virtual Address: 61033 [238, 105] Physical Address: 30057 [117, 105]
+EVICT! Oldest frame is 104, (age = 629)
+* Virtual Address: 55543 [216, 247] Physical Address: 26871 [104, 247]
+EVICT! Oldest frame is 38, (age = 631)
+* Virtual Address: 50361 [196, 185] Physical Address: 9913 [38, 185]
+EVICT! Oldest frame is 1, (age = 633)
+* Virtual Address: 6480 [25, 80] Physical Address: 336 [1, 80]
+Virtual Address: 14042 [54, 218] Physical Address: 21722 [84, 218]
+Virtual Address: 21531 [84, 27] Physical Address: 9499 [37, 27]
+Virtual Address: 39195 [153, 27] Physical Address: 5659 [22, 27]
+Virtual Address: 37511 [146, 135] Physical Address: 6023 [23, 135]
+Virtual Address: 23696 [92, 144] Physical Address: 26256 [102, 144]
+EVICT! Oldest frame is 9, (age = 634)
+* Virtual Address: 27440 [107, 48] Physical Address: 2352 [9, 48]
+Virtual Address: 28201 [110, 41] Physical Address: 809 [3, 41]
+Virtual Address: 23072 [90, 32] Physical Address: 6688 [26, 32]
+Virtual Address: 7814 [30, 134] Physical Address: 31622 [123, 134]
+Virtual Address: 6552 [25, 152] Physical Address: 408 [1, 152]
+EVICT! Oldest frame is 69, (age = 638)
+* Virtual Address: 43637 [170, 117] Physical Address: 17781 [69, 117]
+EVICT! Oldest frame is 57, (age = 639)
+* Virtual Address: 35113 [137, 41] Physical Address: 14633 [57, 41]
+Virtual Address: 34890 [136, 74] Physical Address: 5450 [21, 74]
+EVICT! Oldest frame is 59, (age = 641)
+* Virtual Address: 61297 [239, 113] Physical Address: 15217 [59, 113]
+Virtual Address: 45633 [178, 65] Physical Address: 4161 [16, 65]
+Virtual Address: 61431 [239, 247] Physical Address: 15351 [59, 247]
+EVICT! Oldest frame is 78, (age = 642)
+* Virtual Address: 46032 [179, 208] Physical Address: 20176 [78, 208]
+EVICT! Oldest frame is 46, (age = 644)
+* Virtual Address: 18774 [73, 86] Physical Address: 11862 [46, 86]
+Virtual Address: 62991 [246, 15] Physical Address: 10255 [40, 15]
+EVICT! Oldest frame is 34, (age = 645)
+* Virtual Address: 28059 [109, 155] Physical Address: 8859 [34, 155]
+Virtual Address: 35229 [137, 157] Physical Address: 14749 [57, 157]
+Virtual Address: 51230 [200, 30] Physical Address: 22046 [86, 30]
+EVICT! Oldest frame is 18, (age = 647)
+* Virtual Address: 14405 [56, 69] Physical Address: 4677 [18, 69]
+EVICT! Oldest frame is 76, (age = 651)
+* Virtual Address: 52242 [204, 18] Physical Address: 19474 [76, 18]
+EVICT! Oldest frame is 95, (age = 653)
+* Virtual Address: 43153 [168, 145] Physical Address: 24465 [95, 145]
+EVICT! Oldest frame is 85, (age = 663)
+* Virtual Address: 2709 [10, 149] Physical Address: 21909 [85, 149]
+Virtual Address: 47963 [187, 91] Physical Address: 23387 [91, 91]
+Virtual Address: 36943 [144, 79] Physical Address: 32591 [127, 79]
+EVICT! Oldest frame is 107, (age = 666)
+* Virtual Address: 54066 [211, 50] Physical Address: 27442 [107, 50]
+EVICT! Oldest frame is 110, (age = 667)
+* Virtual Address: 10054 [39, 70] Physical Address: 28230 [110, 70]
+Virtual Address: 43051 [168, 43] Physical Address: 24363 [95, 43]
+EVICT! Oldest frame is 0, (age = 668)
+* Virtual Address: 11525 [45, 5] Physical Address: 5 [0, 5]
+EVICT! Oldest frame is 28, (age = 671)
+* Virtual Address: 17684 [69, 20] Physical Address: 7188 [28, 20]
+EVICT! Oldest frame is 90, (age = 674)
+* Virtual Address: 41681 [162, 209] Physical Address: 23249 [90, 209]
+EVICT! Oldest frame is 8, (age = 675)
+* Virtual Address: 27883 [108, 235] Physical Address: 2283 [8, 235]
+Virtual Address: 56909 [222, 77] Physical Address: 2637 [10, 77]
+Virtual Address: 45772 [178, 204] Physical Address: 4300 [16, 204]
+Virtual Address: 27496 [107, 104] Physical Address: 2408 [9, 104]
+EVICT! Oldest frame is 7, (age = 676)
+* Virtual Address: 46842 [182, 250] Physical Address: 2042 [7, 250]
+Virtual Address: 38734 [151, 78] Physical Address: 25678 [100, 78]
+EVICT! Oldest frame is 103, (age = 682)
+* Virtual Address: 28972 [113, 44] Physical Address: 26412 [103, 44]
+EVICT! Oldest frame is 120, (age = 684)
+* Virtual Address: 59684 [233, 36] Physical Address: 30756 [120, 36]
+EVICT! Oldest frame is 79, (age = 686)
+* Virtual Address: 11384 [44, 120] Physical Address: 20344 [79, 120]
+EVICT! Oldest frame is 71, (age = 687)
+* Virtual Address: 21018 [82, 26] Physical Address: 18202 [71, 26]
+Virtual Address: 2192 [8, 144] Physical Address: 13200 [51, 144]
+EVICT! Oldest frame is 99, (age = 690)
+* Virtual Address: 18384 [71, 208] Physical Address: 25552 [99, 208]
+Virtual Address: 13464 [52, 152] Physical Address: 1432 [5, 152]
+EVICT! Oldest frame is 98, (age = 692)
+* Virtual Address: 31018 [121, 42] Physical Address: 25130 [98, 42]
+EVICT! Oldest frame is 68, (age = 693)
+* Virtual Address: 62958 [245, 238] Physical Address: 17646 [68, 238]
+Virtual Address: 30611 [119, 147] Physical Address: 10643 [41, 147]
+Virtual Address: 1913 [7, 121] Physical Address: 10873 [42, 121]
+Virtual Address: 18904 [73, 216] Physical Address: 11992 [46, 216]
+EVICT! Oldest frame is 106, (age = 696)
+* Virtual Address: 26773 [104, 149] Physical Address: 27285 [106, 149]
+Virtual Address: 55491 [216, 195] Physical Address: 26819 [104, 195]
+EVICT! Oldest frame is 118, (age = 697)
+* Virtual Address: 21899 [85, 139] Physical Address: 30347 [118, 139]
+Virtual Address: 64413 [251, 157] Physical Address: 12445 [48, 157]
+Virtual Address: 47134 [184, 30] Physical Address: 28702 [112, 30]
+Virtual Address: 23172 [90, 132] Physical Address: 6788 [26, 132]
+EVICT! Oldest frame is 67, (age = 699)
+* Virtual Address: 7262 [28, 94] Physical Address: 17246 [67, 94]
+EVICT! Oldest frame is 80, (age = 701)
+* Virtual Address: 12705 [49, 161] Physical Address: 20641 [80, 161]
+EVICT! Oldest frame is 96, (age = 702)
+* Virtual Address: 7522 [29, 98] Physical Address: 24674 [96, 98]
+Virtual Address: 58815 [229, 191] Physical Address: 3007 [11, 191]
+Virtual Address: 34916 [136, 100] Physical Address: 5476 [21, 100]
+Virtual Address: 3802 [14, 218] Physical Address: 26074 [101, 218]
+EVICT! Oldest frame is 29, (age = 703)
+* Virtual Address: 58008 [226, 152] Physical Address: 7576 [29, 152]
+EVICT! Oldest frame is 58, (age = 704)
+* Virtual Address: 1239 [4, 215] Physical Address: 15063 [58, 215]
+EVICT! Oldest frame is 30, (age = 708)
+* Virtual Address: 63947 [249, 203] Physical Address: 7883 [30, 203]
+EVICT! Oldest frame is 89, (age = 713)
+* Virtual Address: 381 [1, 125] Physical Address: 22909 [89, 125]
+Virtual Address: 60734 [237, 62] Physical Address: 15422 [60, 62]
+EVICT! Oldest frame is 64, (age = 716)
+* Virtual Address: 48769 [190, 129] Physical Address: 16513 [64, 129]
+EVICT! Oldest frame is 45, (age = 717)
+* Virtual Address: 41938 [163, 210] Physical Address: 11730 [45, 210]
+Virtual Address: 38025 [148, 137] Physical Address: 11401 [44, 137]
+EVICT! Oldest frame is 61, (age = 718)
+* Virtual Address: 55099 [215, 59] Physical Address: 15675 [61, 59]
+EVICT! Oldest frame is 119, (age = 720)
+* Virtual Address: 56691 [221, 115] Physical Address: 30579 [119, 115]
+EVICT! Oldest frame is 54, (age = 721)
+* Virtual Address: 39530 [154, 106] Physical Address: 13930 [54, 106]
+Virtual Address: 59003 [230, 123] Physical Address: 19323 [75, 123]
+Virtual Address: 6029 [23, 141] Physical Address: 22413 [87, 141]
+EVICT! Oldest frame is 116, (age = 722)
+* Virtual Address: 20920 [81, 184] Physical Address: 29880 [116, 184]
+EVICT! Oldest frame is 92, (age = 723)
+* Virtual Address: 8077 [31, 141] Physical Address: 23693 [92, 141]
+EVICT! Oldest frame is 114, (age = 726)
+* Virtual Address: 42633 [166, 137] Physical Address: 29321 [114, 137]
+EVICT! Oldest frame is 31, (age = 728)
+* Virtual Address: 17443 [68, 35] Physical Address: 7971 [31, 35]
+EVICT! Oldest frame is 19, (age = 729)
+* Virtual Address: 53570 [209, 66] Physical Address: 4930 [19, 66]
+EVICT! Oldest frame is 24, (age = 730)
+* Virtual Address: 22833 [89, 49] Physical Address: 6193 [24, 49]
+Virtual Address: 3782 [14, 198] Physical Address: 26054 [101, 198]
+EVICT! Oldest frame is 72, (age = 731)
+* Virtual Address: 47758 [186, 142] Physical Address: 18574 [72, 142]
+EVICT! Oldest frame is 14, (age = 732)
+* Virtual Address: 22136 [86, 120] Physical Address: 3704 [14, 120]
+Virtual Address: 22427 [87, 155] Physical Address: 27035 [105, 155]
+Virtual Address: 23867 [93, 59] Physical Address: 19003 [74, 59]
+Virtual Address: 59968 [234, 64] Physical Address: 21056 [82, 64]
+EVICT! Oldest frame is 25, (age = 734)
+* Virtual Address: 62166 [242, 214] Physical Address: 6614 [25, 214]
+EVICT! Oldest frame is 108, (age = 738)
+* Virtual Address: 6972 [27, 60] Physical Address: 27708 [108, 60]
+Virtual Address: 63684 [248, 196] Physical Address: 25028 [97, 196]
+EVICT! Oldest frame is 93, (age = 740)
+* Virtual Address: 46388 [181, 52] Physical Address: 23860 [93, 52]
+Virtual Address: 41942 [163, 214] Physical Address: 11734 [45, 214]
+Virtual Address: 36524 [142, 172] Physical Address: 14508 [56, 172]
+Virtual Address: 9323 [36, 107] Physical Address: 11115 [43, 107]
+Virtual Address: 31114 [121, 138] Physical Address: 25226 [98, 138]
+Virtual Address: 22345 [87, 73] Physical Address: 26953 [105, 73]
+Virtual Address: 46463 [181, 127] Physical Address: 23935 [93, 127]
+EVICT! Oldest frame is 70, (age = 741)
+* Virtual Address: 54671 [213, 143] Physical Address: 18063 [70, 143]
+Virtual Address: 9214 [35, 254] Physical Address: 5374 [20, 254]
+Virtual Address: 7257 [28, 89] Physical Address: 17241 [67, 89]
+EVICT! Oldest frame is 17, (age = 742)
+* Virtual Address: 33150 [129, 126] Physical Address: 4478 [17, 126]
+Virtual Address: 41565 [162, 93] Physical Address: 23133 [90, 93]
+EVICT! Oldest frame is 2, (age = 743)
+* Virtual Address: 26214 [102, 102] Physical Address: 614 [2, 102]
+Virtual Address: 3595 [14, 11] Physical Address: 25867 [101, 11]
+EVICT! Oldest frame is 39, (age = 744)
+* Virtual Address: 17932 [70, 12] Physical Address: 9996 [39, 12]
+EVICT! Oldest frame is 77, (age = 745)
+* Virtual Address: 34660 [135, 100] Physical Address: 19812 [77, 100]
+EVICT! Oldest frame is 81, (age = 752)
+* Virtual Address: 51961 [202, 249] Physical Address: 20985 [81, 249]
+Virtual Address: 58634 [229, 10] Physical Address: 2826 [11, 10]
+Virtual Address: 57990 [226, 134] Physical Address: 7558 [29, 134]
+EVICT! Oldest frame is 15, (age = 753)
+* Virtual Address: 28848 [112, 176] Physical Address: 4016 [15, 176]
+EVICT! Oldest frame is 88, (age = 755)
+* Virtual Address: 49920 [195, 0] Physical Address: 22528 [88, 0]
+Virtual Address: 18351 [71, 175] Physical Address: 25519 [99, 175]
+Virtual Address: 53669 [209, 165] Physical Address: 5029 [19, 165]
+EVICT! Oldest frame is 125, (age = 756)
+* Virtual Address: 33996 [132, 204] Physical Address: 32204 [125, 204]
+EVICT! Oldest frame is 49, (age = 757)
+* Virtual Address: 6741 [26, 85] Physical Address: 12629 [49, 85]
+EVICT! Oldest frame is 47, (age = 759)
+* Virtual Address: 64098 [250, 98] Physical Address: 12130 [47, 98]
+EVICT! Oldest frame is 83, (age = 761)
+* Virtual Address: 606 [2, 94] Physical Address: 21342 [83, 94]
+EVICT! Oldest frame is 65, (age = 762)
+* Virtual Address: 27383 [106, 247] Physical Address: 16887 [65, 247]
+Virtual Address: 63140 [246, 164] Physical Address: 10404 [40, 164]
+EVICT! Oldest frame is 35, (age = 765)
+* Virtual Address: 32228 [125, 228] Physical Address: 9188 [35, 228]
+Virtual Address: 63437 [247, 205] Physical Address: 29133 [113, 205]
+Virtual Address: 29085 [113, 157] Physical Address: 26525 [103, 157]
+Virtual Address: 65080 [254, 56] Physical Address: 32312 [126, 56]
+Virtual Address: 38753 [151, 97] Physical Address: 25697 [100, 97]
+Virtual Address: 16041 [62, 169] Physical Address: 28585 [111, 169]
+Virtual Address: 9041 [35, 81] Physical Address: 5201 [20, 81]
+Virtual Address: 42090 [164, 106] Physical Address: 17002 [66, 106]
+Virtual Address: 46388 [181, 52] Physical Address: 23860 [93, 52]
+Virtual Address: 63650 [248, 162] Physical Address: 24994 [97, 162]
+Virtual Address: 36636 [143, 28] Physical Address: 31772 [124, 28]
+Virtual Address: 21947 [85, 187] Physical Address: 30395 [118, 187]
+EVICT! Oldest frame is 27, (age = 768)
+* Virtual Address: 19833 [77, 121] Physical Address: 7033 [27, 121]
+Virtual Address: 36464 [142, 112] Physical Address: 14448 [56, 112]
+EVICT! Oldest frame is 62, (age = 770)
+* Virtual Address: 8541 [33, 93] Physical Address: 15965 [62, 93]
+Virtual Address: 12712 [49, 168] Physical Address: 20648 [80, 168]
+Virtual Address: 48955 [191, 59] Physical Address: 1083 [4, 59]
+Virtual Address: 39206 [153, 38] Physical Address: 5670 [22, 38]
+EVICT! Oldest frame is 33, (age = 771)
+* Virtual Address: 15578 [60, 218] Physical Address: 8666 [33, 218]
+EVICT! Oldest frame is 50, (age = 772)
+* Virtual Address: 49205 [192, 53] Physical Address: 12853 [50, 53]
+Virtual Address: 7731 [30, 51] Physical Address: 31539 [123, 51]
+Virtual Address: 43046 [168, 38] Physical Address: 24358 [95, 38]
+EVICT! Oldest frame is 53, (age = 777)
+* Virtual Address: 60498 [236, 82] Physical Address: 13650 [53, 82]
+Virtual Address: 9237 [36, 21] Physical Address: 11029 [43, 21]
+Virtual Address: 47706 [186, 90] Physical Address: 18522 [72, 90]
+EVICT! Oldest frame is 115, (age = 780)
+* Virtual Address: 43973 [171, 197] Physical Address: 29637 [115, 197]
+Virtual Address: 42008 [164, 24] Physical Address: 16920 [66, 24]
+Virtual Address: 27460 [107, 68] Physical Address: 2372 [9, 68]
+EVICT! Oldest frame is 63, (age = 781)
+* Virtual Address: 24999 [97, 167] Physical Address: 16295 [63, 167]
+Virtual Address: 51933 [202, 221] Physical Address: 20957 [81, 221]
+EVICT! Oldest frame is 109, (age = 782)
+* Virtual Address: 34070 [133, 22] Physical Address: 27926 [109, 22]
+Virtual Address: 65155 [254, 131] Physical Address: 32387 [126, 131]
+Virtual Address: 59955 [234, 51] Physical Address: 21043 [82, 51]
+Virtual Address: 9277 [36, 61] Physical Address: 11069 [43, 61]
+EVICT! Oldest frame is 6, (age = 787)
+* Virtual Address: 20420 [79, 196] Physical Address: 1732 [6, 196]
+EVICT! Oldest frame is 32, (age = 790)
+* Virtual Address: 44860 [175, 60] Physical Address: 8252 [32, 60]
+EVICT! Oldest frame is 55, (age = 791)
+* Virtual Address: 50992 [199, 48] Physical Address: 14128 [55, 48]
+EVICT! Oldest frame is 121, (age = 792)
+* Virtual Address: 10583 [41, 87] Physical Address: 31063 [121, 87]
+EVICT! Oldest frame is 52, (age = 793)
+* Virtual Address: 57751 [225, 151] Physical Address: 13463 [52, 151]
+Virtual Address: 23195 [90, 155] Physical Address: 6811 [26, 155]
+Virtual Address: 27227 [106, 91] Physical Address: 16731 [65, 91]
+EVICT! Oldest frame is 13, (age = 796)
+* Virtual Address: 42816 [167, 64] Physical Address: 3392 [13, 64]
+EVICT! Oldest frame is 73, (age = 798)
+* Virtual Address: 58219 [227, 107] Physical Address: 18795 [73, 107]
+Virtual Address: 37606 [146, 230] Physical Address: 6118 [23, 230]
+Virtual Address: 18426 [71, 250] Physical Address: 25594 [99, 250]
+Virtual Address: 21238 [82, 246] Physical Address: 18422 [71, 246]
+EVICT! Oldest frame is 36, (age = 800)
+* Virtual Address: 11983 [46, 207] Physical Address: 9423 [36, 207]
+EVICT! Oldest frame is 94, (age = 801)
+* Virtual Address: 48394 [189, 10] Physical Address: 24074 [94, 10]
+EVICT! Oldest frame is 12, (age = 808)
+* Virtual Address: 11036 [43, 28] Physical Address: 3100 [12, 28]
+Virtual Address: 30557 [119, 93] Physical Address: 10589 [41, 93]
+EVICT! Oldest frame is 122, (age = 810)
+* Virtual Address: 23453 [91, 157] Physical Address: 31389 [122, 157]
+EVICT! Oldest frame is 117, (age = 812)
+* Virtual Address: 49847 [194, 183] Physical Address: 30135 [117, 183]
+EVICT! Oldest frame is 38, (age = 814)
+* Virtual Address: 30032 [117, 80] Physical Address: 9808 [38, 80]
+Virtual Address: 48065 [187, 193] Physical Address: 23489 [91, 193]
+Virtual Address: 6957 [27, 45] Physical Address: 27693 [108, 45]
+Virtual Address: 2301 [8, 253] Physical Address: 13309 [51, 253]
+Virtual Address: 7736 [30, 56] Physical Address: 31544 [123, 56]
+EVICT! Oldest frame is 84, (age = 816)
+* Virtual Address: 31260 [122, 28] Physical Address: 21532 [84, 28]
+EVICT! Oldest frame is 37, (age = 817)
+* Virtual Address: 17071 [66, 175] Physical Address: 9647 [37, 175]
+EVICT! Oldest frame is 102, (age = 820)
+* Virtual Address: 8940 [34, 236] Physical Address: 26348 [102, 236]
+EVICT! Oldest frame is 3, (age = 822)
+* Virtual Address: 9929 [38, 201] Physical Address: 969 [3, 201]
+EVICT! Oldest frame is 1, (age = 825)
+* Virtual Address: 45563 [177, 251] Physical Address: 507 [1, 251]
+EVICT! Oldest frame is 69, (age = 826)
+* Virtual Address: 12107 [47, 75] Physical Address: 17739 [69, 75]
+1000
