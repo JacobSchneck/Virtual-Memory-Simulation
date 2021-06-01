@@ -1,0 +1,1823 @@
+* Virtual address: 16916 [66, 20] Physical address: 20 [0, 20] Value: 0
+* Virtual address: 62493 [244, 29] Physical address: 285 [1, 29] Value: 0
+* Virtual address: 30198 [117, 246] Physical address: 758 [2, 246] Value: 29
+* Virtual address: 53683 [209, 179] Physical address: 947 [3, 179] Value: 108
+* Virtual address: 40185 [156, 249] Physical address: 1273 [4, 249] Value: 0
+* Virtual address: 28781 [112, 109] Physical address: 1389 [5, 109] Value: 0
+* Virtual address: 24462 [95, 142] Physical address: 1678 [6, 142] Value: 23
+* Virtual address: 48399 [189, 15] Physical address: 1807 [7, 15] Value: 67
+* Virtual address: 64815 [253, 47] Physical address: 2095 [8, 47] Value: 75
+* Virtual address: 18295 [71, 119] Physical address: 2423 [9, 119] Value: -35
+* Virtual address: 12218 [47, 186] Physical address: 2746 [10, 186] Value: 11
+* Virtual address: 22760 [88, 232] Physical address: 3048 [11, 232] Value: 0
+* Virtual address: 57982 [226, 126] Physical address: 3198 [12, 126] Value: 56
+* Virtual address: 27966 [109, 62] Physical address: 3390 [13, 62] Value: 27
+* Virtual address: 54894 [214, 110] Physical address: 3694 [14, 110] Value: 53
+* Virtual address: 38929 [152, 17] Physical address: 3857 [15, 17] Value: 0
+* Virtual address: 32865 [128, 97] Physical address: 4193 [16, 97] Value: 0
+* Virtual address: 64243 [250, 243] Physical address: 4595 [17, 243] Value: -68
+* Virtual address: 2315 [9, 11] Physical address: 4619 [18, 11] Value: 66
+* Virtual address: 64454 [251, 198] Physical address: 5062 [19, 198] Value: 62
+* Virtual address: 55041 [215, 1] Physical address: 5121 [20, 1] Value: 0
+* Virtual address: 18633 [72, 201] Physical address: 5577 [21, 201] Value: 0
+* Virtual address: 14557 [56, 221] Physical address: 5853 [22, 221] Value: 0
+* Virtual address: 61006 [238, 78] Physical address: 5966 [23, 78] Value: 59
+  Virtual address: 62615 [244, 151] Physical address: 407 [1, 151] Value: 37
+* Virtual address: 7591 [29, 167] Physical address: 6311 [24, 167] Value: 105
+* Virtual address: 64747 [252, 235] Physical address: 6635 [25, 235] Value: 58
+* Virtual address: 6727 [26, 71] Physical address: 6727 [26, 71] Value: -111
+* Virtual address: 32315 [126, 59] Physical address: 6971 [27, 59] Value: -114
+* Virtual address: 60645 [236, 229] Physical address: 7397 [28, 229] Value: 0
+* Virtual address: 6308 [24, 164] Physical address: 7588 [29, 164] Value: 0
+* Virtual address: 45688 [178, 120] Physical address: 7800 [30, 120] Value: 0
+* Virtual address: 969 [3, 201] Physical address: 8137 [31, 201] Value: 0
+* Virtual address: 40891 [159, 187] Physical address: 8379 [32, 187] Value: -18
+* Virtual address: 49294 [192, 142] Physical address: 8590 [33, 142] Value: 48
+* Virtual address: 41118 [160, 158] Physical address: 8862 [34, 158] Value: 40
+* Virtual address: 21395 [83, 147] Physical address: 9107 [35, 147] Value: -28
+* Virtual address: 6091 [23, 203] Physical address: 9419 [36, 203] Value: -14
+* Virtual address: 32541 [127, 29] Physical address: 9501 [37, 29] Value: 0
+* Virtual address: 17665 [69, 1] Physical address: 9729 [38, 1] Value: 0
+* Virtual address: 3784 [14, 200] Physical address: 10184 [39, 200] Value: 0
+  Virtual address: 28718 [112, 46] Physical address: 1326 [5, 46] Value: 28
+* Virtual address: 59240 [231, 104] Physical address: 10344 [40, 104] Value: 0
+  Virtual address: 40178 [156, 242] Physical address: 1266 [4, 242] Value: 39
+* Virtual address: 60086 [234, 182] Physical address: 10678 [41, 182] Value: 58
+* Virtual address: 42252 [165, 12] Physical address: 10764 [42, 12] Value: 0
+* Virtual address: 44770 [174, 226] Physical address: 11234 [43, 226] Value: 43
+* Virtual address: 22514 [87, 242] Physical address: 11506 [44, 242] Value: 21
+* Virtual address: 3067 [11, 251] Physical address: 11771 [45, 251] Value: -2
+* Virtual address: 15757 [61, 141] Physical address: 11917 [46, 141] Value: 0
+* Virtual address: 31649 [123, 161] Physical address: 12193 [47, 161] Value: 0
+* Virtual address: 10842 [42, 90] Physical address: 12378 [48, 90] Value: 10
+* Virtual address: 43765 [170, 245] Physical address: 12789 [49, 245] Value: 0
+* Virtual address: 33405 [130, 125] Physical address: 12925 [50, 125] Value: 0
+* Virtual address: 44954 [175, 154] Physical address: 13210 [51, 154] Value: 43
+* Virtual address: 56657 [221, 81] Physical address: 13393 [52, 81] Value: 0
+* Virtual address: 5003 [19, 139] Physical address: 13707 [53, 139] Value: -30
+* Virtual address: 50227 [196, 51] Physical address: 13875 [54, 51] Value: 12
+* Virtual address: 19358 [75, 158] Physical address: 14238 [55, 158] Value: 18
+* Virtual address: 36529 [142, 177] Physical address: 14513 [56, 177] Value: 0
+* Virtual address: 10392 [40, 152] Physical address: 14744 [57, 152] Value: 0
+* Virtual address: 58882 [230, 2] Physical address: 14850 [58, 2] Value: 57
+* Virtual address: 5129 [20, 9] Physical address: 15113 [59, 9] Value: 0
+* Virtual address: 58554 [228, 186] Physical address: 15546 [60, 186] Value: 57
+  Virtual address: 58584 [228, 216] Physical address: 15576 [60, 216] Value: 0
+* Virtual address: 27444 [107, 52] Physical address: 15668 [61, 52] Value: 0
+  Virtual address: 58982 [230, 102] Physical address: 14950 [58, 102] Value: 57
+* Virtual address: 51476 [201, 20] Physical address: 15892 [62, 20] Value: 0
+  Virtual address: 6796 [26, 140] Physical address: 6796 [26, 140] Value: 0
+  Virtual address: 21311 [83, 63] Physical address: 9023 [35, 63] Value: -49
+* Virtual address: 30705 [119, 241] Physical address: 16369 [63, 241] Value: 0
+* Virtual address: 28964 [113, 36] Physical address: 16420 [64, 36] Value: 0
+  Virtual address: 41003 [160, 43] Physical address: 8747 [34, 43] Value: 10
+* Virtual address: 20259 [79, 35] Physical address: 16675 [65, 35] Value: -56
+  Virtual address: 57857 [226, 1] Physical address: 3073 [12, 1] Value: 0
+* Virtual address: 63258 [247, 26] Physical address: 16922 [66, 26] Value: 61
+  Virtual address: 36374 [142, 22] Physical address: 14358 [56, 22] Value: 35
+* Virtual address: 692 [2, 180] Physical address: 17332 [67, 180] Value: 0
+* Virtual address: 43121 [168, 113] Physical address: 17521 [68, 113] Value: 0
+* Virtual address: 48128 [188, 0] Physical address: 17664 [69, 0] Value: 0
+* Virtual address: 34561 [135, 1] Physical address: 17921 [70, 1] Value: 0
+  Virtual address: 49213 [192, 61] Physical address: 8509 [33, 61] Value: 0
+* Virtual address: 36922 [144, 58] Physical address: 18234 [71, 58] Value: 36
+  Virtual address: 59162 [231, 26] Physical address: 10266 [40, 26] Value: 57
+* Virtual address: 50552 [197, 120] Physical address: 18552 [72, 120] Value: 0
+  Virtual address: 17866 [69, 202] Physical address: 9930 [38, 202] Value: 17
+* Virtual address: 18145 [70, 225] Physical address: 18913 [73, 225] Value: 0
+* Virtual address: 3884 [15, 44] Physical address: 18988 [74, 44] Value: 0
+* Virtual address: 54388 [212, 116] Physical address: 19316 [75, 116] Value: 0
+* Virtual address: 42932 [167, 180] Physical address: 19636 [76, 180] Value: 0
+* Virtual address: 46919 [183, 71] Physical address: 19783 [77, 71] Value: -47
+  Virtual address: 58892 [230, 12] Physical address: 14860 [58, 12] Value: 0
+* Virtual address: 8620 [33, 172] Physical address: 20140 [78, 172] Value: 0
+* Virtual address: 38336 [149, 192] Physical address: 20416 [79, 192] Value: 0
+  Virtual address: 64357 [251, 101] Physical address: 4965 [19, 101] Value: 0
+* Virtual address: 23387 [91, 91] Physical address: 20571 [80, 91] Value: -42
+* Virtual address: 42632 [166, 136] Physical address: 20872 [81, 136] Value: 0
+* Virtual address: 15913 [62, 41] Physical address: 21033 [82, 41] Value: 0
+  Virtual address: 15679 [61, 63] Physical address: 11839 [46, 63] Value: 79
+  Virtual address: 22501 [87, 229] Physical address: 11493 [44, 229] Value: 0
+* Virtual address: 37540 [146, 164] Physical address: 21412 [83, 164] Value: 0
+* Virtual address: 5527 [21, 151] Physical address: 21655 [84, 151] Value: 101
+* Virtual address: 63921 [249, 177] Physical address: 21937 [85, 177] Value: 0
+  Virtual address: 62716 [244, 252] Physical address: 508 [1, 252] Value: 0
+  Virtual address: 32874 [128, 106] Physical address: 4202 [16, 106] Value: 32
+  Virtual address: 64390 [251, 134] Physical address: 4998 [19, 134] Value: 62
+* Virtual address: 63101 [246, 125] Physical address: 22141 [86, 125] Value: 0
+* Virtual address: 61802 [241, 106] Physical address: 22378 [87, 106] Value: 60
+* Virtual address: 19648 [76, 192] Physical address: 22720 [88, 192] Value: 0
+  Virtual address: 29031 [113, 103] Physical address: 16487 [64, 103] Value: 89
+  Virtual address: 44981 [175, 181] Physical address: 13237 [51, 181] Value: 0
+  Virtual address: 28092 [109, 188] Physical address: 3516 [13, 188] Value: 0
+* Virtual address: 9448 [36, 232] Physical address: 23016 [89, 232] Value: 0
+  Virtual address: 44744 [174, 200] Physical address: 11208 [43, 200] Value: 0
+* Virtual address: 61496 [240, 56] Physical address: 23096 [90, 56] Value: 0
+* Virtual address: 31453 [122, 221] Physical address: 23517 [91, 221] Value: 0
+* Virtual address: 60746 [237, 74] Physical address: 23626 [92, 74] Value: 59
+  Virtual address: 12199 [47, 167] Physical address: 2727 [10, 167] Value: -23
+* Virtual address: 62255 [243, 47] Physical address: 23855 [93, 47] Value: -53
+* Virtual address: 21793 [85, 33] Physical address: 24097 [94, 33] Value: 0
+* Virtual address: 26544 [103, 176] Physical address: 24496 [95, 176] Value: 0
+* Virtual address: 14964 [58, 116] Physical address: 24692 [96, 116] Value: 0
+* Virtual address: 41462 [161, 246] Physical address: 25078 [97, 246] Value: 40
+* Virtual address: 56089 [219, 25] Physical address: 25113 [98, 25] Value: 0
+* Virtual address: 52038 [203, 70] Physical address: 25414 [99, 70] Value: 50
+* Virtual address: 47982 [187, 110] Physical address: 25710 [100, 110] Value: 46
+* Virtual address: 59484 [232, 92] Physical address: 25948 [101, 92] Value: 0
+* Virtual address: 50924 [198, 236] Physical address: 26348 [102, 236] Value: 0
+* Virtual address: 6942 [27, 30] Physical address: 26398 [103, 30] Value: 6
+* Virtual address: 34998 [136, 182] Physical address: 26806 [104, 182] Value: 34
+* Virtual address: 27069 [105, 189] Physical address: 27069 [105, 189] Value: 0
+* Virtual address: 51926 [202, 214] Physical address: 27350 [106, 214] Value: 50
+  Virtual address: 60645 [236, 229] Physical address: 7397 [28, 229] Value: 0
+  Virtual address: 43181 [168, 173] Physical address: 17581 [68, 173] Value: 0
+* Virtual address: 10559 [41, 63] Physical address: 27455 [107, 63] Value: 79
+* Virtual address: 4664 [18, 56] Physical address: 27704 [108, 56] Value: 0
+* Virtual address: 28578 [111, 162] Physical address: 28066 [109, 162] Value: 27
+  Virtual address: 59516 [232, 124] Physical address: 25980 [101, 124] Value: 0
+  Virtual address: 38912 [152, 0] Physical address: 3840 [15, 0] Value: 0
+* Virtual address: 63562 [248, 74] Physical address: 28234 [110, 74] Value: 62
+  Virtual address: 64846 [253, 78] Physical address: 2126 [8, 78] Value: 63
+* Virtual address: 62938 [245, 218] Physical address: 28634 [111, 218] Value: 61
+* Virtual address: 27194 [106, 58] Physical address: 28730 [112, 58] Value: 26
+  Virtual address: 28804 [112, 132] Physical address: 1412 [5, 132] Value: 0
+  Virtual address: 61703 [241, 7] Physical address: 22279 [87, 7] Value: 65
+  Virtual address: 10998 [42, 246] Physical address: 12534 [48, 246] Value: 10
+* Virtual address: 6596 [25, 196] Physical address: 29124 [113, 196] Value: 0
+* Virtual address: 37721 [147, 89] Physical address: 29273 [114, 89] Value: 0
+* Virtual address: 43430 [169, 166] Physical address: 29606 [115, 166] Value: 42
+  Virtual address: 22692 [88, 164] Physical address: 2980 [11, 164] Value: 0
+  Virtual address: 62971 [245, 251] Physical address: 28667 [111, 251] Value: 126
+* Virtual address: 47125 [184, 21] Physical address: 29717 [116, 21] Value: 0
+* Virtual address: 52521 [205, 41] Physical address: 29993 [117, 41] Value: 0
+  Virtual address: 34646 [135, 86] Physical address: 18006 [70, 86] Value: 33
+  Virtual address: 32889 [128, 121] Physical address: 4217 [16, 121] Value: 0
+* Virtual address: 13055 [50, 255] Physical address: 30463 [118, 255] Value: -65
+* Virtual address: 65416 [255, 136] Physical address: 30600 [119, 136] Value: 0
+  Virtual address: 62869 [245, 149] Physical address: 28565 [111, 149] Value: 0
+* Virtual address: 57314 [223, 226] Physical address: 30946 [120, 226] Value: 55
+* Virtual address: 12659 [49, 115] Physical address: 31091 [121, 115] Value: 92
+* Virtual address: 14052 [54, 228] Physical address: 31460 [122, 228] Value: 0
+  Virtual address: 32956 [128, 188] Physical address: 4284 [16, 188] Value: 0
+  Virtual address: 49273 [192, 121] Physical address: 8569 [33, 121] Value: 0
+  Virtual address: 50352 [196, 176] Physical address: 14000 [54, 176] Value: 0
+* Virtual address: 49737 [194, 73] Physical address: 31561 [123, 73] Value: 0
+* Virtual address: 15555 [60, 195] Physical address: 31939 [124, 195] Value: 48
+* Virtual address: 47475 [185, 115] Physical address: 32115 [125, 115] Value: 92
+* Virtual address: 15328 [59, 224] Physical address: 32480 [126, 224] Value: 0
+  Virtual address: 34621 [135, 61] Physical address: 17981 [70, 61] Value: 0
+* Virtual address: 51365 [200, 165] Physical address: 32677 [127, 165] Value: 0
+  Virtual address: 32820 [128, 52] Physical address: 4148 [16, 52] Value: 0
+EVICT! oldest frame is 0 (age = 0)
+the page mapped to frame 0 is 66: page 66 is now unmapped (not in memory)
+* Virtual address: 48855 [190, 215] Physical address: 215 [0, 215] Value: -75
+  Virtual address: 12224 [47, 192] Physical address: 2752 [10, 192] Value: 0
+EVICT! oldest frame is 2 (age = 2)
+the page mapped to frame 2 is 117: page 117 is now unmapped (not in memory)
+* Virtual address: 2035 [7, 243] Physical address: 755 [2, 243] Value: -4
+  Virtual address: 60539 [236, 123] Physical address: 7291 [28, 123] Value: 30
+EVICT! oldest frame is 3 (age = 3)
+the page mapped to frame 3 is 209: page 209 is now unmapped (not in memory)
+* Virtual address: 14595 [57, 3] Physical address: 771 [3, 3] Value: 64
+  Virtual address: 13853 [54, 29] Physical address: 31261 [122, 29] Value: 0
+EVICT! oldest frame is 6 (age = 6)
+the page mapped to frame 6 is 95: page 95 is now unmapped (not in memory)
+* Virtual address: 24143 [94, 79] Physical address: 1615 [6, 79] Value: -109
+  Virtual address: 15216 [59, 112] Physical address: 32368 [126, 112] Value: 0
+EVICT! oldest frame is 7 (age = 7)
+the page mapped to frame 7 is 189: page 189 is now unmapped (not in memory)
+* Virtual address: 8113 [31, 177] Physical address: 1969 [7, 177] Value: 0
+  Virtual address: 22640 [88, 112] Physical address: 2928 [11, 112] Value: 0
+  Virtual address: 32978 [128, 210] Physical address: 4306 [16, 210] Value: 32
+  Virtual address: 39151 [152, 239] Physical address: 4079 [15, 239] Value: 59
+  Virtual address: 19520 [76, 64] Physical address: 22592 [88, 64] Value: 0
+EVICT! oldest frame is 9 (age = 9)
+the page mapped to frame 9 is 71: page 71 is now unmapped (not in memory)
+* Virtual address: 58141 [227, 29] Physical address: 2333 [9, 29] Value: 0
+  Virtual address: 63959 [249, 215] Physical address: 21975 [85, 215] Value: 117
+EVICT! oldest frame is 14 (age = 14)
+the page mapped to frame 14 is 214: page 214 is now unmapped (not in memory)
+* Virtual address: 53040 [207, 48] Physical address: 3632 [14, 48] Value: 0
+EVICT! oldest frame is 17 (age = 17)
+the page mapped to frame 17 is 250: page 250 is now unmapped (not in memory)
+* Virtual address: 55842 [218, 34] Physical address: 4386 [17, 34] Value: 54
+  Virtual address: 585 [2, 73] Physical address: 17225 [67, 73] Value: 0
+  Virtual address: 51229 [200, 29] Physical address: 32541 [127, 29] Value: 0
+EVICT! oldest frame is 18 (age = 18)
+the page mapped to frame 18 is 9: page 9 is now unmapped (not in memory)
+* Virtual address: 64181 [250, 181] Physical address: 4789 [18, 181] Value: 0
+EVICT! oldest frame is 20 (age = 20)
+the page mapped to frame 20 is 215: page 215 is now unmapped (not in memory)
+* Virtual address: 54879 [214, 95] Physical address: 5215 [20, 95] Value: -105
+EVICT! oldest frame is 21 (age = 21)
+the page mapped to frame 21 is 72: page 72 is now unmapped (not in memory)
+* Virtual address: 28210 [110, 50] Physical address: 5426 [21, 50] Value: 27
+  Virtual address: 10268 [40, 28] Physical address: 14620 [57, 28] Value: 0
+  Virtual address: 15395 [60, 35] Physical address: 31779 [124, 35] Value: 8
+  Virtual address: 12884 [50, 84] Physical address: 30292 [118, 84] Value: 0
+EVICT! oldest frame is 22 (age = 22)
+the page mapped to frame 22 is 56: page 56 is now unmapped (not in memory)
+* Virtual address: 2149 [8, 101] Physical address: 5733 [22, 101] Value: 0
+EVICT! oldest frame is 23 (age = 23)
+the page mapped to frame 23 is 238: page 238 is now unmapped (not in memory)
+* Virtual address: 53483 [208, 235] Physical address: 6123 [23, 235] Value: 58
+  Virtual address: 59606 [232, 214] Physical address: 26070 [101, 214] Value: 58
+  Virtual address: 14981 [58, 133] Physical address: 24709 [96, 133] Value: 0
+EVICT! oldest frame is 24 (age = 25)
+the page mapped to frame 24 is 29: page 29 is now unmapped (not in memory)
+* Virtual address: 36672 [143, 64] Physical address: 6208 [24, 64] Value: 0
+EVICT! oldest frame is 25 (age = 26)
+the page mapped to frame 25 is 252: page 252 is now unmapped (not in memory)
+* Virtual address: 23197 [90, 157] Physical address: 6557 [25, 157] Value: 0
+  Virtual address: 36518 [142, 166] Physical address: 14502 [56, 166] Value: 35
+EVICT! oldest frame is 27 (age = 28)
+the page mapped to frame 27 is 126: page 126 is now unmapped (not in memory)
+* Virtual address: 13361 [52, 49] Physical address: 6961 [27, 49] Value: 0
+EVICT! oldest frame is 29 (age = 30)
+the page mapped to frame 29 is 24: page 24 is now unmapped (not in memory)
+* Virtual address: 19810 [77, 98] Physical address: 7522 [29, 98] Value: 19
+EVICT! oldest frame is 30 (age = 31)
+the page mapped to frame 30 is 178: page 178 is now unmapped (not in memory)
+* Virtual address: 25955 [101, 99] Physical address: 7779 [30, 99] Value: 88
+  Virtual address: 62678 [244, 214] Physical address: 470 [1, 214] Value: 61
+  Virtual address: 26021 [101, 165] Physical address: 7845 [30, 165] Value: 0
+EVICT! oldest frame is 31 (age = 32)
+the page mapped to frame 31 is 3: page 3 is now unmapped (not in memory)
+* Virtual address: 29409 [114, 225] Physical address: 8161 [31, 225] Value: 0
+EVICT! oldest frame is 32 (age = 33)
+the page mapped to frame 32 is 159: page 159 is now unmapped (not in memory)
+* Virtual address: 38111 [148, 223] Physical address: 8415 [32, 223] Value: 55
+  Virtual address: 58573 [228, 205] Physical address: 15565 [60, 205] Value: 0
+EVICT! oldest frame is 36 (age = 37)
+the page mapped to frame 36 is 23: page 23 is now unmapped (not in memory)
+* Virtual address: 56840 [222, 8] Physical address: 9224 [36, 8] Value: 0
+  Virtual address: 41306 [161, 90] Physical address: 24922 [97, 90] Value: 40
+  Virtual address: 54426 [212, 154] Physical address: 19354 [75, 154] Value: 53
+  Virtual address: 3617 [14, 33] Physical address: 10017 [39, 33] Value: 0
+  Virtual address: 50652 [197, 220] Physical address: 18652 [72, 220] Value: 0
+  Virtual address: 41452 [161, 236] Physical address: 25068 [97, 236] Value: 0
+  Virtual address: 20241 [79, 17] Physical address: 16657 [65, 17] Value: 0
+  Virtual address: 31723 [123, 235] Physical address: 12267 [47, 235] Value: -6
+EVICT! oldest frame is 37 (age = 38)
+the page mapped to frame 37 is 127: page 127 is now unmapped (not in memory)
+* Virtual address: 53747 [209, 243] Physical address: 9715 [37, 243] Value: 124
+  Virtual address: 28550 [111, 134] Physical address: 28038 [109, 134] Value: 27
+  Virtual address: 23402 [91, 106] Physical address: 20586 [80, 106] Value: 22
+EVICT! oldest frame is 4 (age = 43)
+the page mapped to frame 4 is 156: page 156 is now unmapped (not in memory)
+* Virtual address: 21205 [82, 213] Physical address: 1237 [4, 213] Value: 0
+  Virtual address: 56181 [219, 117] Physical address: 25205 [98, 117] Value: 0
+EVICT! oldest frame is 41 (age = 44)
+the page mapped to frame 41 is 234: page 234 is now unmapped (not in memory)
+* Virtual address: 57470 [224, 126] Physical address: 10622 [41, 126] Value: 56
+EVICT! oldest frame is 42 (age = 45)
+the page mapped to frame 42 is 165: page 165 is now unmapped (not in memory)
+* Virtual address: 39933 [155, 253] Physical address: 11005 [42, 253] Value: 0
+  Virtual address: 34964 [136, 148] Physical address: 26772 [104, 148] Value: 0
+EVICT! oldest frame is 45 (age = 48)
+the page mapped to frame 45 is 11: page 11 is now unmapped (not in memory)
+* Virtual address: 24781 [96, 205] Physical address: 11725 [45, 205] Value: 0
+EVICT! oldest frame is 49 (age = 52)
+the page mapped to frame 49 is 170: page 170 is now unmapped (not in memory)
+* Virtual address: 41747 [163, 19] Physical address: 12563 [49, 19] Value: -60
+  Virtual address: 62564 [244, 100] Physical address: 356 [1, 100] Value: 0
+  Virtual address: 58461 [228, 93] Physical address: 15453 [60, 93] Value: 0
+EVICT! oldest frame is 50 (age = 53)
+the page mapped to frame 50 is 130: page 130 is now unmapped (not in memory)
+* Virtual address: 20858 [81, 122] Physical address: 12922 [50, 122] Value: 20
+  Virtual address: 49301 [192, 149] Physical address: 8597 [33, 149] Value: 0
+EVICT! oldest frame is 52 (age = 55)
+the page mapped to frame 52 is 221: page 221 is now unmapped (not in memory)
+* Virtual address: 40572 [158, 124] Physical address: 13436 [52, 124] Value: 0
+EVICT! oldest frame is 53 (age = 56)
+the page mapped to frame 53 is 19: page 19 is now unmapped (not in memory)
+* Virtual address: 23840 [93, 32] Physical address: 13600 [53, 32] Value: 0
+EVICT! oldest frame is 55 (age = 58)
+the page mapped to frame 55 is 75: page 75 is now unmapped (not in memory)
+* Virtual address: 35278 [137, 206] Physical address: 14286 [55, 206] Value: 34
+  Virtual address: 62905 [245, 185] Physical address: 28601 [111, 185] Value: 0
+EVICT! oldest frame is 59 (age = 62)
+the page mapped to frame 59 is 20: page 20 is now unmapped (not in memory)
+* Virtual address: 56650 [221, 74] Physical address: 15178 [59, 74] Value: 55
+EVICT! oldest frame is 61 (age = 65)
+the page mapped to frame 61 is 107: page 107 is now unmapped (not in memory)
+* Virtual address: 11149 [43, 141] Physical address: 15757 [61, 141] Value: 0
+  Virtual address: 38920 [152, 8] Physical address: 3848 [15, 8] Value: 0
+  Virtual address: 23430 [91, 134] Physical address: 20614 [80, 134] Value: 22
+  Virtual address: 57592 [224, 248] Physical address: 10744 [41, 248] Value: 0
+EVICT! oldest frame is 62 (age = 67)
+the page mapped to frame 62 is 201: page 201 is now unmapped (not in memory)
+* Virtual address: 3080 [12, 8] Physical address: 15880 [62, 8] Value: 0
+  Virtual address: 6677 [26, 21] Physical address: 6677 [26, 21] Value: 0
+  Virtual address: 50704 [198, 16] Physical address: 26128 [102, 16] Value: 0
+  Virtual address: 51883 [202, 171] Physical address: 27307 [106, 171] Value: -86
+  Virtual address: 62799 [245, 79] Physical address: 28495 [111, 79] Value: 83
+EVICT! oldest frame is 35 (age = 69)
+the page mapped to frame 35 is 83: page 83 is now unmapped (not in memory)
+* Virtual address: 20188 [78, 220] Physical address: 9180 [35, 220] Value: 0
+EVICT! oldest frame is 63 (age = 70)
+the page mapped to frame 63 is 119: page 119 is now unmapped (not in memory)
+* Virtual address: 1245 [4, 221] Physical address: 16349 [63, 221] Value: 0
+  Virtual address: 12220 [47, 188] Physical address: 2748 [10, 188] Value: 0
+EVICT! oldest frame is 34 (age = 72)
+the page mapped to frame 34 is 160: page 160 is now unmapped (not in memory)
+* Virtual address: 17602 [68, 194] Physical address: 8898 [34, 194] Value: 17
+  Virtual address: 28609 [111, 193] Physical address: 28097 [109, 193] Value: 0
+  Virtual address: 42694 [166, 198] Physical address: 20934 [81, 198] Value: 41
+EVICT! oldest frame is 12 (age = 74)
+the page mapped to frame 12 is 226: page 226 is now unmapped (not in memory)
+* Virtual address: 29826 [116, 130] Physical address: 3202 [12, 130] Value: 29
+  Virtual address: 13827 [54, 3] Physical address: 31235 [122, 3] Value: -128
+  Virtual address: 27336 [106, 200] Physical address: 28872 [112, 200] Value: 0
+  Virtual address: 53343 [208, 95] Physical address: 5983 [23, 95] Value: 23
+EVICT! oldest frame is 66 (age = 75)
+the page mapped to frame 66 is 247: page 247 is now unmapped (not in memory)
+* Virtual address: 11533 [45, 13] Physical address: 16909 [66, 13] Value: 0
+EVICT! oldest frame is 69 (age = 79)
+the page mapped to frame 69 is 188: page 188 is now unmapped (not in memory)
+* Virtual address: 41713 [162, 241] Physical address: 17905 [69, 241] Value: 0
+EVICT! oldest frame is 71 (age = 82)
+the page mapped to frame 71 is 144: page 144 is now unmapped (not in memory)
+* Virtual address: 33890 [132, 98] Physical address: 18274 [71, 98] Value: 33
+EVICT! oldest frame is 40 (age = 83)
+the page mapped to frame 40 is 231: page 231 is now unmapped (not in memory)
+* Virtual address: 4894 [19, 30] Physical address: 10270 [40, 30] Value: 4
+  Virtual address: 57599 [224, 255] Physical address: 10751 [41, 255] Value: 63
+  Virtual address: 3870 [15, 30] Physical address: 18974 [74, 30] Value: 3
+  Virtual address: 58622 [228, 254] Physical address: 15614 [60, 254] Value: 57
+  Virtual address: 29780 [116, 84] Physical address: 3156 [12, 84] Value: 0
+  Virtual address: 62553 [244, 89] Physical address: 345 [1, 89] Value: 0
+  Virtual address: 2303 [8, 255] Physical address: 5887 [22, 255] Value: 63
+  Virtual address: 51915 [202, 203] Physical address: 27339 [106, 203] Value: -78
+EVICT! oldest frame is 38 (age = 85)
+the page mapped to frame 38 is 69: page 69 is now unmapped (not in memory)
+* Virtual address: 6251 [24, 107] Physical address: 9835 [38, 107] Value: 26
+  Virtual address: 38107 [148, 219] Physical address: 8411 [32, 219] Value: 54
+EVICT! oldest frame is 73 (age = 86)
+the page mapped to frame 73 is 70: page 70 is now unmapped (not in memory)
+* Virtual address: 59325 [231, 189] Physical address: 18877 [73, 189] Value: 0
+EVICT! oldest frame is 76 (age = 89)
+the page mapped to frame 76 is 167: page 167 is now unmapped (not in memory)
+* Virtual address: 61295 [239, 111] Physical address: 19567 [76, 111] Value: -37
+EVICT! oldest frame is 77 (age = 90)
+the page mapped to frame 77 is 183: page 183 is now unmapped (not in memory)
+* Virtual address: 26699 [104, 75] Physical address: 19787 [77, 75] Value: 18
+EVICT! oldest frame is 58 (age = 91)
+the page mapped to frame 58 is 230: page 230 is now unmapped (not in memory)
+* Virtual address: 51188 [199, 244] Physical address: 15092 [58, 244] Value: 0
+  Virtual address: 59519 [232, 127] Physical address: 25983 [101, 127] Value: 31
+EVICT! oldest frame is 78 (age = 92)
+the page mapped to frame 78 is 33: page 33 is now unmapped (not in memory)
+* Virtual address: 7345 [28, 177] Physical address: 20145 [78, 177] Value: 0
+  Virtual address: 20325 [79, 101] Physical address: 16741 [65, 101] Value: 0
+EVICT! oldest frame is 79 (age = 93)
+the page mapped to frame 79 is 149: page 149 is now unmapped (not in memory)
+* Virtual address: 39633 [154, 209] Physical address: 20433 [79, 209] Value: 0
+EVICT! oldest frame is 82 (age = 97)
+the page mapped to frame 82 is 62: page 62 is now unmapped (not in memory)
+* Virtual address: 1562 [6, 26] Physical address: 21018 [82, 26] Value: 1
+EVICT! oldest frame is 46 (age = 98)
+the page mapped to frame 46 is 61: page 61 is now unmapped (not in memory)
+* Virtual address: 7580 [29, 156] Physical address: 11932 [46, 156] Value: 0
+  Virtual address: 8170 [31, 234] Physical address: 2026 [7, 234] Value: 7
+  Virtual address: 62256 [243, 48] Physical address: 23856 [93, 48] Value: 0
+EVICT! oldest frame is 44 (age = 99)
+the page mapped to frame 44 is 87: page 87 is now unmapped (not in memory)
+* Virtual address: 35823 [139, 239] Physical address: 11503 [44, 239] Value: -5
+EVICT! oldest frame is 83 (age = 100)
+the page mapped to frame 83 is 146: page 146 is now unmapped (not in memory)
+* Virtual address: 27790 [108, 142] Physical address: 21390 [83, 142] Value: 27
+EVICT! oldest frame is 84 (age = 101)
+the page mapped to frame 84 is 21: page 21 is now unmapped (not in memory)
+* Virtual address: 13191 [51, 135] Physical address: 21639 [84, 135] Value: -31
+EVICT! oldest frame is 19 (age = 105)
+the page mapped to frame 19 is 251: page 251 is now unmapped (not in memory)
+* Virtual address: 9772 [38, 44] Physical address: 4908 [19, 44] Value: 0
+  Virtual address: 7477 [29, 53] Physical address: 11829 [46, 53] Value: 0
+EVICT! oldest frame is 86 (age = 106)
+the page mapped to frame 86 is 246: page 246 is now unmapped (not in memory)
+* Virtual address: 44455 [173, 167] Physical address: 22183 [86, 167] Value: 105
+  Virtual address: 59546 [232, 154] Physical address: 26010 [101, 154] Value: 58
+  Virtual address: 49347 [192, 195] Physical address: 8643 [33, 195] Value: 48
+  Virtual address: 36539 [142, 187] Physical address: 14523 [56, 187] Value: -82
+EVICT! oldest frame is 64 (age = 109)
+the page mapped to frame 64 is 113: page 113 is now unmapped (not in memory)
+* Virtual address: 12453 [48, 165] Physical address: 16549 [64, 165] Value: 0
+EVICT! oldest frame is 51 (age = 110)
+the page mapped to frame 51 is 175: page 175 is now unmapped (not in memory)
+* Virtual address: 49640 [193, 232] Physical address: 13288 [51, 232] Value: 0
+  Virtual address: 28290 [110, 130] Physical address: 5506 [21, 130] Value: 27
+EVICT! oldest frame is 13 (age = 111)
+the page mapped to frame 13 is 109: page 109 is now unmapped (not in memory)
+* Virtual address: 44817 [175, 17] Physical address: 3345 [13, 17] Value: 0
+EVICT! oldest frame is 89 (age = 112)
+the page mapped to frame 89 is 36: page 36 is now unmapped (not in memory)
+* Virtual address: 8565 [33, 117] Physical address: 22901 [89, 117] Value: 0
+EVICT! oldest frame is 43 (age = 113)
+the page mapped to frame 43 is 174: page 174 is now unmapped (not in memory)
+* Virtual address: 16399 [64, 15] Physical address: 11023 [43, 15] Value: 3
+  Virtual address: 41934 [163, 206] Physical address: 12750 [49, 206] Value: 40
+EVICT! oldest frame is 90 (age = 114)
+the page mapped to frame 90 is 240: page 240 is now unmapped (not in memory)
+* Virtual address: 45457 [177, 145] Physical address: 23185 [90, 145] Value: 0
+  Virtual address: 33856 [132, 64] Physical address: 18240 [71, 64] Value: 0
+  Virtual address: 19498 [76, 42] Physical address: 22570 [88, 42] Value: 19
+  Virtual address: 17661 [68, 253] Physical address: 8957 [34, 253] Value: 0
+  Virtual address: 63829 [249, 85] Physical address: 21845 [85, 85] Value: 0
+EVICT! oldest frame is 91 (age = 115)
+the page mapped to frame 91 is 122: page 122 is now unmapped (not in memory)
+* Virtual address: 42034 [164, 50] Physical address: 23346 [91, 50] Value: 41
+EVICT! oldest frame is 92 (age = 116)
+the page mapped to frame 92 is 237: page 237 is now unmapped (not in memory)
+* Virtual address: 28928 [113, 0] Physical address: 23552 [92, 0] Value: 0
+EVICT! oldest frame is 94 (age = 119)
+the page mapped to frame 94 is 85: page 85 is now unmapped (not in memory)
+* Virtual address: 30711 [119, 247] Physical address: 24311 [94, 247] Value: -3
+EVICT! oldest frame is 95 (age = 120)
+the page mapped to frame 95 is 103: page 103 is now unmapped (not in memory)
+* Virtual address: 8800 [34, 96] Physical address: 24416 [95, 96] Value: 0
+EVICT! oldest frame is 99 (age = 124)
+the page mapped to frame 99 is 203: page 203 is now unmapped (not in memory)
+* Virtual address: 52335 [204, 111] Physical address: 25455 [99, 111] Value: 27
+EVICT! oldest frame is 100 (age = 125)
+the page mapped to frame 100 is 187: page 187 is now unmapped (not in memory)
+* Virtual address: 38775 [151, 119] Physical address: 25719 [100, 119] Value: -35
+  Virtual address: 52704 [205, 224] Physical address: 30176 [117, 224] Value: 0
+EVICT! oldest frame is 103 (age = 128)
+the page mapped to frame 103 is 27: page 27 is now unmapped (not in memory)
+* Virtual address: 24380 [95, 60] Physical address: 26428 [103, 60] Value: 0
+  Virtual address: 19602 [76, 146] Physical address: 22674 [88, 146] Value: 19
+EVICT! oldest frame is 105 (age = 130)
+the page mapped to frame 105 is 105: page 105 is now unmapped (not in memory)
+* Virtual address: 57998 [226, 142] Physical address: 27022 [105, 142] Value: 56
+EVICT! oldest frame is 68 (age = 133)
+the page mapped to frame 68 is 168: page 168 is now unmapped (not in memory)
+* Virtual address: 2919 [11, 103] Physical address: 17511 [68, 103] Value: -39
+EVICT! oldest frame is 107 (age = 134)
+the page mapped to frame 107 is 41: page 41 is now unmapped (not in memory)
+* Virtual address: 8362 [32, 170] Physical address: 27562 [107, 170] Value: 8
+EVICT! oldest frame is 108 (age = 135)
+the page mapped to frame 108 is 18: page 18 is now unmapped (not in memory)
+* Virtual address: 17884 [69, 220] Physical address: 27868 [108, 220] Value: 0
+EVICT! oldest frame is 110 (age = 139)
+the page mapped to frame 110 is 248: page 248 is now unmapped (not in memory)
+* Virtual address: 45737 [178, 169] Physical address: 28329 [110, 169] Value: 0
+EVICT! oldest frame is 8 (age = 140)
+the page mapped to frame 8 is 253: page 253 is now unmapped (not in memory)
+* Virtual address: 47894 [187, 22] Physical address: 2070 [8, 22] Value: 46
+EVICT! oldest frame is 5 (age = 143)
+the page mapped to frame 5 is 112: page 112 is now unmapped (not in memory)
+* Virtual address: 59667 [233, 19] Physical address: 1299 [5, 19] Value: 68
+  Virtual address: 10385 [40, 145] Physical address: 14737 [57, 145] Value: 0
+EVICT! oldest frame is 87 (age = 144)
+the page mapped to frame 87 is 241: page 241 is now unmapped (not in memory)
+* Virtual address: 52782 [206, 46] Physical address: 22318 [87, 46] Value: 51
+EVICT! oldest frame is 48 (age = 145)
+the page mapped to frame 48 is 42: page 42 is now unmapped (not in memory)
+* Virtual address: 64416 [251, 160] Physical address: 12448 [48, 160] Value: 0
+EVICT! oldest frame is 113 (age = 146)
+the page mapped to frame 113 is 25: page 25 is now unmapped (not in memory)
+* Virtual address: 40946 [159, 242] Physical address: 29170 [113, 242] Value: 39
+EVICT! oldest frame is 114 (age = 147)
+the page mapped to frame 114 is 147: page 147 is now unmapped (not in memory)
+* Virtual address: 16778 [65, 138] Physical address: 29322 [114, 138] Value: 16
+  Virtual address: 27159 [106, 23] Physical address: 28695 [112, 23] Value: -123
+  Virtual address: 24324 [95, 4] Physical address: 26372 [103, 4] Value: 0
+EVICT! oldest frame is 115 (age = 148)
+the page mapped to frame 115 is 169: page 169 is now unmapped (not in memory)
+* Virtual address: 32450 [126, 194] Physical address: 29634 [115, 194] Value: 31
+EVICT! oldest frame is 116 (age = 151)
+the page mapped to frame 116 is 184: page 184 is now unmapped (not in memory)
+* Virtual address: 9108 [35, 148] Physical address: 29844 [116, 148] Value: 0
+  Virtual address: 65305 [255, 25] Physical address: 30489 [119, 25] Value: 0
+  Virtual address: 19575 [76, 119] Physical address: 22647 [88, 119] Value: 29
+  Virtual address: 11117 [43, 109] Physical address: 15725 [61, 109] Value: 0
+EVICT! oldest frame is 120 (age = 158)
+the page mapped to frame 120 is 223: page 223 is now unmapped (not in memory)
+* Virtual address: 65170 [254, 146] Physical address: 30866 [120, 146] Value: 63
+  Virtual address: 58013 [226, 157] Physical address: 27037 [105, 157] Value: 0
+EVICT! oldest frame is 121 (age = 159)
+the page mapped to frame 121 is 49: page 49 is now unmapped (not in memory)
+* Virtual address: 61676 [240, 236] Physical address: 31212 [121, 236] Value: 0
+EVICT! oldest frame is 54 (age = 163)
+the page mapped to frame 54 is 196: page 196 is now unmapped (not in memory)
+* Virtual address: 63510 [248, 22] Physical address: 13846 [54, 22] Value: 62
+  Virtual address: 17458 [68, 50] Physical address: 8754 [34, 50] Value: 17
+EVICT! oldest frame is 123 (age = 164)
+the page mapped to frame 123 is 194: page 194 is now unmapped (not in memory)
+* Virtual address: 54675 [213, 147] Physical address: 31635 [123, 147] Value: 100
+  Virtual address: 1713 [6, 177] Physical address: 21169 [82, 177] Value: 0
+EVICT! oldest frame is 125 (age = 166)
+the page mapped to frame 125 is 185: page 185 is now unmapped (not in memory)
+* Virtual address: 55105 [215, 65] Physical address: 32065 [125, 65] Value: 0
+  Virtual address: 65321 [255, 41] Physical address: 30505 [119, 41] Value: 0
+EVICT! oldest frame is 70 (age = 168)
+the page mapped to frame 70 is 135: page 135 is now unmapped (not in memory)
+* Virtual address: 45278 [176, 222] Physical address: 18142 [70, 222] Value: 44
+EVICT! oldest frame is 0 (age = 171)
+the page mapped to frame 0 is 190: page 190 is now unmapped (not in memory)
+* Virtual address: 26256 [102, 144] Physical address: 144 [0, 144] Value: 0
+  Virtual address: 64198 [250, 198] Physical address: 4806 [18, 198] Value: 62
+EVICT! oldest frame is 2 (age = 173)
+the page mapped to frame 2 is 7: page 7 is now unmapped (not in memory)
+* Virtual address: 29441 [115, 1] Physical address: 513 [2, 1] Value: 0
+EVICT! oldest frame is 28 (age = 174)
+the page mapped to frame 28 is 236: page 236 is now unmapped (not in memory)
+* Virtual address: 1928 [7, 136] Physical address: 7304 [28, 136] Value: 0
+  Virtual address: 39425 [154, 1] Physical address: 20225 [79, 1] Value: 0
+EVICT! oldest frame is 3 (age = 175)
+the page mapped to frame 3 is 57: page 57 is now unmapped (not in memory)
+* Virtual address: 32000 [125, 0] Physical address: 768 [3, 0] Value: 0
+  Virtual address: 28549 [111, 133] Physical address: 28037 [109, 133] Value: 0
+EVICT! oldest frame is 6 (age = 177)
+the page mapped to frame 6 is 94: page 94 is now unmapped (not in memory)
+* Virtual address: 46295 [180, 215] Physical address: 1751 [6, 215] Value: 53
+  Virtual address: 22772 [88, 244] Physical address: 3060 [11, 244] Value: 0
+  Virtual address: 58228 [227, 116] Physical address: 2420 [9, 116] Value: 0
+  Virtual address: 63525 [248, 37] Physical address: 13861 [54, 37] Value: 0
+EVICT! oldest frame is 126 (age = 178)
+the page mapped to frame 126 is 59: page 59 is now unmapped (not in memory)
+* Virtual address: 32602 [127, 90] Physical address: 32346 [126, 90] Value: 31
+  Virtual address: 46195 [180, 115] Physical address: 1651 [6, 115] Value: 28
+  Virtual address: 55849 [218, 41] Physical address: 4393 [17, 41] Value: 0
+EVICT! oldest frame is 16 (age = 181)
+the page mapped to frame 16 is 128: page 128 is now unmapped (not in memory)
+* Virtual address: 46454 [181, 118] Physical address: 4214 [16, 118] Value: 45
+  Virtual address: 7487 [29, 63] Physical address: 11839 [46, 63] Value: 79
+  Virtual address: 33879 [132, 87] Physical address: 18263 [71, 87] Value: 21
+  Virtual address: 42004 [164, 20] Physical address: 23316 [91, 20] Value: 0
+  Virtual address: 8599 [33, 151] Physical address: 22935 [89, 151] Value: 101
+EVICT! oldest frame is 14 (age = 186)
+the page mapped to frame 14 is 207: page 207 is now unmapped (not in memory)
+* Virtual address: 18641 [72, 209] Physical address: 3793 [14, 209] Value: 0
+EVICT! oldest frame is 67 (age = 188)
+the page mapped to frame 67 is 2: page 2 is now unmapped (not in memory)
+* Virtual address: 49015 [191, 119] Physical address: 17271 [67, 119] Value: -35
+  Virtual address: 26830 [104, 206] Physical address: 19918 [77, 206] Value: 26
+EVICT! oldest frame is 127 (age = 189)
+the page mapped to frame 127 is 200: page 200 is now unmapped (not in memory)
+* Virtual address: 34754 [135, 194] Physical address: 32706 [127, 194] Value: 33
+EVICT! oldest frame is 20 (age = 191)
+the page mapped to frame 20 is 214: page 214 is now unmapped (not in memory)
+* Virtual address: 14668 [57, 76] Physical address: 5196 [20, 76] Value: 0
+EVICT! oldest frame is 124 (age = 194)
+the page mapped to frame 124 is 60: page 60 is now unmapped (not in memory)
+* Virtual address: 38362 [149, 218] Physical address: 31962 [124, 218] Value: 37
+  Virtual address: 38791 [151, 135] Physical address: 25735 [100, 135] Value: -31
+EVICT! oldest frame is 118 (age = 195)
+the page mapped to frame 118 is 50: page 50 is now unmapped (not in memory)
+* Virtual address: 4171 [16, 75] Physical address: 30283 [118, 75] Value: 18
+EVICT! oldest frame is 96 (age = 199)
+the page mapped to frame 96 is 58: page 58 is now unmapped (not in memory)
+* Virtual address: 45975 [179, 151] Physical address: 24727 [96, 151] Value: -27
+  Virtual address: 14623 [57, 31] Physical address: 5151 [20, 31] Value: 71
+  Virtual address: 62393 [243, 185] Physical address: 23993 [93, 185] Value: 0
+EVICT! oldest frame is 24 (age = 200)
+the page mapped to frame 24 is 143: page 143 is now unmapped (not in memory)
+* Virtual address: 64658 [252, 146] Physical address: 6290 [24, 146] Value: 63
+EVICT! oldest frame is 25 (age = 201)
+the page mapped to frame 25 is 90: page 90 is now unmapped (not in memory)
+* Virtual address: 10963 [42, 211] Physical address: 6611 [25, 211] Value: -76
+  Virtual address: 9058 [35, 98] Physical address: 29794 [116, 98] Value: 8
+  Virtual address: 51031 [199, 87] Physical address: 14935 [58, 87] Value: -43
+  Virtual address: 32425 [126, 169] Physical address: 29609 [115, 169] Value: 0
+  Virtual address: 45483 [177, 171] Physical address: 23211 [90, 171] Value: 106
+EVICT! oldest frame is 27 (age = 203)
+the page mapped to frame 27 is 52: page 52 is now unmapped (not in memory)
+* Virtual address: 44611 [174, 67] Physical address: 6979 [27, 67] Value: -112
+  Virtual address: 63664 [248, 176] Physical address: 14000 [54, 176] Value: 0
+EVICT! oldest frame is 29 (age = 204)
+the page mapped to frame 29 is 77: page 77 is now unmapped (not in memory)
+* Virtual address: 54920 [214, 136] Physical address: 7560 [29, 136] Value: 0
+  Virtual address: 7663 [29, 239] Physical address: 12015 [46, 239] Value: 123
+EVICT! oldest frame is 30 (age = 207)
+the page mapped to frame 30 is 101: page 101 is now unmapped (not in memory)
+* Virtual address: 56480 [220, 160] Physical address: 7840 [30, 160] Value: 0
+EVICT! oldest frame is 31 (age = 208)
+the page mapped to frame 31 is 114: page 114 is now unmapped (not in memory)
+* Virtual address: 1489 [5, 209] Physical address: 8145 [31, 209] Value: 0
+  Virtual address: 28438 [111, 22] Physical address: 27926 [109, 22] Value: 27
+  Virtual address: 65449 [255, 169] Physical address: 30633 [119, 169] Value: 0
+  Virtual address: 12441 [48, 153] Physical address: 16537 [64, 153] Value: 0
+  Virtual address: 58530 [228, 162] Physical address: 15522 [60, 162] Value: 57
+  Virtual address: 63570 [248, 82] Physical address: 13906 [54, 82] Value: 62
+  Virtual address: 26251 [102, 139] Physical address: 139 [0, 139] Value: -94
+EVICT! oldest frame is 36 (age = 211)
+the page mapped to frame 36 is 222: page 222 is now unmapped (not in memory)
+* Virtual address: 15972 [62, 100] Physical address: 9316 [36, 100] Value: 0
+  Virtual address: 35826 [139, 242] Physical address: 11506 [44, 242] Value: 34
+EVICT! oldest frame is 75 (age = 213)
+the page mapped to frame 75 is 212: page 212 is now unmapped (not in memory)
+* Virtual address: 5491 [21, 115] Physical address: 19315 [75, 115] Value: 92
+EVICT! oldest frame is 39 (age = 214)
+the page mapped to frame 39 is 14: page 14 is now unmapped (not in memory)
+* Virtual address: 54253 [211, 237] Physical address: 10221 [39, 237] Value: 0
+  Virtual address: 49655 [193, 247] Physical address: 13303 [51, 247] Value: 125
+EVICT! oldest frame is 72 (age = 215)
+the page mapped to frame 72 is 197: page 197 is now unmapped (not in memory)
+* Virtual address: 5868 [22, 236] Physical address: 18668 [72, 236] Value: 0
+  Virtual address: 20163 [78, 195] Physical address: 9155 [35, 195] Value: -80
+  Virtual address: 51079 [199, 135] Physical address: 14983 [58, 135] Value: -31
+EVICT! oldest frame is 97 (age = 216)
+the page mapped to frame 97 is 161: page 161 is now unmapped (not in memory)
+* Virtual address: 21398 [83, 150] Physical address: 24982 [97, 150] Value: 20
+  Virtual address: 32756 [127, 244] Physical address: 32500 [126, 244] Value: 0
+  Virtual address: 64196 [250, 196] Physical address: 4804 [18, 196] Value: 0
+EVICT! oldest frame is 47 (age = 218)
+the page mapped to frame 47 is 123: page 123 is now unmapped (not in memory)
+* Virtual address: 43218 [168, 210] Physical address: 12242 [47, 210] Value: 42
+EVICT! oldest frame is 37 (age = 219)
+the page mapped to frame 37 is 209: page 209 is now unmapped (not in memory)
+* Virtual address: 21583 [84, 79] Physical address: 9551 [37, 79] Value: 19
+EVICT! oldest frame is 4 (age = 222)
+the page mapped to frame 4 is 82: page 82 is now unmapped (not in memory)
+* Virtual address: 25086 [97, 254] Physical address: 1278 [4, 254] Value: 24
+  Virtual address: 45515 [177, 203] Physical address: 23243 [90, 203] Value: 114
+EVICT! oldest frame is 98 (age = 223)
+the page mapped to frame 98 is 219: page 219 is now unmapped (not in memory)
+* Virtual address: 12893 [50, 93] Physical address: 25181 [98, 93] Value: 0
+EVICT! oldest frame is 42 (age = 225)
+the page mapped to frame 42 is 155: page 155 is now unmapped (not in memory)
+* Virtual address: 22914 [89, 130] Physical address: 10882 [42, 130] Value: 22
+EVICT! oldest frame is 104 (age = 226)
+the page mapped to frame 104 is 136: page 136 is now unmapped (not in memory)
+* Virtual address: 58969 [230, 89] Physical address: 26713 [104, 89] Value: 0
+  Virtual address: 20094 [78, 126] Physical address: 9086 [35, 126] Value: 19
+EVICT! oldest frame is 45 (age = 227)
+the page mapped to frame 45 is 96: page 96 is now unmapped (not in memory)
+* Virtual address: 13730 [53, 162] Physical address: 11682 [45, 162] Value: 13
+EVICT! oldest frame is 50 (age = 231)
+the page mapped to frame 50 is 81: page 81 is now unmapped (not in memory)
+* Virtual address: 44059 [172, 27] Physical address: 12827 [50, 27] Value: 6
+  Virtual address: 28931 [113, 3] Physical address: 23555 [92, 3] Value: 64
+EVICT! oldest frame is 52 (age = 233)
+the page mapped to frame 52 is 158: page 158 is now unmapped (not in memory)
+* Virtual address: 13533 [52, 221] Physical address: 13533 [52, 221] Value: 0
+EVICT! oldest frame is 53 (age = 234)
+the page mapped to frame 53 is 93: page 93 is now unmapped (not in memory)
+* Virtual address: 33134 [129, 110] Physical address: 13678 [53, 110] Value: 32
+  Virtual address: 28483 [111, 67] Physical address: 27971 [109, 67] Value: -48
+  Virtual address: 1220 [4, 196] Physical address: 16324 [63, 196] Value: 0
+  Virtual address: 38174 [149, 30] Physical address: 31774 [124, 30] Value: 37
+  Virtual address: 53502 [208, 254] Physical address: 6142 [23, 254] Value: 52
+EVICT! oldest frame is 55 (age = 235)
+the page mapped to frame 55 is 137: page 137 is now unmapped (not in memory)
+* Virtual address: 43328 [169, 64] Physical address: 14144 [55, 64] Value: 0
+  Virtual address: 4970 [19, 106] Physical address: 10346 [40, 106] Value: 4
+  Virtual address: 8090 [31, 154] Physical address: 1946 [7, 154] Value: 7
+EVICT! oldest frame is 59 (age = 237)
+the page mapped to frame 59 is 221: page 221 is now unmapped (not in memory)
+* Virtual address: 2661 [10, 101] Physical address: 15205 [59, 101] Value: 0
+EVICT! oldest frame is 15 (age = 239)
+the page mapped to frame 15 is 152: page 152 is now unmapped (not in memory)
+* Virtual address: 53903 [210, 143] Physical address: 3983 [15, 143] Value: -93
+  Virtual address: 11025 [43, 17] Physical address: 15633 [61, 17] Value: 0
+  Virtual address: 26627 [104, 3] Physical address: 19715 [77, 3] Value: 0
+EVICT! oldest frame is 80 (age = 240)
+the page mapped to frame 80 is 91: page 91 is now unmapped (not in memory)
+* Virtual address: 18117 [70, 197] Physical address: 20677 [80, 197] Value: 0
+EVICT! oldest frame is 62 (age = 242)
+the page mapped to frame 62 is 12: page 12 is now unmapped (not in memory)
+* Virtual address: 14505 [56, 169] Physical address: 16041 [62, 169] Value: 0
+  Virtual address: 61528 [240, 88] Physical address: 31064 [121, 88] Value: 0
+  Virtual address: 20423 [79, 199] Physical address: 16839 [65, 199] Value: -15
+EVICT! oldest frame is 26 (age = 243)
+the page mapped to frame 26 is 26: page 26 is now unmapped (not in memory)
+* Virtual address: 26962 [105, 82] Physical address: 6738 [26, 82] Value: 26
+  Virtual address: 36392 [142, 40] Physical address: 14376 [56, 40] Value: 0
+EVICT! oldest frame is 102 (age = 244)
+the page mapped to frame 102 is 198: page 198 is now unmapped (not in memory)
+* Virtual address: 11365 [44, 101] Physical address: 26213 [102, 101] Value: 0
+EVICT! oldest frame is 111 (age = 246)
+the page mapped to frame 111 is 245: page 245 is now unmapped (not in memory)
+* Virtual address: 50882 [198, 194] Physical address: 28610 [111, 194] Value: 49
+  Virtual address: 41668 [162, 196] Physical address: 17860 [69, 196] Value: 0
+  Virtual address: 30497 [119, 33] Physical address: 24097 [94, 33] Value: 0
+EVICT! oldest frame is 10 (age = 249)
+the page mapped to frame 10 is 47: page 47 is now unmapped (not in memory)
+* Virtual address: 36216 [141, 120] Physical address: 2680 [10, 120] Value: 0
+  Virtual address: 5619 [21, 243] Physical address: 19443 [75, 243] Value: 124
+EVICT! oldest frame is 81 (age = 252)
+the page mapped to frame 81 is 166: page 166 is now unmapped (not in memory)
+* Virtual address: 36983 [144, 119] Physical address: 20855 [81, 119] Value: 29
+  Virtual address: 59557 [232, 165] Physical address: 26021 [101, 165] Value: 0
+EVICT! oldest frame is 122 (age = 254)
+the page mapped to frame 122 is 54: page 54 is now unmapped (not in memory)
+* Virtual address: 36663 [143, 55] Physical address: 31287 [122, 55] Value: -51
+  Virtual address: 36436 [142, 84] Physical address: 14420 [56, 84] Value: 0
+  Virtual address: 37057 [144, 193] Physical address: 20929 [81, 193] Value: 0
+EVICT! oldest frame is 66 (age = 257)
+the page mapped to frame 66 is 45: page 45 is now unmapped (not in memory)
+* Virtual address: 23585 [92, 33] Physical address: 16929 [66, 33] Value: 0
+EVICT! oldest frame is 41 (age = 261)
+the page mapped to frame 41 is 224: page 224 is now unmapped (not in memory)
+* Virtual address: 58791 [229, 167] Physical address: 10663 [41, 167] Value: 105
+EVICT! oldest frame is 74 (age = 262)
+the page mapped to frame 74 is 15: page 15 is now unmapped (not in memory)
+* Virtual address: 46666 [182, 74] Physical address: 19018 [74, 74] Value: 45
+  Virtual address: 64475 [251, 219] Physical address: 12507 [48, 219] Value: -10
+  Virtual address: 21615 [84, 111] Physical address: 9583 [37, 111] Value: 27
+EVICT! oldest frame is 12 (age = 264)
+the page mapped to frame 12 is 116: page 116 is now unmapped (not in memory)
+* Virtual address: 41090 [160, 130] Physical address: 3202 [12, 130] Value: 40
+  Virtual address: 1771 [6, 235] Physical address: 21227 [82, 235] Value: -70
+EVICT! oldest frame is 1 (age = 265)
+the page mapped to frame 1 is 244: page 244 is now unmapped (not in memory)
+* Virtual address: 47513 [185, 153] Physical address: 409 [1, 153] Value: 0
+EVICT! oldest frame is 22 (age = 266)
+the page mapped to frame 22 is 8: page 8 is now unmapped (not in memory)
+* Virtual address: 39338 [153, 170] Physical address: 5802 [22, 170] Value: 38
+  Virtual address: 1390 [5, 110] Physical address: 8046 [31, 110] Value: 1
+  Virtual address: 38772 [151, 116] Physical address: 25716 [100, 116] Value: 0
+  Virtual address: 58149 [227, 37] Physical address: 2341 [9, 37] Value: 0
+  Virtual address: 7196 [28, 28] Physical address: 19996 [78, 28] Value: 0
+  Virtual address: 9123 [35, 163] Physical address: 29859 [116, 163] Value: -24
+  Virtual address: 7491 [29, 67] Physical address: 11843 [46, 67] Value: 80
+EVICT! oldest frame is 106 (age = 267)
+the page mapped to frame 106 is 202: page 202 is now unmapped (not in memory)
+* Virtual address: 62616 [244, 152] Physical address: 27288 [106, 152] Value: 0
+EVICT! oldest frame is 38 (age = 268)
+the page mapped to frame 38 is 24: page 24 is now unmapped (not in memory)
+* Virtual address: 15436 [60, 76] Physical address: 9804 [38, 76] Value: 0
+  Virtual address: 17491 [68, 83] Physical address: 8787 [34, 83] Value: 20
+EVICT! oldest frame is 32 (age = 269)
+the page mapped to frame 32 is 148: page 148 is now unmapped (not in memory)
+* Virtual address: 53656 [209, 152] Physical address: 8344 [32, 152] Value: 0
+EVICT! oldest frame is 73 (age = 270)
+the page mapped to frame 73 is 231: page 231 is now unmapped (not in memory)
+* Virtual address: 26449 [103, 81] Physical address: 18769 [73, 81] Value: 0
+EVICT! oldest frame is 76 (age = 271)
+the page mapped to frame 76 is 239: page 239 is now unmapped (not in memory)
+* Virtual address: 34935 [136, 119] Physical address: 19575 [76, 119] Value: 29
+EVICT! oldest frame is 83 (age = 283)
+the page mapped to frame 83 is 108: page 108 is now unmapped (not in memory)
+* Virtual address: 19864 [77, 152] Physical address: 21400 [83, 152] Value: 0
+EVICT! oldest frame is 84 (age = 284)
+the page mapped to frame 84 is 51: page 51 is now unmapped (not in memory)
+* Virtual address: 51388 [200, 188] Physical address: 21692 [84, 188] Value: 0
+EVICT! oldest frame is 19 (age = 285)
+the page mapped to frame 19 is 38: page 38 is now unmapped (not in memory)
+* Virtual address: 15155 [59, 51] Physical address: 4915 [19, 51] Value: -52
+EVICT! oldest frame is 86 (age = 287)
+the page mapped to frame 86 is 173: page 173 is now unmapped (not in memory)
+* Virtual address: 64775 [253, 7] Physical address: 22023 [86, 7] Value: 65
+  Virtual address: 47969 [187, 97] Physical address: 2145 [8, 97] Value: 0
+EVICT! oldest frame is 33 (age = 289)
+the page mapped to frame 33 is 192: page 192 is now unmapped (not in memory)
+* Virtual address: 16315 [63, 187] Physical address: 8635 [33, 187] Value: -18
+  Virtual address: 1342 [5, 62] Physical address: 7998 [31, 62] Value: 1
+  Virtual address: 51185 [199, 241] Physical address: 15089 [58, 241] Value: 0
+EVICT! oldest frame is 21 (age = 293)
+the page mapped to frame 21 is 110: page 110 is now unmapped (not in memory)
+* Virtual address: 6043 [23, 155] Physical address: 5531 [21, 155] Value: -26
+  Virtual address: 21398 [83, 150] Physical address: 24982 [97, 150] Value: 20
+EVICT! oldest frame is 13 (age = 294)
+the page mapped to frame 13 is 175: page 175 is now unmapped (not in memory)
+* Virtual address: 3273 [12, 201] Physical address: 3529 [13, 201] Value: 0
+EVICT! oldest frame is 43 (age = 296)
+the page mapped to frame 43 is 64: page 64 is now unmapped (not in memory)
+* Virtual address: 9370 [36, 154] Physical address: 11162 [43, 154] Value: 9
+EVICT! oldest frame is 49 (age = 297)
+the page mapped to frame 49 is 163: page 163 is now unmapped (not in memory)
+* Virtual address: 35463 [138, 135] Physical address: 12679 [49, 135] Value: -95
+EVICT! oldest frame is 85 (age = 302)
+the page mapped to frame 85 is 249: page 249 is now unmapped (not in memory)
+* Virtual address: 28205 [110, 45] Physical address: 21805 [85, 45] Value: 0
+EVICT! oldest frame is 95 (age = 306)
+the page mapped to frame 95 is 34: page 34 is now unmapped (not in memory)
+* Virtual address: 2351 [9, 47] Physical address: 24367 [95, 47] Value: 75
+  Virtual address: 28999 [113, 71] Physical address: 23623 [92, 71] Value: 81
+EVICT! oldest frame is 99 (age = 307)
+the page mapped to frame 99 is 204: page 204 is now unmapped (not in memory)
+* Virtual address: 47699 [186, 83] Physical address: 25427 [99, 83] Value: -108
+EVICT! oldest frame is 117 (age = 309)
+the page mapped to frame 117 is 205: page 205 is now unmapped (not in memory)
+* Virtual address: 46870 [183, 22] Physical address: 29974 [117, 22] Value: 45
+EVICT! oldest frame is 68 (age = 313)
+the page mapped to frame 68 is 11: page 11 is now unmapped (not in memory)
+* Virtual address: 22311 [87, 39] Physical address: 17447 [68, 39] Value: -55
+EVICT! oldest frame is 107 (age = 314)
+the page mapped to frame 107 is 32: page 32 is now unmapped (not in memory)
+* Virtual address: 22124 [86, 108] Physical address: 27500 [107, 108] Value: 0
+  Virtual address: 22427 [87, 155] Physical address: 17563 [68, 155] Value: -26
+EVICT! oldest frame is 108 (age = 315)
+the page mapped to frame 108 is 69: page 69 is now unmapped (not in memory)
+* Virtual address: 49344 [192, 192] Physical address: 27840 [108, 192] Value: 0
+EVICT! oldest frame is 110 (age = 316)
+the page mapped to frame 110 is 178: page 178 is now unmapped (not in memory)
+* Virtual address: 23224 [90, 184] Physical address: 28344 [110, 184] Value: 0
+  Virtual address: 5514 [21, 138] Physical address: 19338 [75, 138] Value: 5
+EVICT! oldest frame is 5 (age = 318)
+the page mapped to frame 5 is 233: page 233 is now unmapped (not in memory)
+* Virtual address: 20504 [80, 24] Physical address: 1304 [5, 24] Value: 0
+EVICT! oldest frame is 57 (age = 319)
+the page mapped to frame 57 is 40: page 40 is now unmapped (not in memory)
+* Virtual address: 376 [1, 120] Physical address: 14712 [57, 120] Value: 0
+  Virtual address: 2014 [7, 222] Physical address: 7390 [28, 222] Value: 1
+  Virtual address: 38700 [151, 44] Physical address: 25644 [100, 44] Value: 0
+EVICT! oldest frame is 87 (age = 320)
+the page mapped to frame 87 is 206: page 206 is now unmapped (not in memory)
+* Virtual address: 13098 [51, 42] Physical address: 22314 [87, 42] Value: 12
+  Virtual address: 62435 [243, 227] Physical address: 24035 [93, 227] Value: -8
+  Virtual address: 48046 [187, 174] Physical address: 2222 [8, 174] Value: 46
+EVICT! oldest frame is 113 (age = 322)
+the page mapped to frame 113 is 159: page 159 is now unmapped (not in memory)
+* Virtual address: 63464 [247, 232] Physical address: 29160 [113, 232] Value: 0
+EVICT! oldest frame is 114 (age = 323)
+the page mapped to frame 114 is 65: page 65 is now unmapped (not in memory)
+* Virtual address: 12798 [49, 254] Physical address: 29438 [114, 254] Value: 12
+  Virtual address: 51178 [199, 234] Physical address: 15082 [58, 234] Value: 49
+  Virtual address: 8627 [33, 179] Physical address: 22963 [89, 179] Value: 108
+  Virtual address: 27083 [105, 203] Physical address: 6859 [26, 203] Value: 114
+EVICT! oldest frame is 112 (age = 324)
+the page mapped to frame 112 is 106: page 106 is now unmapped (not in memory)
+* Virtual address: 47198 [184, 94] Physical address: 28766 [112, 94] Value: 46
+EVICT! oldest frame is 103 (age = 325)
+the page mapped to frame 103 is 95: page 95 is now unmapped (not in memory)
+* Virtual address: 44021 [171, 245] Physical address: 26613 [103, 245] Value: 0
+EVICT! oldest frame is 88 (age = 329)
+the page mapped to frame 88 is 76: page 76 is now unmapped (not in memory)
+* Virtual address: 32792 [128, 24] Physical address: 22552 [88, 24] Value: 0
+  Virtual address: 43996 [171, 220] Physical address: 26588 [103, 220] Value: 0
+  Virtual address: 41126 [160, 166] Physical address: 3238 [12, 166] Value: 40
+  Virtual address: 64244 [250, 244] Physical address: 4852 [18, 244] Value: 0
+  Virtual address: 37047 [144, 183] Physical address: 20919 [81, 183] Value: 45
+EVICT! oldest frame is 120 (age = 331)
+the page mapped to frame 120 is 254: page 254 is now unmapped (not in memory)
+* Virtual address: 60281 [235, 121] Physical address: 30841 [120, 121] Value: 0
+EVICT! oldest frame is 105 (age = 332)
+the page mapped to frame 105 is 226: page 226 is now unmapped (not in memory)
+* Virtual address: 52904 [206, 168] Physical address: 27048 [105, 168] Value: 0
+EVICT! oldest frame is 123 (age = 336)
+the page mapped to frame 123 is 213: page 213 is now unmapped (not in memory)
+* Virtual address: 7768 [30, 88] Physical address: 31576 [123, 88] Value: 0
+EVICT! oldest frame is 125 (age = 338)
+the page mapped to frame 125 is 215: page 215 is now unmapped (not in memory)
+* Virtual address: 55359 [216, 63] Physical address: 32063 [125, 63] Value: 15
+  Virtual address: 3230 [12, 158] Physical address: 3486 [13, 158] Value: 3
+EVICT! oldest frame is 70 (age = 340)
+the page mapped to frame 70 is 176: page 176 is now unmapped (not in memory)
+* Virtual address: 44813 [175, 13] Physical address: 17933 [70, 13] Value: 0
+  Virtual address: 4116 [16, 20] Physical address: 30228 [118, 20] Value: 0
+EVICT! oldest frame is 2 (age = 343)
+the page mapped to frame 2 is 115: page 115 is now unmapped (not in memory)
+* Virtual address: 65222 [254, 198] Physical address: 710 [2, 198] Value: 63
+EVICT! oldest frame is 79 (age = 345)
+the page mapped to frame 79 is 154: page 154 is now unmapped (not in memory)
+* Virtual address: 28083 [109, 179] Physical address: 20403 [79, 179] Value: 108
+EVICT! oldest frame is 3 (age = 346)
+the page mapped to frame 3 is 125: page 125 is now unmapped (not in memory)
+* Virtual address: 60660 [236, 244] Physical address: 1012 [3, 244] Value: 0
+EVICT! oldest frame is 11 (age = 349)
+the page mapped to frame 11 is 88: page 88 is now unmapped (not in memory)
+* Virtual address: 39 [0, 39] Physical address: 2855 [11, 39] Value: 9
+  Virtual address: 328 [1, 72] Physical address: 14664 [57, 72] Value: 0
+  Virtual address: 47868 [186, 252] Physical address: 25596 [99, 252] Value: 0
+  Virtual address: 13009 [50, 209] Physical address: 25297 [98, 209] Value: 0
+  Virtual address: 22378 [87, 106] Physical address: 17514 [68, 106] Value: 21
+  Virtual address: 39304 [153, 136] Physical address: 5768 [22, 136] Value: 0
+  Virtual address: 11171 [43, 163] Physical address: 15779 [61, 163] Value: -24
+  Virtual address: 8079 [31, 143] Physical address: 1935 [7, 143] Value: -29
+  Virtual address: 52879 [206, 143] Physical address: 27023 [105, 143] Value: -93
+EVICT! oldest frame is 6 (age = 353)
+the page mapped to frame 6 is 180: page 180 is now unmapped (not in memory)
+* Virtual address: 5123 [20, 3] Physical address: 1539 [6, 3] Value: 0
+EVICT! oldest frame is 17 (age = 354)
+the page mapped to frame 17 is 218: page 218 is now unmapped (not in memory)
+* Virtual address: 4356 [17, 4] Physical address: 4356 [17, 4] Value: 0
+EVICT! oldest frame is 16 (age = 355)
+the page mapped to frame 16 is 181: page 181 is now unmapped (not in memory)
+* Virtual address: 45745 [178, 177] Physical address: 4273 [16, 177] Value: 0
+  Virtual address: 32952 [128, 184] Physical address: 22712 [88, 184] Value: 0
+EVICT! oldest frame is 71 (age = 357)
+the page mapped to frame 71 is 132: page 132 is now unmapped (not in memory)
+* Virtual address: 4657 [18, 49] Physical address: 18225 [71, 49] Value: 0
+EVICT! oldest frame is 91 (age = 358)
+the page mapped to frame 91 is 164: page 164 is now unmapped (not in memory)
+* Virtual address: 24142 [94, 78] Physical address: 23374 [91, 78] Value: 23
+EVICT! oldest frame is 14 (age = 360)
+the page mapped to frame 14 is 72: page 72 is now unmapped (not in memory)
+* Virtual address: 23319 [91, 23] Physical address: 3607 [14, 23] Value: -59
+  Virtual address: 13607 [53, 39] Physical address: 11559 [45, 39] Value: 73
+EVICT! oldest frame is 67 (age = 361)
+the page mapped to frame 67 is 191: page 191 is now unmapped (not in memory)
+* Virtual address: 46304 [180, 224] Physical address: 17376 [67, 224] Value: 0
+EVICT! oldest frame is 127 (age = 363)
+the page mapped to frame 127 is 135: page 135 is now unmapped (not in memory)
+* Virtual address: 17677 [69, 13] Physical address: 32525 [127, 13] Value: 0
+EVICT! oldest frame is 96 (age = 368)
+the page mapped to frame 96 is 179: page 179 is now unmapped (not in memory)
+* Virtual address: 59691 [233, 43] Physical address: 24619 [96, 43] Value: 74
+  Virtual address: 50967 [199, 23] Physical address: 14871 [58, 23] Value: -59
+  Virtual address: 7817 [30, 137] Physical address: 31625 [123, 137] Value: 0
+  Virtual address: 8545 [33, 97] Physical address: 22881 [89, 97] Value: 0
+  Virtual address: 55297 [216, 1] Physical address: 32001 [125, 1] Value: 0
+  Virtual address: 52954 [206, 218] Physical address: 27098 [105, 218] Value: 51
+EVICT! oldest frame is 20 (age = 369)
+the page mapped to frame 20 is 57: page 57 is now unmapped (not in memory)
+* Virtual address: 39720 [155, 40] Physical address: 5160 [20, 40] Value: 0
+EVICT! oldest frame is 24 (age = 371)
+the page mapped to frame 24 is 252: page 252 is now unmapped (not in memory)
+* Virtual address: 18455 [72, 23] Physical address: 6167 [24, 23] Value: 5
+EVICT! oldest frame is 25 (age = 372)
+the page mapped to frame 25 is 42: page 42 is now unmapped (not in memory)
+* Virtual address: 30349 [118, 141] Physical address: 6541 [25, 141] Value: 0
+  Virtual address: 63270 [247, 38] Physical address: 28966 [113, 38] Value: 61
+EVICT! oldest frame is 115 (age = 375)
+the page mapped to frame 115 is 126: page 126 is now unmapped (not in memory)
+* Virtual address: 27156 [106, 20] Physical address: 29460 [115, 20] Value: 0
+  Virtual address: 20614 [80, 134] Physical address: 1414 [5, 134] Value: 20
+EVICT! oldest frame is 27 (age = 377)
+the page mapped to frame 27 is 174: page 174 is now unmapped (not in memory)
+* Virtual address: 19372 [75, 172] Physical address: 7084 [27, 172] Value: 0
+EVICT! oldest frame is 29 (age = 379)
+the page mapped to frame 29 is 214: page 214 is now unmapped (not in memory)
+* Virtual address: 48689 [190, 49] Physical address: 7473 [29, 49] Value: 0
+  Virtual address: 49386 [192, 234] Physical address: 27882 [108, 234] Value: 48
+EVICT! oldest frame is 30 (age = 381)
+the page mapped to frame 30 is 220: page 220 is now unmapped (not in memory)
+* Virtual address: 50584 [197, 152] Physical address: 7832 [30, 152] Value: 0
+EVICT! oldest frame is 119 (age = 384)
+the page mapped to frame 119 is 255: page 255 is now unmapped (not in memory)
+* Virtual address: 51936 [202, 224] Physical address: 30688 [119, 224] Value: 0
+EVICT! oldest frame is 64 (age = 385)
+the page mapped to frame 64 is 48: page 48 is now unmapped (not in memory)
+* Virtual address: 34705 [135, 145] Physical address: 16529 [64, 145] Value: 0
+  Virtual address: 13653 [53, 85] Physical address: 11605 [45, 85] Value: 0
+EVICT! oldest frame is 60 (age = 386)
+the page mapped to frame 60 is 228: page 228 is now unmapped (not in memory)
+* Virtual address: 50077 [195, 157] Physical address: 15517 [60, 157] Value: 0
+EVICT! oldest frame is 54 (age = 387)
+the page mapped to frame 54 is 248: page 248 is now unmapped (not in memory)
+* Virtual address: 54518 [212, 246] Physical address: 14070 [54, 246] Value: 53
+  Virtual address: 41482 [162, 10] Physical address: 17674 [69, 10] Value: 40
+  Virtual address: 4169 [16, 73] Physical address: 30281 [118, 73] Value: 0
+  Virtual address: 36118 [141, 22] Physical address: 2582 [10, 22] Value: 35
+EVICT! oldest frame is 0 (age = 388)
+the page mapped to frame 0 is 102: page 102 is now unmapped (not in memory)
+* Virtual address: 9584 [37, 112] Physical address: 112 [0, 112] Value: 0
+  Virtual address: 18490 [72, 58] Physical address: 6202 [24, 58] Value: 18
+  Virtual address: 55420 [216, 124] Physical address: 32124 [125, 124] Value: 0
+  Virtual address: 5708 [22, 76] Physical address: 18508 [72, 76] Value: 0
+  Virtual address: 23506 [91, 210] Physical address: 3794 [14, 210] Value: 22
+  Virtual address: 15391 [60, 31] Physical address: 9759 [38, 31] Value: 7
+  Virtual address: 36368 [142, 16] Physical address: 14352 [56, 16] Value: 0
+EVICT! oldest frame is 36 (age = 389)
+the page mapped to frame 36 is 62: page 62 is now unmapped (not in memory)
+* Virtual address: 38976 [152, 64] Physical address: 9280 [36, 64] Value: 0
+EVICT! oldest frame is 44 (age = 390)
+the page mapped to frame 44 is 139: page 139 is now unmapped (not in memory)
+* Virtual address: 50406 [196, 230] Physical address: 11494 [44, 230] Value: 49
+  Virtual address: 49236 [192, 84] Physical address: 27732 [108, 84] Value: 0
+  Virtual address: 65035 [254, 11] Physical address: 523 [2, 11] Value: -126
+EVICT! oldest frame is 39 (age = 392)
+the page mapped to frame 39 is 211: page 211 is now unmapped (not in memory)
+* Virtual address: 30120 [117, 168] Physical address: 10152 [39, 168] Value: 0
+  Virtual address: 62551 [244, 87] Physical address: 27223 [106, 87] Value: 21
+  Virtual address: 46809 [182, 217] Physical address: 19161 [74, 217] Value: 0
+  Virtual address: 21687 [84, 183] Physical address: 9655 [37, 183] Value: 45
+  Virtual address: 53839 [210, 79] Physical address: 3919 [15, 79] Value: -109
+EVICT! oldest frame is 51 (age = 393)
+the page mapped to frame 51 is 193: page 193 is now unmapped (not in memory)
+* Virtual address: 2098 [8, 50] Physical address: 13106 [51, 50] Value: 2
+EVICT! oldest frame is 126 (age = 398)
+the page mapped to frame 126 is 127: page 127 is now unmapped (not in memory)
+* Virtual address: 12364 [48, 76] Physical address: 32332 [126, 76] Value: 0
+  Virtual address: 45366 [177, 54] Physical address: 23094 [90, 54] Value: 44
+  Virtual address: 50437 [197, 5] Physical address: 7685 [30, 5] Value: 0
+  Virtual address: 36675 [143, 67] Physical address: 31299 [122, 67] Value: -48
+  Virtual address: 55382 [216, 86] Physical address: 32086 [125, 86] Value: 54
+EVICT! oldest frame is 47 (age = 400)
+the page mapped to frame 47 is 168: page 168 is now unmapped (not in memory)
+* Virtual address: 11846 [46, 70] Physical address: 12102 [47, 70] Value: 11
+EVICT! oldest frame is 4 (age = 402)
+the page mapped to frame 4 is 97: page 97 is now unmapped (not in memory)
+* Virtual address: 49127 [191, 231] Physical address: 1255 [4, 231] Value: -7
+  Virtual address: 19900 [77, 188] Physical address: 21436 [83, 188] Value: 0
+  Virtual address: 20554 [80, 74] Physical address: 1354 [5, 74] Value: 20
+  Virtual address: 19219 [75, 19] Physical address: 6931 [27, 19] Value: -60
+EVICT! oldest frame is 42 (age = 405)
+the page mapped to frame 42 is 89: page 89 is now unmapped (not in memory)
+* Virtual address: 51483 [201, 27] Physical address: 10779 [42, 27] Value: 70
+EVICT! oldest frame is 104 (age = 406)
+the page mapped to frame 104 is 230: page 230 is now unmapped (not in memory)
+* Virtual address: 58090 [226, 234] Physical address: 26858 [104, 234] Value: 56
+  Virtual address: 39074 [152, 162] Physical address: 9378 [36, 162] Value: 38
+EVICT! oldest frame is 35 (age = 407)
+the page mapped to frame 35 is 78: page 78 is now unmapped (not in memory)
+* Virtual address: 16060 [62, 188] Physical address: 9148 [35, 188] Value: 0
+EVICT! oldest frame is 50 (age = 409)
+the page mapped to frame 50 is 172: page 172 is now unmapped (not in memory)
+* Virtual address: 10447 [40, 207] Physical address: 13007 [50, 207] Value: 51
+EVICT! oldest frame is 52 (age = 411)
+the page mapped to frame 52 is 52: page 52 is now unmapped (not in memory)
+* Virtual address: 54169 [211, 153] Physical address: 13465 [52, 153] Value: 0
+  Virtual address: 20634 [80, 154] Physical address: 1434 [5, 154] Value: 20
+EVICT! oldest frame is 53 (age = 412)
+the page mapped to frame 53 is 129: page 129 is now unmapped (not in memory)
+* Virtual address: 57555 [224, 211] Physical address: 13779 [53, 211] Value: 52
+EVICT! oldest frame is 109 (age = 413)
+the page mapped to frame 109 is 111: page 111 is now unmapped (not in memory)
+* Virtual address: 61210 [239, 26] Physical address: 27930 [109, 26] Value: 59
+  Virtual address: 269 [1, 13] Physical address: 14605 [57, 13] Value: 0
+EVICT! oldest frame is 63 (age = 414)
+the page mapped to frame 63 is 4: page 4 is now unmapped (not in memory)
+* Virtual address: 33154 [129, 130] Physical address: 16258 [63, 130] Value: 32
+  Virtual address: 64487 [251, 231] Physical address: 12519 [48, 231] Value: -7
+  Virtual address: 61223 [239, 39] Physical address: 27943 [109, 39] Value: -55
+  Virtual address: 47292 [184, 188] Physical address: 28860 [112, 188] Value: 0
+EVICT! oldest frame is 124 (age = 415)
+the page mapped to frame 124 is 149: page 149 is now unmapped (not in memory)
+* Virtual address: 21852 [85, 92] Physical address: 31836 [124, 92] Value: 0
+  Virtual address: 5281 [20, 161] Physical address: 1697 [6, 161] Value: 0
+EVICT! oldest frame is 23 (age = 416)
+the page mapped to frame 23 is 208: page 208 is now unmapped (not in memory)
+* Virtual address: 45912 [179, 88] Physical address: 5976 [23, 88] Value: 0
+EVICT! oldest frame is 55 (age = 417)
+the page mapped to frame 55 is 169: page 169 is now unmapped (not in memory)
+* Virtual address: 32532 [127, 20] Physical address: 14100 [55, 20] Value: 0
+EVICT! oldest frame is 40 (age = 418)
+the page mapped to frame 40 is 19: page 19 is now unmapped (not in memory)
+* Virtual address: 63067 [246, 91] Physical address: 10331 [40, 91] Value: -106
+  Virtual address: 41683 [162, 211] Physical address: 17875 [69, 211] Value: -76
+EVICT! oldest frame is 59 (age = 420)
+the page mapped to frame 59 is 10: page 10 is now unmapped (not in memory)
+* Virtual address: 20981 [81, 245] Physical address: 15349 [59, 245] Value: 0
+EVICT! oldest frame is 77 (age = 423)
+the page mapped to frame 77 is 104: page 104 is now unmapped (not in memory)
+* Virtual address: 33881 [132, 89] Physical address: 19801 [77, 89] Value: 0
+EVICT! oldest frame is 80 (age = 424)
+the page mapped to frame 80 is 70: page 70 is now unmapped (not in memory)
+* Virtual address: 41785 [163, 57] Physical address: 20537 [80, 57] Value: 0
+  Virtual address: 4580 [17, 228] Physical address: 4580 [17, 228] Value: 0
+EVICT! oldest frame is 62 (age = 425)
+the page mapped to frame 62 is 56: page 56 is now unmapped (not in memory)
+* Virtual address: 41389 [161, 173] Physical address: 16045 [62, 173] Value: 0
+EVICT! oldest frame is 121 (age = 426)
+the page mapped to frame 121 is 240: page 240 is now unmapped (not in memory)
+* Virtual address: 28572 [111, 156] Physical address: 31132 [121, 156] Value: 0
+EVICT! oldest frame is 65 (age = 427)
+the page mapped to frame 65 is 79: page 79 is now unmapped (not in memory)
+* Virtual address: 782 [3, 14] Physical address: 16654 [65, 14] Value: 0
+  Virtual address: 30273 [118, 65] Physical address: 6465 [25, 65] Value: 0
+  Virtual address: 62267 [243, 59] Physical address: 23867 [93, 59] Value: -50
+EVICT! oldest frame is 102 (age = 430)
+the page mapped to frame 102 is 44: page 44 is now unmapped (not in memory)
+* Virtual address: 17922 [70, 2] Physical address: 26114 [102, 2] Value: 17
+  Virtual address: 63238 [247, 6] Physical address: 28934 [113, 6] Value: 61
+  Virtual address: 3308 [12, 236] Physical address: 3564 [13, 236] Value: 0
+  Virtual address: 26545 [103, 177] Physical address: 18865 [73, 177] Value: 0
+EVICT! oldest frame is 111 (age = 431)
+the page mapped to frame 111 is 198: page 198 is now unmapped (not in memory)
+* Virtual address: 44395 [173, 107] Physical address: 28523 [111, 107] Value: 90
+  Virtual address: 39120 [152, 208] Physical address: 9424 [36, 208] Value: 0
+  Virtual address: 21706 [84, 202] Physical address: 9674 [37, 202] Value: 21
+EVICT! oldest frame is 94 (age = 433)
+the page mapped to frame 94 is 119: page 119 is now unmapped (not in memory)
+* Virtual address: 7144 [27, 232] Physical address: 24296 [94, 232] Value: 0
+  Virtual address: 30244 [118, 36] Physical address: 6436 [25, 36] Value: 0
+EVICT! oldest frame is 101 (age = 437)
+the page mapped to frame 101 is 232: page 232 is now unmapped (not in memory)
+* Virtual address: 3725 [14, 141] Physical address: 25997 [101, 141] Value: 0
+EVICT! oldest frame is 66 (age = 441)
+the page mapped to frame 66 is 92: page 92 is now unmapped (not in memory)
+* Virtual address: 54632 [213, 104] Physical address: 17000 [66, 104] Value: 0
+EVICT! oldest frame is 41 (age = 442)
+the page mapped to frame 41 is 229: page 229 is now unmapped (not in memory)
+* Virtual address: 30574 [119, 110] Physical address: 10606 [41, 110] Value: 29
+  Virtual address: 8473 [33, 25] Physical address: 22809 [89, 25] Value: 0
+  Virtual address: 12386 [48, 98] Physical address: 32354 [126, 98] Value: 12
+  Virtual address: 41114 [160, 154] Physical address: 3226 [12, 154] Value: 40
+  Virtual address: 57930 [226, 74] Physical address: 26698 [104, 74] Value: 56
+  Virtual address: 15341 [59, 237] Physical address: 5101 [19, 237] Value: 0
+  Virtual address: 15598 [60, 238] Physical address: 9966 [38, 238] Value: 15
+EVICT! oldest frame is 82 (age = 447)
+the page mapped to frame 82 is 6: page 6 is now unmapped (not in memory)
+* Virtual address: 59922 [234, 18] Physical address: 21010 [82, 18] Value: 58
+EVICT! oldest frame is 1 (age = 448)
+the page mapped to frame 1 is 185: page 185 is now unmapped (not in memory)
+* Virtual address: 18226 [71, 50] Physical address: 306 [1, 50] Value: 17
+EVICT! oldest frame is 9 (age = 452)
+the page mapped to frame 9 is 227: page 227 is now unmapped (not in memory)
+* Virtual address: 48162 [188, 34] Physical address: 2338 [9, 34] Value: 47
+  Virtual address: 41250 [161, 34] Physical address: 15906 [62, 34] Value: 40
+  Virtual address: 1512 [5, 232] Physical address: 8168 [31, 232] Value: 0
+  Virtual address: 2546 [9, 242] Physical address: 24562 [95, 242] Value: 2
+  Virtual address: 41682 [162, 210] Physical address: 17874 [69, 210] Value: 40
+  Virtual address: 322 [1, 66] Physical address: 14658 [57, 66] Value: 0
+  Virtual address: 880 [3, 112] Physical address: 16752 [65, 112] Value: 0
+  Virtual address: 20891 [81, 155] Physical address: 15259 [59, 155] Value: 102
+EVICT! oldest frame is 78 (age = 453)
+the page mapped to frame 78 is 28: page 28 is now unmapped (not in memory)
+* Virtual address: 56604 [221, 28] Physical address: 19996 [78, 28] Value: 0
+EVICT! oldest frame is 116 (age = 454)
+the page mapped to frame 116 is 35: page 35 is now unmapped (not in memory)
+* Virtual address: 40166 [156, 230] Physical address: 29926 [116, 230] Value: 39
+EVICT! oldest frame is 46 (age = 455)
+the page mapped to frame 46 is 29: page 29 is now unmapped (not in memory)
+* Virtual address: 26791 [104, 167] Physical address: 11943 [46, 167] Value: 41
+EVICT! oldest frame is 34 (age = 458)
+the page mapped to frame 34 is 68: page 68 is now unmapped (not in memory)
+* Virtual address: 44560 [174, 16] Physical address: 8720 [34, 16] Value: 0
+  Virtual address: 38698 [151, 42] Physical address: 25642 [100, 42] Value: 37
+  Virtual address: 64127 [250, 127] Physical address: 4735 [18, 127] Value: -97
+EVICT! oldest frame is 32 (age = 459)
+the page mapped to frame 32 is 209: page 209 is now unmapped (not in memory)
+* Virtual address: 15028 [58, 180] Physical address: 8372 [32, 180] Value: 0
+  Virtual address: 38669 [151, 13] Physical address: 25613 [100, 13] Value: 0
+  Virtual address: 45637 [178, 69] Physical address: 4165 [16, 69] Value: 0
+EVICT! oldest frame is 76 (age = 461)
+the page mapped to frame 76 is 136: page 136 is now unmapped (not in memory)
+* Virtual address: 43151 [168, 143] Physical address: 19599 [76, 143] Value: 35
+  Virtual address: 9465 [36, 249] Physical address: 11257 [43, 249] Value: 0
+  Virtual address: 2498 [9, 194] Physical address: 24514 [95, 194] Value: 2
+EVICT! oldest frame is 84 (age = 463)
+the page mapped to frame 84 is 200: page 200 is now unmapped (not in memory)
+* Virtual address: 13978 [54, 154] Physical address: 21658 [84, 154] Value: 13
+  Virtual address: 16326 [63, 198] Physical address: 8646 [33, 198] Value: 15
+EVICT! oldest frame is 86 (age = 465)
+the page mapped to frame 86 is 253: page 253 is now unmapped (not in memory)
+* Virtual address: 51442 [200, 242] Physical address: 22258 [86, 242] Value: 50
+EVICT! oldest frame is 21 (age = 470)
+the page mapped to frame 21 is 23: page 23 is now unmapped (not in memory)
+* Virtual address: 34845 [136, 29] Physical address: 5405 [21, 29] Value: 0
+EVICT! oldest frame is 97 (age = 471)
+the page mapped to frame 97 is 83: page 83 is now unmapped (not in memory)
+* Virtual address: 63667 [248, 179] Physical address: 25011 [97, 179] Value: 44
+  Virtual address: 39370 [153, 202] Physical address: 5834 [22, 202] Value: 38
+EVICT! oldest frame is 49 (age = 474)
+the page mapped to frame 49 is 138: page 138 is now unmapped (not in memory)
+* Virtual address: 55671 [217, 119] Physical address: 12663 [49, 119] Value: 93
+  Virtual address: 64496 [251, 240] Physical address: 12528 [48, 240] Value: 0
+  Virtual address: 7767 [30, 87] Physical address: 31575 [123, 87] Value: -107
+EVICT! oldest frame is 85 (age = 475)
+the page mapped to frame 85 is 110: page 110 is now unmapped (not in memory)
+* Virtual address: 6283 [24, 139] Physical address: 21899 [85, 139] Value: 34
+EVICT! oldest frame is 92 (age = 477)
+the page mapped to frame 92 is 113: page 113 is now unmapped (not in memory)
+* Virtual address: 55884 [218, 76] Physical address: 23628 [92, 76] Value: 0
+EVICT! oldest frame is 117 (age = 479)
+the page mapped to frame 117 is 183: page 183 is now unmapped (not in memory)
+* Virtual address: 61103 [238, 175] Physical address: 30127 [117, 175] Value: -85
+EVICT! oldest frame is 107 (age = 481)
+the page mapped to frame 107 is 86: page 86 is now unmapped (not in memory)
+* Virtual address: 10184 [39, 200] Physical address: 27592 [107, 200] Value: 0
+EVICT! oldest frame is 110 (age = 484)
+the page mapped to frame 110 is 90: page 90 is now unmapped (not in memory)
+* Virtual address: 39543 [154, 119] Physical address: 28279 [110, 119] Value: -99
+  Virtual address: 9555 [37, 83] Physical address: 83 [0, 83] Value: 84
+  Virtual address: 13963 [54, 139] Physical address: 21643 [84, 139] Value: -94
+EVICT! oldest frame is 75 (age = 485)
+the page mapped to frame 75 is 21: page 21 is now unmapped (not in memory)
+* Virtual address: 58975 [230, 95] Physical address: 19295 [75, 95] Value: -105
+EVICT! oldest frame is 28 (age = 488)
+the page mapped to frame 28 is 7: page 7 is now unmapped (not in memory)
+* Virtual address: 19537 [76, 81] Physical address: 7249 [28, 81] Value: 0
+EVICT! oldest frame is 87 (age = 490)
+the page mapped to frame 87 is 51: page 51 is now unmapped (not in memory)
+* Virtual address: 6101 [23, 213] Physical address: 22485 [87, 213] Value: 0
+  Virtual address: 41421 [161, 205] Physical address: 16077 [62, 205] Value: 0
+  Virtual address: 45502 [177, 190] Physical address: 23230 [90, 190] Value: 44
+EVICT! oldest frame is 8 (age = 492)
+the page mapped to frame 8 is 187: page 187 is now unmapped (not in memory)
+* Virtual address: 29328 [114, 144] Physical address: 2192 [8, 144] Value: 0
+  Virtual address: 8149 [31, 213] Physical address: 2005 [7, 213] Value: 0
+EVICT! oldest frame is 114 (age = 494)
+the page mapped to frame 114 is 49: page 49 is now unmapped (not in memory)
+* Virtual address: 25450 [99, 106] Physical address: 29290 [114, 106] Value: 24
+  Virtual address: 58944 [230, 64] Physical address: 19264 [75, 64] Value: 0
+  Virtual address: 50666 [197, 234] Physical address: 7914 [30, 234] Value: 49
+EVICT! oldest frame is 26 (age = 497)
+the page mapped to frame 26 is 105: page 105 is now unmapped (not in memory)
+* Virtual address: 23084 [90, 44] Physical address: 6700 [26, 44] Value: 0
+  Virtual address: 36468 [142, 116] Physical address: 14452 [56, 116] Value: 0
+EVICT! oldest frame is 103 (age = 501)
+the page mapped to frame 103 is 171: page 171 is now unmapped (not in memory)
+* Virtual address: 33645 [131, 109] Physical address: 26477 [103, 109] Value: 0
+EVICT! oldest frame is 81 (age = 504)
+the page mapped to frame 81 is 144: page 144 is now unmapped (not in memory)
+* Virtual address: 25002 [97, 170] Physical address: 20906 [81, 170] Value: 24
+EVICT! oldest frame is 120 (age = 505)
+the page mapped to frame 120 is 235: page 235 is now unmapped (not in memory)
+* Virtual address: 53715 [209, 211] Physical address: 30931 [120, 211] Value: 116
+EVICT! oldest frame is 70 (age = 510)
+the page mapped to frame 70 is 175: page 175 is now unmapped (not in memory)
+* Virtual address: 60173 [235, 13] Physical address: 17933 [70, 13] Value: 0
+EVICT! oldest frame is 79 (age = 513)
+the page mapped to frame 79 is 109: page 109 is now unmapped (not in memory)
+* Virtual address: 46354 [181, 18] Physical address: 20242 [79, 18] Value: 45
+  Virtual address: 4708 [18, 100] Physical address: 18276 [71, 100] Value: 0
+EVICT! oldest frame is 3 (age = 514)
+the page mapped to frame 3 is 236: page 236 is now unmapped (not in memory)
+* Virtual address: 28208 [110, 48] Physical address: 816 [3, 48] Value: 0
+EVICT! oldest frame is 11 (age = 515)
+the page mapped to frame 11 is 0: page 0 is now unmapped (not in memory)
+* Virtual address: 58844 [229, 220] Physical address: 3036 [11, 220] Value: 0
+EVICT! oldest frame is 99 (age = 517)
+the page mapped to frame 99 is 186: page 186 is now unmapped (not in memory)
+* Virtual address: 22173 [86, 157] Physical address: 25501 [99, 157] Value: 0
+  Virtual address: 8535 [33, 87] Physical address: 22871 [89, 87] Value: 85
+EVICT! oldest frame is 98 (age = 518)
+the page mapped to frame 98 is 50: page 50 is now unmapped (not in memory)
+* Virtual address: 42261 [165, 21] Physical address: 25109 [98, 21] Value: 0
+EVICT! oldest frame is 68 (age = 519)
+the page mapped to frame 68 is 87: page 87 is now unmapped (not in memory)
+* Virtual address: 29687 [115, 247] Physical address: 17655 [68, 247] Value: -3
+EVICT! oldest frame is 61 (age = 521)
+the page mapped to frame 61 is 43: page 43 is now unmapped (not in memory)
+* Virtual address: 37799 [147, 167] Physical address: 15783 [61, 167] Value: -23
+EVICT! oldest frame is 88 (age = 527)
+the page mapped to frame 88 is 128: page 128 is now unmapped (not in memory)
+* Virtual address: 22566 [88, 38] Physical address: 22566 [88, 38] Value: 22
+  Virtual address: 62520 [244, 56] Physical address: 27192 [106, 56] Value: 0
+  Virtual address: 4098 [16, 2] Physical address: 30210 [118, 2] Value: 4
+EVICT! oldest frame is 91 (age = 529)
+the page mapped to frame 91 is 94: page 94 is now unmapped (not in memory)
+* Virtual address: 47999 [187, 127] Physical address: 23423 [91, 127] Value: -33
+EVICT! oldest frame is 67 (age = 532)
+the page mapped to frame 67 is 180: page 180 is now unmapped (not in memory)
+* Virtual address: 49660 [193, 252] Physical address: 17404 [67, 252] Value: 0
+EVICT! oldest frame is 127 (age = 533)
+the page mapped to frame 127 is 69: page 69 is now unmapped (not in memory)
+* Virtual address: 37063 [144, 199] Physical address: 32711 [127, 199] Value: 49
+  Virtual address: 41856 [163, 128] Physical address: 20608 [80, 128] Value: 0
+EVICT! oldest frame is 96 (age = 534)
+the page mapped to frame 96 is 233: page 233 is now unmapped (not in memory)
+* Virtual address: 5417 [21, 41] Physical address: 24617 [96, 41] Value: 0
+  Virtual address: 48856 [190, 216] Physical address: 7640 [29, 216] Value: 0
+EVICT! oldest frame is 58 (age = 535)
+the page mapped to frame 58 is 199: page 199 is now unmapped (not in memory)
+* Virtual address: 10682 [41, 186] Physical address: 15034 [58, 186] Value: 10
+EVICT! oldest frame is 105 (age = 539)
+the page mapped to frame 105 is 206: page 206 is now unmapped (not in memory)
+* Virtual address: 22370 [87, 98] Physical address: 26978 [105, 98] Value: 21
+  Virtual address: 63281 [247, 49] Physical address: 28977 [113, 49] Value: 0
+  Virtual address: 62452 [243, 244] Physical address: 24052 [93, 244] Value: 0
+  Virtual address: 50532 [197, 100] Physical address: 7780 [30, 100] Value: 0
+EVICT! oldest frame is 20 (age = 540)
+the page mapped to frame 20 is 155: page 155 is now unmapped (not in memory)
+* Virtual address: 9022 [35, 62] Physical address: 5182 [20, 62] Value: 8
+EVICT! oldest frame is 115 (age = 544)
+the page mapped to frame 115 is 106: page 106 is now unmapped (not in memory)
+* Virtual address: 59300 [231, 164] Physical address: 29604 [115, 164] Value: 0
+  Virtual address: 58660 [229, 36] Physical address: 2852 [11, 36] Value: 0
+EVICT! oldest frame is 119 (age = 550)
+the page mapped to frame 119 is 202: page 202 is now unmapped (not in memory)
+* Virtual address: 56401 [220, 81] Physical address: 30545 [119, 81] Value: 0
+  Virtual address: 8518 [33, 70] Physical address: 22854 [89, 70] Value: 8
+  Virtual address: 63066 [246, 90] Physical address: 10330 [40, 90] Value: 61
+  Virtual address: 63250 [247, 18] Physical address: 28946 [113, 18] Value: 61
+EVICT! oldest frame is 64 (age = 551)
+the page mapped to frame 64 is 135: page 135 is now unmapped (not in memory)
+* Virtual address: 48592 [189, 208] Physical address: 16592 [64, 208] Value: 0
+EVICT! oldest frame is 45 (age = 552)
+the page mapped to frame 45 is 53: page 53 is now unmapped (not in memory)
+* Virtual address: 28771 [112, 99] Physical address: 11619 [45, 99] Value: 24
+  Virtual address: 37673 [147, 41] Physical address: 15657 [61, 41] Value: 0
+EVICT! oldest frame is 60 (age = 553)
+the page mapped to frame 60 is 195: page 195 is now unmapped (not in memory)
+* Virtual address: 60776 [237, 104] Physical address: 15464 [60, 104] Value: 0
+  Virtual address: 56438 [220, 118] Physical address: 30582 [119, 118] Value: 55
+EVICT! oldest frame is 54 (age = 554)
+the page mapped to frame 54 is 212: page 212 is now unmapped (not in memory)
+* Virtual address: 60424 [236, 8] Physical address: 13832 [54, 8] Value: 0
+  Virtual address: 39993 [156, 57] Physical address: 29753 [116, 57] Value: 0
+  Virtual address: 56004 [218, 196] Physical address: 23748 [92, 196] Value: 0
+  Virtual address: 59002 [230, 122] Physical address: 19322 [75, 122] Value: 57
+  Virtual address: 33982 [132, 190] Physical address: 19902 [77, 190] Value: 33
+  Virtual address: 25498 [99, 154] Physical address: 29338 [114, 154] Value: 24
+EVICT! oldest frame is 10 (age = 557)
+the page mapped to frame 10 is 141: page 141 is now unmapped (not in memory)
+* Virtual address: 57047 [222, 215] Physical address: 2775 [10, 215] Value: -75
+  Virtual address: 1401 [5, 121] Physical address: 8057 [31, 121] Value: 0
+  Virtual address: 15130 [59, 26] Physical address: 4890 [19, 26] Value: 14
+EVICT! oldest frame is 24 (age = 559)
+the page mapped to frame 24 is 72: page 72 is now unmapped (not in memory)
+* Virtual address: 42960 [167, 208] Physical address: 6352 [24, 208] Value: 0
+EVICT! oldest frame is 72 (age = 561)
+the page mapped to frame 72 is 22: page 22 is now unmapped (not in memory)
+* Virtual address: 61827 [241, 131] Physical address: 18563 [72, 131] Value: 96
+EVICT! oldest frame is 14 (age = 562)
+the page mapped to frame 14 is 91: page 91 is now unmapped (not in memory)
+* Virtual address: 32442 [126, 186] Physical address: 3770 [14, 186] Value: 31
+  Virtual address: 64304 [251, 48] Physical address: 12336 [48, 48] Value: 0
+  Virtual address: 30273 [118, 65] Physical address: 6465 [25, 65] Value: 0
+EVICT! oldest frame is 44 (age = 566)
+the page mapped to frame 44 is 196: page 196 is now unmapped (not in memory)
+* Virtual address: 38082 [148, 194] Physical address: 11458 [44, 194] Value: 37
+  Virtual address: 22404 [87, 132] Physical address: 27012 [105, 132] Value: 0
+  Virtual address: 3808 [14, 224] Physical address: 26080 [101, 224] Value: 0
+EVICT! oldest frame is 108 (age = 567)
+the page mapped to frame 108 is 192: page 192 is now unmapped (not in memory)
+* Virtual address: 16883 [65, 243] Physical address: 27891 [108, 243] Value: 124
+  Virtual address: 23111 [90, 71] Physical address: 6727 [26, 71] Value: -111
+  Virtual address: 62417 [243, 209] Physical address: 24017 [93, 209] Value: 0
+  Virtual address: 60364 [235, 204] Physical address: 18124 [70, 204] Value: 0
+  Virtual address: 4542 [17, 190] Physical address: 4542 [17, 190] Value: 4
+EVICT! oldest frame is 2 (age = 568)
+the page mapped to frame 2 is 254: page 254 is now unmapped (not in memory)
+* Virtual address: 14829 [57, 237] Physical address: 749 [2, 237] Value: 0
+EVICT! oldest frame is 39 (age = 569)
+the page mapped to frame 39 is 117: page 117 is now unmapped (not in memory)
+* Virtual address: 44964 [175, 164] Physical address: 10148 [39, 164] Value: 0
+  Virtual address: 33924 [132, 132] Physical address: 19844 [77, 132] Value: 0
+  Virtual address: 2141 [8, 93] Physical address: 13149 [51, 93] Value: 0
+  Virtual address: 19245 [75, 45] Physical address: 6957 [27, 45] Value: 0
+  Virtual address: 47168 [184, 64] Physical address: 28736 [112, 64] Value: 0
+EVICT! oldest frame is 74 (age = 571)
+the page mapped to frame 74 is 182: page 182 is now unmapped (not in memory)
+* Virtual address: 24048 [93, 240] Physical address: 19184 [74, 240] Value: 0
+  Virtual address: 1022 [3, 254] Physical address: 16894 [65, 254] Value: 0
+  Virtual address: 23075 [90, 35] Physical address: 6691 [26, 35] Value: -120
+  Virtual address: 24888 [97, 56] Physical address: 20792 [81, 56] Value: 0
+EVICT! oldest frame is 15 (age = 573)
+the page mapped to frame 15 is 210: page 210 is now unmapped (not in memory)
+* Virtual address: 49247 [192, 95] Physical address: 3935 [15, 95] Value: 23
+EVICT! oldest frame is 122 (age = 578)
+the page mapped to frame 122 is 143: page 143 is now unmapped (not in memory)
+* Virtual address: 4900 [19, 36] Physical address: 31268 [122, 36] Value: 0
+  Virtual address: 22656 [88, 128] Physical address: 22656 [88, 128] Value: 0
+EVICT! oldest frame is 125 (age = 579)
+the page mapped to frame 125 is 216: page 216 is now unmapped (not in memory)
+* Virtual address: 34117 [133, 69] Physical address: 32069 [125, 69] Value: 0
+  Virtual address: 55555 [217, 3] Physical address: 12547 [49, 3] Value: 64
+  Virtual address: 48947 [191, 51] Physical address: 1075 [4, 51] Value: -52
+EVICT! oldest frame is 47 (age = 580)
+the page mapped to frame 47 is 46: page 46 is now unmapped (not in memory)
+* Virtual address: 59533 [232, 141] Physical address: 12173 [47, 141] Value: 0
+EVICT! oldest frame is 83 (age = 582)
+the page mapped to frame 83 is 77: page 77 is now unmapped (not in memory)
+* Virtual address: 21312 [83, 64] Physical address: 21312 [83, 64] Value: 0
+  Virtual address: 21415 [83, 167] Physical address: 21415 [83, 167] Value: -23
+  Virtual address: 813 [3, 45] Physical address: 16685 [65, 45] Value: 0
+  Virtual address: 19419 [75, 219] Physical address: 7131 [27, 219] Value: -10
+EVICT! oldest frame is 42 (age = 585)
+the page mapped to frame 42 is 201: page 201 is now unmapped (not in memory)
+* Virtual address: 1999 [7, 207] Physical address: 10959 [42, 207] Value: -13
+EVICT! oldest frame is 35 (age = 588)
+the page mapped to frame 35 is 62: page 62 is now unmapped (not in memory)
+* Virtual address: 20155 [78, 187] Physical address: 9147 [35, 187] Value: -82
+  Virtual address: 21521 [84, 17] Physical address: 9489 [37, 17] Value: 0
+EVICT! oldest frame is 50 (age = 589)
+the page mapped to frame 50 is 40: page 40 is now unmapped (not in memory)
+* Virtual address: 13670 [53, 102] Physical address: 12902 [50, 102] Value: 13
+  Virtual address: 19289 [75, 89] Physical address: 7001 [27, 89] Value: 0
+EVICT! oldest frame is 52 (age = 590)
+the page mapped to frame 52 is 211: page 211 is now unmapped (not in memory)
+* Virtual address: 58483 [228, 115] Physical address: 13427 [52, 115] Value: 28
+  Virtual address: 41318 [161, 102] Physical address: 15974 [62, 102] Value: 40
+  Virtual address: 16151 [63, 23] Physical address: 8471 [33, 23] Value: -59
+  Virtual address: 13611 [53, 43] Physical address: 12843 [50, 43] Value: 74
+  Virtual address: 21514 [84, 10] Physical address: 9482 [37, 10] Value: 21
+EVICT! oldest frame is 5 (age = 591)
+the page mapped to frame 5 is 80: page 80 is now unmapped (not in memory)
+* Virtual address: 13499 [52, 187] Physical address: 1467 [5, 187] Value: 46
+  Virtual address: 45583 [178, 15] Physical address: 4111 [16, 15] Value: -125
+  Virtual address: 49013 [191, 117] Physical address: 1141 [4, 117] Value: 0
+EVICT! oldest frame is 53 (age = 592)
+the page mapped to frame 53 is 224: page 224 is now unmapped (not in memory)
+* Virtual address: 64843 [253, 75] Physical address: 13643 [53, 75] Value: 82
+  Virtual address: 63485 [247, 253] Physical address: 29181 [113, 253] Value: 0
+  Virtual address: 38697 [151, 41] Physical address: 25641 [100, 41] Value: 0
+  Virtual address: 59188 [231, 52] Physical address: 29492 [115, 52] Value: 0
+EVICT! oldest frame is 63 (age = 595)
+the page mapped to frame 63 is 129: page 129 is now unmapped (not in memory)
+* Virtual address: 24593 [96, 17] Physical address: 16145 [63, 17] Value: 0
+EVICT! oldest frame is 109 (age = 597)
+the page mapped to frame 109 is 239: page 239 is now unmapped (not in memory)
+* Virtual address: 57641 [225, 41] Physical address: 27945 [109, 41] Value: 0
+  Virtual address: 36524 [142, 172] Physical address: 14508 [56, 172] Value: 0
+  Virtual address: 56980 [222, 148] Physical address: 2708 [10, 148] Value: 0
+EVICT! oldest frame is 124 (age = 599)
+the page mapped to frame 124 is 85: page 85 is now unmapped (not in memory)
+* Virtual address: 36810 [143, 202] Physical address: 31946 [124, 202] Value: 35
+  Virtual address: 6096 [23, 208] Physical address: 22480 [87, 208] Value: 0
+EVICT! oldest frame is 6 (age = 600)
+the page mapped to frame 6 is 20: page 20 is now unmapped (not in memory)
+* Virtual address: 11070 [43, 62] Physical address: 1598 [6, 62] Value: 10
+  Virtual address: 60124 [234, 220] Physical address: 21212 [82, 220] Value: 0
+EVICT! oldest frame is 23 (age = 601)
+the page mapped to frame 23 is 179: page 179 is now unmapped (not in memory)
+* Virtual address: 37576 [146, 200] Physical address: 6088 [23, 200] Value: 0
+  Virtual address: 15096 [58, 248] Physical address: 8440 [32, 248] Value: 0
+EVICT! oldest frame is 55 (age = 602)
+the page mapped to frame 55 is 127: page 127 is now unmapped (not in memory)
+* Virtual address: 45247 [176, 191] Physical address: 14271 [55, 191] Value: 47
+EVICT! oldest frame is 121 (age = 610)
+the page mapped to frame 121 is 111: page 111 is now unmapped (not in memory)
+* Virtual address: 32783 [128, 15] Physical address: 30991 [121, 15] Value: 3
+  Virtual address: 58390 [228, 22] Physical address: 13334 [52, 22] Value: 57
+  Virtual address: 60873 [237, 201] Physical address: 15561 [60, 201] Value: 0
+EVICT! oldest frame is 102 (age = 614)
+the page mapped to frame 102 is 70: page 70 is now unmapped (not in memory)
+* Virtual address: 23719 [92, 167] Physical address: 26279 [102, 167] Value: 41
+EVICT! oldest frame is 13 (age = 616)
+the page mapped to frame 13 is 12: page 12 is now unmapped (not in memory)
+* Virtual address: 24385 [95, 65] Physical address: 3393 [13, 65] Value: 0
+  Virtual address: 22307 [87, 35] Physical address: 26915 [105, 35] Value: -56
+EVICT! oldest frame is 73 (age = 617)
+the page mapped to frame 73 is 103: page 103 is now unmapped (not in memory)
+* Virtual address: 17375 [67, 223] Physical address: 18911 [73, 223] Value: -9
+EVICT! oldest frame is 111 (age = 618)
+the page mapped to frame 111 is 173: page 173 is now unmapped (not in memory)
+* Virtual address: 15990 [62, 118] Physical address: 28534 [111, 118] Value: 15
+EVICT! oldest frame is 36 (age = 619)
+the page mapped to frame 36 is 152: page 152 is now unmapped (not in memory)
+* Virtual address: 20526 [80, 46] Physical address: 9262 [36, 46] Value: 20
+EVICT! oldest frame is 94 (age = 621)
+the page mapped to frame 94 is 27: page 27 is now unmapped (not in memory)
+* Virtual address: 25904 [101, 48] Physical address: 24112 [94, 48] Value: 0
+EVICT! oldest frame is 66 (age = 624)
+the page mapped to frame 66 is 213: page 213 is now unmapped (not in memory)
+* Virtual address: 42224 [164, 240] Physical address: 17136 [66, 240] Value: 0
+  Virtual address: 9311 [36, 95] Physical address: 11103 [43, 95] Value: 23
+  Virtual address: 7862 [30, 182] Physical address: 31670 [123, 182] Value: 7
+  Virtual address: 3835 [14, 251] Physical address: 26107 [101, 251] Value: -66
+  Virtual address: 30535 [119, 71] Physical address: 10567 [41, 71] Value: -47
+EVICT! oldest frame is 126 (age = 627)
+the page mapped to frame 126 is 48: page 48 is now unmapped (not in memory)
+* Virtual address: 65179 [254, 155] Physical address: 32411 [126, 155] Value: -90
+EVICT! oldest frame is 12 (age = 628)
+the page mapped to frame 12 is 160: page 160 is now unmapped (not in memory)
+* Virtual address: 57387 [224, 43] Physical address: 3115 [12, 43] Value: 10
+  Virtual address: 63579 [248, 91] Physical address: 24923 [97, 91] Value: 22
+  Virtual address: 4946 [19, 82] Physical address: 31314 [122, 82] Value: 4
+  Virtual address: 9037 [35, 77] Physical address: 5197 [20, 77] Value: 0
+  Virtual address: 61033 [238, 105] Physical address: 30057 [117, 105] Value: 0
+EVICT! oldest frame is 104 (age = 629)
+the page mapped to frame 104 is 226: page 226 is now unmapped (not in memory)
+* Virtual address: 55543 [216, 247] Physical address: 26871 [104, 247] Value: 61
+EVICT! oldest frame is 38 (age = 631)
+the page mapped to frame 38 is 60: page 60 is now unmapped (not in memory)
+* Virtual address: 50361 [196, 185] Physical address: 9913 [38, 185] Value: 0
+EVICT! oldest frame is 1 (age = 633)
+the page mapped to frame 1 is 71: page 71 is now unmapped (not in memory)
+* Virtual address: 6480 [25, 80] Physical address: 336 [1, 80] Value: 0
+  Virtual address: 14042 [54, 218] Physical address: 21722 [84, 218] Value: 13
+  Virtual address: 21531 [84, 27] Physical address: 9499 [37, 27] Value: 6
+  Virtual address: 39195 [153, 27] Physical address: 5659 [22, 27] Value: 70
+  Virtual address: 37511 [146, 135] Physical address: 6023 [23, 135] Value: -95
+  Virtual address: 23696 [92, 144] Physical address: 26256 [102, 144] Value: 0
+EVICT! oldest frame is 9 (age = 634)
+the page mapped to frame 9 is 188: page 188 is now unmapped (not in memory)
+* Virtual address: 27440 [107, 48] Physical address: 2352 [9, 48] Value: 0
+  Virtual address: 28201 [110, 41] Physical address: 809 [3, 41] Value: 0
+  Virtual address: 23072 [90, 32] Physical address: 6688 [26, 32] Value: 0
+  Virtual address: 7814 [30, 134] Physical address: 31622 [123, 134] Value: 7
+  Virtual address: 6552 [25, 152] Physical address: 408 [1, 152] Value: 0
+EVICT! oldest frame is 69 (age = 638)
+the page mapped to frame 69 is 162: page 162 is now unmapped (not in memory)
+* Virtual address: 43637 [170, 117] Physical address: 17781 [69, 117] Value: 0
+EVICT! oldest frame is 57 (age = 639)
+the page mapped to frame 57 is 1: page 1 is now unmapped (not in memory)
+* Virtual address: 35113 [137, 41] Physical address: 14633 [57, 41] Value: 0
+  Virtual address: 34890 [136, 74] Physical address: 5450 [21, 74] Value: 34
+EVICT! oldest frame is 59 (age = 641)
+the page mapped to frame 59 is 81: page 81 is now unmapped (not in memory)
+* Virtual address: 61297 [239, 113] Physical address: 15217 [59, 113] Value: 0
+  Virtual address: 45633 [178, 65] Physical address: 4161 [16, 65] Value: 0
+  Virtual address: 61431 [239, 247] Physical address: 15351 [59, 247] Value: -3
+EVICT! oldest frame is 78 (age = 642)
+the page mapped to frame 78 is 221: page 221 is now unmapped (not in memory)
+* Virtual address: 46032 [179, 208] Physical address: 20176 [78, 208] Value: 0
+EVICT! oldest frame is 46 (age = 644)
+the page mapped to frame 46 is 104: page 104 is now unmapped (not in memory)
+* Virtual address: 18774 [73, 86] Physical address: 11862 [46, 86] Value: 18
+  Virtual address: 62991 [246, 15] Physical address: 10255 [40, 15] Value: -125
+EVICT! oldest frame is 34 (age = 645)
+the page mapped to frame 34 is 174: page 174 is now unmapped (not in memory)
+* Virtual address: 28059 [109, 155] Physical address: 8859 [34, 155] Value: 102
+  Virtual address: 35229 [137, 157] Physical address: 14749 [57, 157] Value: 0
+  Virtual address: 51230 [200, 30] Physical address: 22046 [86, 30] Value: 50
+EVICT! oldest frame is 18 (age = 647)
+the page mapped to frame 18 is 250: page 250 is now unmapped (not in memory)
+* Virtual address: 14405 [56, 69] Physical address: 4677 [18, 69] Value: 0
+EVICT! oldest frame is 76 (age = 651)
+the page mapped to frame 76 is 168: page 168 is now unmapped (not in memory)
+* Virtual address: 52242 [204, 18] Physical address: 19474 [76, 18] Value: 51
+EVICT! oldest frame is 95 (age = 653)
+the page mapped to frame 95 is 9: page 9 is now unmapped (not in memory)
+* Virtual address: 43153 [168, 145] Physical address: 24465 [95, 145] Value: 0
+EVICT! oldest frame is 85 (age = 663)
+the page mapped to frame 85 is 24: page 24 is now unmapped (not in memory)
+* Virtual address: 2709 [10, 149] Physical address: 21909 [85, 149] Value: 0
+  Virtual address: 47963 [187, 91] Physical address: 23387 [91, 91] Value: -42
+  Virtual address: 36943 [144, 79] Physical address: 32591 [127, 79] Value: 19
+EVICT! oldest frame is 107 (age = 666)
+the page mapped to frame 107 is 39: page 39 is now unmapped (not in memory)
+* Virtual address: 54066 [211, 50] Physical address: 27442 [107, 50] Value: 52
+EVICT! oldest frame is 110 (age = 667)
+the page mapped to frame 110 is 154: page 154 is now unmapped (not in memory)
+* Virtual address: 10054 [39, 70] Physical address: 28230 [110, 70] Value: 9
+  Virtual address: 43051 [168, 43] Physical address: 24363 [95, 43] Value: 10
+EVICT! oldest frame is 0 (age = 668)
+the page mapped to frame 0 is 37: page 37 is now unmapped (not in memory)
+* Virtual address: 11525 [45, 5] Physical address: 5 [0, 5] Value: 0
+EVICT! oldest frame is 28 (age = 671)
+the page mapped to frame 28 is 76: page 76 is now unmapped (not in memory)
+* Virtual address: 17684 [69, 20] Physical address: 7188 [28, 20] Value: 0
+EVICT! oldest frame is 90 (age = 674)
+the page mapped to frame 90 is 177: page 177 is now unmapped (not in memory)
+* Virtual address: 41681 [162, 209] Physical address: 23249 [90, 209] Value: 0
+EVICT! oldest frame is 8 (age = 675)
+the page mapped to frame 8 is 114: page 114 is now unmapped (not in memory)
+* Virtual address: 27883 [108, 235] Physical address: 2283 [8, 235] Value: 58
+  Virtual address: 56909 [222, 77] Physical address: 2637 [10, 77] Value: 0
+  Virtual address: 45772 [178, 204] Physical address: 4300 [16, 204] Value: 0
+  Virtual address: 27496 [107, 104] Physical address: 2408 [9, 104] Value: 0
+EVICT! oldest frame is 7 (age = 676)
+the page mapped to frame 7 is 31: page 31 is now unmapped (not in memory)
+* Virtual address: 46842 [182, 250] Physical address: 2042 [7, 250] Value: 45
+  Virtual address: 38734 [151, 78] Physical address: 25678 [100, 78] Value: 37
+EVICT! oldest frame is 103 (age = 682)
+the page mapped to frame 103 is 131: page 131 is now unmapped (not in memory)
+* Virtual address: 28972 [113, 44] Physical address: 26412 [103, 44] Value: 0
+EVICT! oldest frame is 120 (age = 684)
+the page mapped to frame 120 is 209: page 209 is now unmapped (not in memory)
+* Virtual address: 59684 [233, 36] Physical address: 30756 [120, 36] Value: 0
+EVICT! oldest frame is 79 (age = 686)
+the page mapped to frame 79 is 181: page 181 is now unmapped (not in memory)
+* Virtual address: 11384 [44, 120] Physical address: 20344 [79, 120] Value: 0
+EVICT! oldest frame is 71 (age = 687)
+the page mapped to frame 71 is 18: page 18 is now unmapped (not in memory)
+* Virtual address: 21018 [82, 26] Physical address: 18202 [71, 26] Value: 20
+  Virtual address: 2192 [8, 144] Physical address: 13200 [51, 144] Value: 0
+EVICT! oldest frame is 99 (age = 690)
+the page mapped to frame 99 is 86: page 86 is now unmapped (not in memory)
+* Virtual address: 18384 [71, 208] Physical address: 25552 [99, 208] Value: 0
+  Virtual address: 13464 [52, 152] Physical address: 1432 [5, 152] Value: 0
+EVICT! oldest frame is 98 (age = 692)
+the page mapped to frame 98 is 165: page 165 is now unmapped (not in memory)
+* Virtual address: 31018 [121, 42] Physical address: 25130 [98, 42] Value: 30
+EVICT! oldest frame is 68 (age = 693)
+the page mapped to frame 68 is 115: page 115 is now unmapped (not in memory)
+* Virtual address: 62958 [245, 238] Physical address: 17646 [68, 238] Value: 61
+  Virtual address: 30611 [119, 147] Physical address: 10643 [41, 147] Value: -28
+  Virtual address: 1913 [7, 121] Physical address: 10873 [42, 121] Value: 0
+  Virtual address: 18904 [73, 216] Physical address: 11992 [46, 216] Value: 0
+EVICT! oldest frame is 106 (age = 696)
+the page mapped to frame 106 is 244: page 244 is now unmapped (not in memory)
+* Virtual address: 26773 [104, 149] Physical address: 27285 [106, 149] Value: 0
+  Virtual address: 55491 [216, 195] Physical address: 26819 [104, 195] Value: 48
+EVICT! oldest frame is 118 (age = 697)
+the page mapped to frame 118 is 16: page 16 is now unmapped (not in memory)
+* Virtual address: 21899 [85, 139] Physical address: 30347 [118, 139] Value: 98
+  Virtual address: 64413 [251, 157] Physical address: 12445 [48, 157] Value: 0
+  Virtual address: 47134 [184, 30] Physical address: 28702 [112, 30] Value: 46
+  Virtual address: 23172 [90, 132] Physical address: 6788 [26, 132] Value: 0
+EVICT! oldest frame is 67 (age = 699)
+the page mapped to frame 67 is 193: page 193 is now unmapped (not in memory)
+* Virtual address: 7262 [28, 94] Physical address: 17246 [67, 94] Value: 7
+EVICT! oldest frame is 80 (age = 701)
+the page mapped to frame 80 is 163: page 163 is now unmapped (not in memory)
+* Virtual address: 12705 [49, 161] Physical address: 20641 [80, 161] Value: 0
+EVICT! oldest frame is 96 (age = 702)
+the page mapped to frame 96 is 21: page 21 is now unmapped (not in memory)
+* Virtual address: 7522 [29, 98] Physical address: 24674 [96, 98] Value: 7
+  Virtual address: 58815 [229, 191] Physical address: 3007 [11, 191] Value: 111
+  Virtual address: 34916 [136, 100] Physical address: 5476 [21, 100] Value: 0
+  Virtual address: 3802 [14, 218] Physical address: 26074 [101, 218] Value: 3
+EVICT! oldest frame is 29 (age = 703)
+the page mapped to frame 29 is 190: page 190 is now unmapped (not in memory)
+* Virtual address: 58008 [226, 152] Physical address: 7576 [29, 152] Value: 0
+EVICT! oldest frame is 58 (age = 704)
+the page mapped to frame 58 is 41: page 41 is now unmapped (not in memory)
+* Virtual address: 1239 [4, 215] Physical address: 15063 [58, 215] Value: 53
+EVICT! oldest frame is 30 (age = 708)
+the page mapped to frame 30 is 197: page 197 is now unmapped (not in memory)
+* Virtual address: 63947 [249, 203] Physical address: 7883 [30, 203] Value: 114
+EVICT! oldest frame is 89 (age = 713)
+the page mapped to frame 89 is 33: page 33 is now unmapped (not in memory)
+* Virtual address: 381 [1, 125] Physical address: 22909 [89, 125] Value: 0
+  Virtual address: 60734 [237, 62] Physical address: 15422 [60, 62] Value: 59
+EVICT! oldest frame is 64 (age = 716)
+the page mapped to frame 64 is 189: page 189 is now unmapped (not in memory)
+* Virtual address: 48769 [190, 129] Physical address: 16513 [64, 129] Value: 0
+EVICT! oldest frame is 45 (age = 717)
+the page mapped to frame 45 is 112: page 112 is now unmapped (not in memory)
+* Virtual address: 41938 [163, 210] Physical address: 11730 [45, 210] Value: 40
+  Virtual address: 38025 [148, 137] Physical address: 11401 [44, 137] Value: 0
+EVICT! oldest frame is 61 (age = 718)
+the page mapped to frame 61 is 147: page 147 is now unmapped (not in memory)
+* Virtual address: 55099 [215, 59] Physical address: 15675 [61, 59] Value: -50
+EVICT! oldest frame is 119 (age = 720)
+the page mapped to frame 119 is 220: page 220 is now unmapped (not in memory)
+* Virtual address: 56691 [221, 115] Physical address: 30579 [119, 115] Value: 92
+EVICT! oldest frame is 54 (age = 721)
+the page mapped to frame 54 is 236: page 236 is now unmapped (not in memory)
+* Virtual address: 39530 [154, 106] Physical address: 13930 [54, 106] Value: 38
+  Virtual address: 59003 [230, 123] Physical address: 19323 [75, 123] Value: -98
+  Virtual address: 6029 [23, 141] Physical address: 22413 [87, 141] Value: 0
+EVICT! oldest frame is 116 (age = 722)
+the page mapped to frame 116 is 156: page 156 is now unmapped (not in memory)
+* Virtual address: 20920 [81, 184] Physical address: 29880 [116, 184] Value: 0
+EVICT! oldest frame is 92 (age = 723)
+the page mapped to frame 92 is 218: page 218 is now unmapped (not in memory)
+* Virtual address: 8077 [31, 141] Physical address: 23693 [92, 141] Value: 0
+EVICT! oldest frame is 114 (age = 726)
+the page mapped to frame 114 is 99: page 99 is now unmapped (not in memory)
+* Virtual address: 42633 [166, 137] Physical address: 29321 [114, 137] Value: 0
+EVICT! oldest frame is 31 (age = 728)
+the page mapped to frame 31 is 5: page 5 is now unmapped (not in memory)
+* Virtual address: 17443 [68, 35] Physical address: 7971 [31, 35] Value: 8
+EVICT! oldest frame is 19 (age = 729)
+the page mapped to frame 19 is 59: page 59 is now unmapped (not in memory)
+* Virtual address: 53570 [209, 66] Physical address: 4930 [19, 66] Value: 52
+EVICT! oldest frame is 24 (age = 730)
+the page mapped to frame 24 is 167: page 167 is now unmapped (not in memory)
+* Virtual address: 22833 [89, 49] Physical address: 6193 [24, 49] Value: 0
+  Virtual address: 3782 [14, 198] Physical address: 26054 [101, 198] Value: 3
+EVICT! oldest frame is 72 (age = 731)
+the page mapped to frame 72 is 241: page 241 is now unmapped (not in memory)
+* Virtual address: 47758 [186, 142] Physical address: 18574 [72, 142] Value: 46
+EVICT! oldest frame is 14 (age = 732)
+the page mapped to frame 14 is 126: page 126 is now unmapped (not in memory)
+* Virtual address: 22136 [86, 120] Physical address: 3704 [14, 120] Value: 0
+  Virtual address: 22427 [87, 155] Physical address: 27035 [105, 155] Value: -26
+  Virtual address: 23867 [93, 59] Physical address: 19003 [74, 59] Value: 78
+  Virtual address: 59968 [234, 64] Physical address: 21056 [82, 64] Value: 0
+EVICT! oldest frame is 25 (age = 734)
+the page mapped to frame 25 is 118: page 118 is now unmapped (not in memory)
+* Virtual address: 62166 [242, 214] Physical address: 6614 [25, 214] Value: 60
+EVICT! oldest frame is 108 (age = 738)
+the page mapped to frame 108 is 65: page 65 is now unmapped (not in memory)
+* Virtual address: 6972 [27, 60] Physical address: 27708 [108, 60] Value: 0
+  Virtual address: 63684 [248, 196] Physical address: 25028 [97, 196] Value: 0
+EVICT! oldest frame is 93 (age = 740)
+the page mapped to frame 93 is 243: page 243 is now unmapped (not in memory)
+* Virtual address: 46388 [181, 52] Physical address: 23860 [93, 52] Value: 0
+  Virtual address: 41942 [163, 214] Physical address: 11734 [45, 214] Value: 40
+  Virtual address: 36524 [142, 172] Physical address: 14508 [56, 172] Value: 0
+  Virtual address: 9323 [36, 107] Physical address: 11115 [43, 107] Value: 26
+  Virtual address: 31114 [121, 138] Physical address: 25226 [98, 138] Value: 30
+  Virtual address: 22345 [87, 73] Physical address: 26953 [105, 73] Value: 0
+  Virtual address: 46463 [181, 127] Physical address: 23935 [93, 127] Value: 95
+EVICT! oldest frame is 70 (age = 741)
+the page mapped to frame 70 is 235: page 235 is now unmapped (not in memory)
+* Virtual address: 54671 [213, 143] Physical address: 18063 [70, 143] Value: 99
+  Virtual address: 9214 [35, 254] Physical address: 5374 [20, 254] Value: 8
+  Virtual address: 7257 [28, 89] Physical address: 17241 [67, 89] Value: 0
+EVICT! oldest frame is 17 (age = 742)
+the page mapped to frame 17 is 17: page 17 is now unmapped (not in memory)
+* Virtual address: 33150 [129, 126] Physical address: 4478 [17, 126] Value: 32
+  Virtual address: 41565 [162, 93] Physical address: 23133 [90, 93] Value: 0
+EVICT! oldest frame is 2 (age = 743)
+the page mapped to frame 2 is 57: page 57 is now unmapped (not in memory)
+* Virtual address: 26214 [102, 102] Physical address: 614 [2, 102] Value: 25
+  Virtual address: 3595 [14, 11] Physical address: 25867 [101, 11] Value: -126
+EVICT! oldest frame is 39 (age = 744)
+the page mapped to frame 39 is 175: page 175 is now unmapped (not in memory)
+* Virtual address: 17932 [70, 12] Physical address: 9996 [39, 12] Value: 0
+EVICT! oldest frame is 77 (age = 745)
+the page mapped to frame 77 is 132: page 132 is now unmapped (not in memory)
+* Virtual address: 34660 [135, 100] Physical address: 19812 [77, 100] Value: 0
+EVICT! oldest frame is 81 (age = 752)
+the page mapped to frame 81 is 97: page 97 is now unmapped (not in memory)
+* Virtual address: 51961 [202, 249] Physical address: 20985 [81, 249] Value: 0
+  Virtual address: 58634 [229, 10] Physical address: 2826 [11, 10] Value: 57
+  Virtual address: 57990 [226, 134] Physical address: 7558 [29, 134] Value: 56
+EVICT! oldest frame is 15 (age = 753)
+the page mapped to frame 15 is 192: page 192 is now unmapped (not in memory)
+* Virtual address: 28848 [112, 176] Physical address: 4016 [15, 176] Value: 0
+EVICT! oldest frame is 88 (age = 755)
+the page mapped to frame 88 is 88: page 88 is now unmapped (not in memory)
+* Virtual address: 49920 [195, 0] Physical address: 22528 [88, 0] Value: 0
+  Virtual address: 18351 [71, 175] Physical address: 25519 [99, 175] Value: -21
+  Virtual address: 53669 [209, 165] Physical address: 5029 [19, 165] Value: 0
+EVICT! oldest frame is 125 (age = 756)
+the page mapped to frame 125 is 133: page 133 is now unmapped (not in memory)
+* Virtual address: 33996 [132, 204] Physical address: 32204 [125, 204] Value: 0
+EVICT! oldest frame is 49 (age = 757)
+the page mapped to frame 49 is 217: page 217 is now unmapped (not in memory)
+* Virtual address: 6741 [26, 85] Physical address: 12629 [49, 85] Value: 0
+EVICT! oldest frame is 47 (age = 759)
+the page mapped to frame 47 is 232: page 232 is now unmapped (not in memory)
+* Virtual address: 64098 [250, 98] Physical address: 12130 [47, 98] Value: 62
+EVICT! oldest frame is 83 (age = 761)
+the page mapped to frame 83 is 83: page 83 is now unmapped (not in memory)
+* Virtual address: 606 [2, 94] Physical address: 21342 [83, 94] Value: 0
+EVICT! oldest frame is 65 (age = 762)
+the page mapped to frame 65 is 3: page 3 is now unmapped (not in memory)
+* Virtual address: 27383 [106, 247] Physical address: 16887 [65, 247] Value: -67
+  Virtual address: 63140 [246, 164] Physical address: 10404 [40, 164] Value: 0
+EVICT! oldest frame is 35 (age = 765)
+the page mapped to frame 35 is 78: page 78 is now unmapped (not in memory)
+* Virtual address: 32228 [125, 228] Physical address: 9188 [35, 228] Value: 0
+  Virtual address: 63437 [247, 205] Physical address: 29133 [113, 205] Value: 0
+  Virtual address: 29085 [113, 157] Physical address: 26525 [103, 157] Value: 0
+  Virtual address: 65080 [254, 56] Physical address: 32312 [126, 56] Value: 0
+  Virtual address: 38753 [151, 97] Physical address: 25697 [100, 97] Value: 0
+  Virtual address: 16041 [62, 169] Physical address: 28585 [111, 169] Value: 0
+  Virtual address: 9041 [35, 81] Physical address: 5201 [20, 81] Value: 0
+  Virtual address: 42090 [164, 106] Physical address: 17002 [66, 106] Value: 41
+  Virtual address: 46388 [181, 52] Physical address: 23860 [93, 52] Value: 0
+  Virtual address: 63650 [248, 162] Physical address: 24994 [97, 162] Value: 62
+  Virtual address: 36636 [143, 28] Physical address: 31772 [124, 28] Value: 0
+  Virtual address: 21947 [85, 187] Physical address: 30395 [118, 187] Value: 110
+EVICT! oldest frame is 27 (age = 768)
+the page mapped to frame 27 is 75: page 75 is now unmapped (not in memory)
+* Virtual address: 19833 [77, 121] Physical address: 7033 [27, 121] Value: 0
+  Virtual address: 36464 [142, 112] Physical address: 14448 [56, 112] Value: 0
+EVICT! oldest frame is 62 (age = 770)
+the page mapped to frame 62 is 161: page 161 is now unmapped (not in memory)
+* Virtual address: 8541 [33, 93] Physical address: 15965 [62, 93] Value: 0
+  Virtual address: 12712 [49, 168] Physical address: 20648 [80, 168] Value: 0
+  Virtual address: 48955 [191, 59] Physical address: 1083 [4, 59] Value: -50
+  Virtual address: 39206 [153, 38] Physical address: 5670 [22, 38] Value: 38
+EVICT! oldest frame is 33 (age = 771)
+the page mapped to frame 33 is 63: page 63 is now unmapped (not in memory)
+* Virtual address: 15578 [60, 218] Physical address: 8666 [33, 218] Value: 15
+EVICT! oldest frame is 50 (age = 772)
+the page mapped to frame 50 is 53: page 53 is now unmapped (not in memory)
+* Virtual address: 49205 [192, 53] Physical address: 12853 [50, 53] Value: 0
+  Virtual address: 7731 [30, 51] Physical address: 31539 [123, 51] Value: -116
+  Virtual address: 43046 [168, 38] Physical address: 24358 [95, 38] Value: 42
+EVICT! oldest frame is 53 (age = 777)
+the page mapped to frame 53 is 253: page 253 is now unmapped (not in memory)
+* Virtual address: 60498 [236, 82] Physical address: 13650 [53, 82] Value: 59
+  Virtual address: 9237 [36, 21] Physical address: 11029 [43, 21] Value: 0
+  Virtual address: 47706 [186, 90] Physical address: 18522 [72, 90] Value: 46
+EVICT! oldest frame is 115 (age = 780)
+the page mapped to frame 115 is 231: page 231 is now unmapped (not in memory)
+* Virtual address: 43973 [171, 197] Physical address: 29637 [115, 197] Value: 0
+  Virtual address: 42008 [164, 24] Physical address: 16920 [66, 24] Value: 0
+  Virtual address: 27460 [107, 68] Physical address: 2372 [9, 68] Value: 0
+EVICT! oldest frame is 63 (age = 781)
+the page mapped to frame 63 is 96: page 96 is now unmapped (not in memory)
+* Virtual address: 24999 [97, 167] Physical address: 16295 [63, 167] Value: 105
+  Virtual address: 51933 [202, 221] Physical address: 20957 [81, 221] Value: 0
+EVICT! oldest frame is 109 (age = 782)
+the page mapped to frame 109 is 225: page 225 is now unmapped (not in memory)
+* Virtual address: 34070 [133, 22] Physical address: 27926 [109, 22] Value: 33
+  Virtual address: 65155 [254, 131] Physical address: 32387 [126, 131] Value: -96
+  Virtual address: 59955 [234, 51] Physical address: 21043 [82, 51] Value: -116
+  Virtual address: 9277 [36, 61] Physical address: 11069 [43, 61] Value: 0
+EVICT! oldest frame is 6 (age = 787)
+the page mapped to frame 6 is 43: page 43 is now unmapped (not in memory)
+* Virtual address: 20420 [79, 196] Physical address: 1732 [6, 196] Value: 0
+EVICT! oldest frame is 32 (age = 790)
+the page mapped to frame 32 is 58: page 58 is now unmapped (not in memory)
+* Virtual address: 44860 [175, 60] Physical address: 8252 [32, 60] Value: 0
+EVICT! oldest frame is 55 (age = 791)
+the page mapped to frame 55 is 176: page 176 is now unmapped (not in memory)
+* Virtual address: 50992 [199, 48] Physical address: 14128 [55, 48] Value: 0
+EVICT! oldest frame is 121 (age = 792)
+the page mapped to frame 121 is 128: page 128 is now unmapped (not in memory)
+* Virtual address: 10583 [41, 87] Physical address: 31063 [121, 87] Value: 85
+EVICT! oldest frame is 52 (age = 793)
+the page mapped to frame 52 is 228: page 228 is now unmapped (not in memory)
+* Virtual address: 57751 [225, 151] Physical address: 13463 [52, 151] Value: 101
+  Virtual address: 23195 [90, 155] Physical address: 6811 [26, 155] Value: -90
+  Virtual address: 27227 [106, 91] Physical address: 16731 [65, 91] Value: -106
+EVICT! oldest frame is 13 (age = 796)
+the page mapped to frame 13 is 95: page 95 is now unmapped (not in memory)
+* Virtual address: 42816 [167, 64] Physical address: 3392 [13, 64] Value: 0
+EVICT! oldest frame is 73 (age = 798)
+the page mapped to frame 73 is 67: page 67 is now unmapped (not in memory)
+* Virtual address: 58219 [227, 107] Physical address: 18795 [73, 107] Value: -38
+  Virtual address: 37606 [146, 230] Physical address: 6118 [23, 230] Value: 36
+  Virtual address: 18426 [71, 250] Physical address: 25594 [99, 250] Value: 17
+  Virtual address: 21238 [82, 246] Physical address: 18422 [71, 246] Value: 20
+EVICT! oldest frame is 36 (age = 800)
+the page mapped to frame 36 is 80: page 80 is now unmapped (not in memory)
+* Virtual address: 11983 [46, 207] Physical address: 9423 [36, 207] Value: -77
+EVICT! oldest frame is 94 (age = 801)
+the page mapped to frame 94 is 101: page 101 is now unmapped (not in memory)
+* Virtual address: 48394 [189, 10] Physical address: 24074 [94, 10] Value: 47
+EVICT! oldest frame is 12 (age = 808)
+the page mapped to frame 12 is 224: page 224 is now unmapped (not in memory)
+* Virtual address: 11036 [43, 28] Physical address: 3100 [12, 28] Value: 0
+  Virtual address: 30557 [119, 93] Physical address: 10589 [41, 93] Value: 0
+EVICT! oldest frame is 122 (age = 810)
+the page mapped to frame 122 is 19: page 19 is now unmapped (not in memory)
+* Virtual address: 23453 [91, 157] Physical address: 31389 [122, 157] Value: 0
+EVICT! oldest frame is 117 (age = 812)
+the page mapped to frame 117 is 238: page 238 is now unmapped (not in memory)
+* Virtual address: 49847 [194, 183] Physical address: 30135 [117, 183] Value: -83
+EVICT! oldest frame is 38 (age = 814)
+the page mapped to frame 38 is 196: page 196 is now unmapped (not in memory)
+* Virtual address: 30032 [117, 80] Physical address: 9808 [38, 80] Value: 0
+  Virtual address: 48065 [187, 193] Physical address: 23489 [91, 193] Value: 0
+  Virtual address: 6957 [27, 45] Physical address: 27693 [108, 45] Value: 0
+  Virtual address: 2301 [8, 253] Physical address: 13309 [51, 253] Value: 0
+  Virtual address: 7736 [30, 56] Physical address: 31544 [123, 56] Value: 0
+EVICT! oldest frame is 84 (age = 816)
+the page mapped to frame 84 is 54: page 54 is now unmapped (not in memory)
+* Virtual address: 31260 [122, 28] Physical address: 21532 [84, 28] Value: 0
+EVICT! oldest frame is 37 (age = 817)
+the page mapped to frame 37 is 84: page 84 is now unmapped (not in memory)
+* Virtual address: 17071 [66, 175] Physical address: 9647 [37, 175] Value: -85
+EVICT! oldest frame is 102 (age = 820)
+the page mapped to frame 102 is 92: page 92 is now unmapped (not in memory)
+* Virtual address: 8940 [34, 236] Physical address: 26348 [102, 236] Value: 0
+EVICT! oldest frame is 3 (age = 822)
+the page mapped to frame 3 is 110: page 110 is now unmapped (not in memory)
+* Virtual address: 9929 [38, 201] Physical address: 969 [3, 201] Value: 0
+EVICT! oldest frame is 1 (age = 825)
+the page mapped to frame 1 is 25: page 25 is now unmapped (not in memory)
+* Virtual address: 45563 [177, 251] Physical address: 507 [1, 251] Value: 126
+EVICT! oldest frame is 69 (age = 826)
+the page mapped to frame 69 is 170: page 170 is now unmapped (not in memory)
+* Virtual address: 12107 [47, 75] Physical address: 17739 [69, 75] Value: -46
+
